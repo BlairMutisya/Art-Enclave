@@ -1,6 +1,6 @@
 // CollectionPage.js
 import React from 'react';
-import Collection from '../components/Collection';
+import Collection from '../Components/Collection';
 
 const CollectionPage = () => {
   return <Collection />;
