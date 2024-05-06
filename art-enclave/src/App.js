@@ -1,3 +1,4 @@
+// App.js
 import React, { useState, useEffect } from 'react';
 import { BrowserRouter as Router, Route, Switch } from 'react-router-dom';
 import axios from 'axios';
@@ -10,6 +11,7 @@ import MyCollection from './MyCollection';
 const App = () => {
   const [darkMode, setDarkMode] = useState(false);
   const [collection, setCollection] = useState([]);
+
   useEffect(() => {
     // Fetch data from API and set collection state
     axios.get('https://api.harvardartmuseums.org/Object', {
@@ -36,3 +38,23 @@ const App = () => {
   const removeFromCollection = (id) => {
     setCollection(collection.filter(art => art.id !== id));
   };
+
+  return (
+    <Router>
+      <div className={darkMode ? 'dark' : ''}>
+        <NavBar toggleDarkMode={toggleDarkMode} />
+        <Switch>
+          <Route path="/" exact component={Home} />
+          <Route path="/location" component={Location} />
+          <Route path="/contacts" component={Contacts} />
+          <Route
+            path="/collection"
+            render={() => <MyCollection collection={collection} removeFromCollection={removeFromCollection} />}
+          />
+        </Switch>
+      </div>
+    </Router>
+  );
+};
+
+export default App;
