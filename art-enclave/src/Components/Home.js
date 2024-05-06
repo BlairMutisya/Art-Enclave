@@ -1,13 +1,9 @@
-// Home.js
+// HomePage.js
 import React from 'react';
+import Home from '../components/Home';
 
-const Home = () => {
-  return (
-    <div>
-      <h1 className="text-3xl font-bold">Welcome to the Art Museum</h1>
-      <p className="mt-4">Explore our vast collection of artworks from around the world.</p>
-    </div>
-  );
+const HomePage = () => {
+  return <Home />;
 };
 
-export default Home;
+export default HomePage;

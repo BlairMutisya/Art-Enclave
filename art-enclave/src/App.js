@@ -1,41 +1,33 @@
 // App.js
-import React, { useState, useEffect } from 'react';
-import axios from 'axios';
-import NavBar from './Components/NavBar';
-import Home from './Components/Home'; // Import the Home component
-import Location from './Components/Location';
-import Contact from './Components/Contact';
-import MyCollection from './Components/MyCollection';
+import React, { useState } from 'react';
+import { BrowserRouter as Router, Route, Switch } from 'react-router-dom';
+import NavBar from './components/NavBar';
+import HomePage from './pages/HomePage';
+import LocationPage from './pages/LocationPage';
+import ContactsPage from './pages/ContactsPage';
+import CollectionPage from './pages/CollectionPage';
+import DarkModeToggle from './components/DarkModeToggle';
 
 const App = () => {
   const [darkMode, setDarkMode] = useState(false);
-  const [artPieces, setArtPieces] = useState([]); // State to store art pieces
-
-  useEffect(() => {
-    // Fetch art pieces from the API
-    axios.get('https://api.harvardartmuseums.org/Object', {
-      params: {
-        apikey: '5cac1dd2-ebbc-4567-873d-6ab86590f5e8',
-      },
-    })
-    .then(response => {
-      setArtPieces(response.data.results); // Set the art pieces in state
-    })
-    .catch(error => {
-      console.error('Error fetching data:', error);
-    });
-  }, []);
 
   const toggleDarkMode = () => {
     setDarkMode(!darkMode);
   };
 
   return (
-    <div className={darkMode ? 'dark' : ''}>
-      <NavBar toggleDarkMode={toggleDarkMode} />
-      <Home artPieces={artPieces} /> {/* Pass the artPieces array as a prop to the Home component */}
-      {/* Other routes/components */}
-    </div>
+    <Router>
+      <div className={`App ${darkMode ? 'dark' : ''}`}>
+        <NavBar />
+        <DarkModeToggle darkMode={darkMode} toggleDarkMode={toggleDarkMode} />
+        <Switch>
+          <Route path="/" exact component={HomePage} />
+          <Route path="/location" component={LocationPage} />
+          <Route path="/contacts" component={ContactsPage} />
+          <Route path="/collection" component={CollectionPage} />
+        </Switch>
+      </div>
+    </Router>
   );
 };
 
