@@ -1,5 +1,5 @@
-// Search.js
 import React, { useState } from 'react';
+import '../styles/styles.css'; // Import styles.css
 
 const Search = ({ onSearch }) => {
   const [query, setQuery] = useState('');
@@ -20,9 +20,8 @@ const Search = ({ onSearch }) => {
         placeholder="Search..."
         value={query}
         onChange={handleChange}
-        className="border border-gray-400 rounded-md px-2 py-1"
       />
-      <button type="submit" className="bg-blue-500 text-white px-3 py-1 rounded-md ml-2">Search</button>
+      <button type="submit">Search</button>
     </form>
   );
 }

@@ -3,8 +3,27 @@
 /* Navbar */
 .navbar {
     background-color: #333;
+    padding: 10px;
+  }
+  
+  .navbar-list {
+    list-style-type: none;
+    padding: 0;
+    margin: 0;
+    display: flex;
+  }
+  
+  .navbar-item {
+    margin-right: 20px;
+  }
+  
+  .navbar-link {
+    text-decoration: none;
     color: #fff;
-    padding: 1rem;
+  }
+  
+  .navbar-link:hover {
+    color: #ccc;
   }
   
   /* DarkModeToggle */
@@ -14,12 +33,16 @@
     align-items: center;
   }
   
-  /* Cards */
-  .card {
+ /* styles.css */
+
+/* Cards */
+.card {
     background-color: #fff;
     padding: 1rem;
     border-radius: 0.5rem;
     box-shadow: 0 0.2rem 0.5rem rgba(0, 0, 0, 0.1);
+    width: 7cm; /* Set width to 7cm */
+    height: 5cm; /* Set height to 5cm */
   }
   
   .card img {
@@ -47,5 +70,5 @@
     border: none;
     border-radius: 0.25rem;
     cursor: pointer;
-}
-
+  }
+  
