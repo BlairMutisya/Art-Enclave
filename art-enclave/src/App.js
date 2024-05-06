@@ -2,11 +2,11 @@
 import React, { useState, useEffect } from 'react';
 import { BrowserRouter as Router, Route, Routes } from 'react-router-dom'; 
 import axios from 'axios';
-import NavBar from './NavBar';
-import Home from './Home';
-import Location from './Location';
-import Contacts from './Contacts';
-import MyCollection from './MyCollection';
+import NavBar from './Components/NavBar';
+import Home from './Components/Home';
+import Location from './Components/Location';
+import Contacts from './Components/Contact';
+import MyCollection from './Components/MyCollection';
 
 const App = () => {
   const [darkMode, setDarkMode] = useState(false);
