@@ -1,12 +1,12 @@
+// App.js
 import React, { useState, useEffect } from 'react';
-import { BrowserRouter as Router, Route } from 'react-router-dom';
-import { Switch } from 'react-router-dom';
+import { BrowserRouter as Router, Route, Routes } from 'react-router-dom'; 
 import axios from 'axios';
-import NavBar from './Components/NavBar';
-import Home from './Components/Home';
-import Location from './Components/Location';
-import Contacts from './Components/Contact';
-import MyCollection from './Components/MyCollection';
+import NavBar from './NavBar';
+import Home from './Home';
+import Location from './Location';
+import Contacts from './Contacts';
+import MyCollection from './MyCollection';
 
 const App = () => {
   const [darkMode, setDarkMode] = useState(false);
@@ -43,16 +43,15 @@ const App = () => {
     <Router>
       <div className={darkMode ? 'dark' : ''}>
         <NavBar toggleDarkMode={toggleDarkMode} />
-        <Switch>
-          <Route path="/" exact component={Home} />
-          <Route path="/location" component={Location} />
-          <Route path="/contacts" component={Contacts} />
+        <Routes> {/* Replace Switch with Routes */}
+          <Route path="/" element={<Home />} />
+          <Route path="/location" element={<Location />} />
+          <Route path="/contacts" element={<Contacts />} />
           <Route
             path="/collection"
-            render={() => <MyCollection collection={collection} removeFromCollection={removeFromCollection} />}
-            
+            element={<MyCollection collection={collection} removeFromCollection={removeFromCollection} />}
           />
-        </Switch>
+        </Routes>
       </div>
     </Router>
   );
