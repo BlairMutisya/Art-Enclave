@@ -1,27 +1,24 @@
+// MyCollection.js
 import React, { useState, useEffect } from 'react';
 import Collection from './Collection';
 
 const MyCollection = () => {
-  const [collection, setCollection] = useState([]);
+  const [collection, setCollection] = useState([]); // Ensure collection is initialized as an empty array
 
   useEffect(() => {
     fetchCollection();
   }, []);
-  
+
   const fetchCollection = async () => {
     try {
       const response = await fetch('http://localhost:3000/collection');
-      if (!response.ok) {
-        throw new Error('Failed to fetch collection');
-      }
       const data = await response.json();
       setCollection(data);
     } catch (error) {
       console.error('Error fetching collection:', error);
-      // Handle error: Display error message to the user
     }
   }
-  
+
   const removeFromCollection = async (id) => {
     try {
       await fetch(`http://localhost:3000/collection/${id}`, {
@@ -35,7 +32,11 @@ const MyCollection = () => {
 
   return (
     <div>
-      <Collection collection={collection} removeFromCollection={removeFromCollection} />
+      <h1 className="text-3xl font-bold mb-4">My Collection</h1>
+      {/* Ensure collection is not undefined before rendering */}
+      {collection && collection.length > 0 && (
+        <Collection collection={collection} removeFromCollection={removeFromCollection} />
+      )}
     </div>
   );
 }

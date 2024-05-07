@@ -1,5 +1,6 @@
 import React, { useState } from 'react';
 import '../styles/styles.css';
+
 const Cards = ({ artworks, addToCollection }) => {
   const [addedToCart, setAddedToCart] = useState({});
 

@@ -1,30 +1,36 @@
-// CollectionPage.js
 import React, { useState, useEffect } from 'react';
-import Collection from '../components/CollectionPage';
-import '../styles/styles.css';
+import Collection from '../components/Collection';
+
 const CollectionPage = () => {
   const [collection, setCollection] = useState([]);
 
   useEffect(() => {
-    // Fetch collection data or initialize it as needed
+    fetchCollection();
   }, []);
 
-  const addToCollection = (artwork) => {
-    // Add artwork to the collection
-    setCollection(prevCollection => [...prevCollection, artwork]);
+  const fetchCollection = async () => {
+    try {
+      const response = await fetch('http://localhost:3000/collection');
+      const data = await response.json();
+      setCollection(data);
+    } catch (error) {
+      console.error('Error fetching collection:', error);
+    }
   };
 
-  const removeFromCollection = (id) => {
-    // Remove artwork from the collection
-    setCollection(prevCollection => prevCollection.filter(item => item.id !== id));
+  const removeFromCollection = async (id) => {
+    try {
+      await fetch(`http://localhost:3000/collection/${id}`, {
+        method: 'DELETE',
+      });
+      setCollection(collection.filter(item => item.id !== id));
+    } catch (error) {
+      console.error('Error removing item from collection:', error);
+    }
   };
 
   return (
-    <Collection 
-      collection={collection} 
-      addToCollection={addToCollection} 
-      removeFromCollection={removeFromCollection} 
-    />
+    <Collection collection={collection} removeFromCollection={removeFromCollection} />
   );
 };
 

@@ -1,12 +1,13 @@
 body {
     font-family: 'Poppins', sans-serif;
-    background-color: #475c45;
+    background-color: #F4E6D1;
+    margin-top:4cm
   }
 
 /* Navbar */
 .navbar {
-    background-color: #475c45;
-    padding: 0.6rem 0.5rem; /* Reduce padding */
+    background-color: #EA871E;
+    padding: 0.9rem 0.1rem; /* Reduce padding */
     display: flex;
     justify-content: space-between; /* Distribute items evenly */
     align-items: center;
@@ -15,8 +16,8 @@ body {
     top: 0; /* Align to the top */
     left: 0; /* Align to the left */
     z-index: 1000; /* Ensure it's on top of other content */
-    transition: background-color 0.3s ease; /* Smooth transition */
-    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1); /* Add shadow */
+    
+    box-shadow: 0 2px 4px rgba(254, 254, 254, 0.1); /* Add shadow */
 }
 
 .navbar-logo {
@@ -77,13 +78,14 @@ body {
 }
 /* styles.css */
 
-/* Contacts */
 /* Contacts Container */
 .contacts-container {
     display: flex;
-    justify-content: center;
+    justify-content: space-between; /* Adjust the spacing between cards */
     align-items: center;
+    flex-wrap: wrap; /* Allow cards to wrap to the next line */
     margin-top: 2rem;
+    padding: 0 1rem; /* Add padding to the container */
   }
   
   /* Contact Card */
@@ -91,6 +93,16 @@ body {
     width: 300px;
     height: 200px;
     perspective: 1000px;
+    border-radius: 16px;
+    overflow: hidden;
+    box-shadow: 0 0 20px rgba(251, 251, 251, 0.1);
+    transition: transform 0.5s;
+    margin-bottom: 2rem; /* Add spacing between cards */
+  }
+  
+  /* Contact Card Hover Effect */
+  .contact-card:hover {
+    transform: scale(1.05);
   }
   
   /* Contact Face */
@@ -105,24 +117,26 @@ body {
   /* Contact Front Face */
   .contact-face-front {
     transform: rotateY(0deg);
+    background-color: #fff;
+    border-radius: 16px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
   }
   
   /* Contact Back Face */
   .contact-face-back {
     transform: rotateY(180deg);
+    background-color: #f0f0f0;
+    border-radius: 16px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
   }
   
   /* Contact Content */
   .contact-content {
-    display: flex;
-    flex-direction: column;
-    align-items: center;
-    justify-content: center;
-    height: 100%;
-    padding: 1rem;
-    background-color: #fff;
-    border-radius: 8px;
-    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    text-align: center;
   }
   
   /* Contact Icon */
@@ -136,11 +150,77 @@ body {
   .contact-content h3 {
     font-size: 1.5rem;
     margin-bottom: 0.5rem;
+    color: #000000;
   }
   
   /* Contact Description */
   .contact-content p {
     font-size: 1rem;
-    color: #666;
+    color: #2b2929;
+  }
+  
+  .button 
+  
+  .artWork {
+    display: flex;
+    border-radius: 50px;
+  }
+  /* Add these CSS styles to your existing styles.css file */
+
+/* Adjust grid layout to display 4 rows and 3 columns */
+.grid {
+    display: grid;
+    grid-template-columns: repeat(3, 1fr); /* 3 columns */
+    grid-template-rows: repeat(4, auto); /* 4 rows */
+    gap: 20px; /* Gap between grid items */
+  }
+  
+  /* Style individual card */
+  .card {
+    background-color: #ffffff;
+    border-radius: 8px;
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+    overflow: hidden;
+  }
+  
+  .card img {
+    width: 100%;
+    height: 250px; /* Set a fixed height for the image */
+    object-fit: cover;
+  }
+  
+  .card .p-4 {
+    padding: 20px;
+  }
+  
+  .card h2 {
+    font-size: 18px;
+    font-weight: bold;
+    margin-bottom: 10px;
+  }
+  
+  .card p {
+    font-size: 14px;
+    color: #666666;
+    margin-bottom: 10px;
+  }
+  
+  /* Style the "Add to Collection" button */
+  .button {
+    background-color: #4CAF50;
+    border: none;
+    color: white;
+    padding: 10px 20px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 14px;
+    cursor: pointer;
+    border-radius: 4px;
+    transition-duration: 0.4s;
+  }
+  
+  .button:hover {
+    background-color: #45a049;
   }
   

@@ -4,7 +4,7 @@ import { BrowserRouter as Router, Routes, Route } from 'react-router-dom';
 import Home from './components/Home';
 import Location from './components/Location';
 import Contact from './components/Contact';
-import CollectionPage from './components/CollectionPage'; // Import CollectionPage component
+import CollectionPage from './pages/CollectionPage'; // Import CollectionPage component
 import NavBar from './components/NavBar'; // Import NavBar component
 
 const App = () => {

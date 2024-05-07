@@ -1,8 +1,9 @@
 import React from 'react';
-import '../styles/styles.css';
+import '../styles/styles.css'; // Assuming this file contains the styles provided earlier
+
 const Contacts = () => {
   return (
-    <div className="contact-container">
+    <div className="contacts-container"> {/* Change class name to match the updated CSS */}
       <div className="contact-card">
         <div className="contact-face contact-face1">
           <div className="contact-content">
@@ -14,7 +15,7 @@ const Contacts = () => {
         <div className="contact-face contact-face2">
           <div className="contact-content">
             <h3>Email</h3>
-            <p>contact@example.com</p>
+            <p>tonnyblair09@gmail.com</p>
           </div>
         </div>
       </div>
@@ -29,7 +30,7 @@ const Contacts = () => {
         <div className="contact-face contact-face2">
           <div className="contact-content">
             <h3>Phone</h3>
-            <p>+1 123 456 7890</p>
+            <p>+254 708 378 044</p>
           </div>
         </div>
       </div>
@@ -44,7 +45,7 @@ const Contacts = () => {
         <div className="contact-face contact-face2">
           <div className="contact-content">
             <h3>Address</h3>
-            <p>123 Street Name, City, Country</p>
+            <p>468 Silicon Valley Avenue ,Northern California</p>
           </div>
         </div>
       </div>
