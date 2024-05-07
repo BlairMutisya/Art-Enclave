@@ -1,7 +1,7 @@
 import React, { useState, useEffect } from 'react';
 import Cards from '../components/Cards';
 import Search from '../components/Search';
-import NavBar from '../components/NavBar'; // Import NavBar component
+import NavBar from '../components/NavBar';
 import '../styles/styles.css';
 
 const Home = () => {
@@ -15,6 +15,7 @@ const Home = () => {
     try {
       const response = await fetch('https://openaccess-api.clevelandart.org/api/artworks/?limit=12');
       const data = await response.json();
+      console.log(data); // Log the response to check the structure and image URLs
       setArtworks(data.data);
     } catch (error) {
       console.error('Error fetching artworks:', error);

@@ -19,7 +19,7 @@ const Navbar = () => {
           <Link to="/contact" className="navbar-link">Contact</Link>
         </li>
         <li className="navbar-item">
-          <Link to="/mycollection" className="navbar-link">My Collection</Link>
+          <Link to="/collection" className="navbar-link">Collection</Link> {/* Changed link to Collection */}
         </li>
       </ul>
       <div className="navbar-icons">

@@ -7,17 +7,21 @@ const MyCollection = () => {
   useEffect(() => {
     fetchCollection();
   }, []);
-
+  
   const fetchCollection = async () => {
     try {
       const response = await fetch('http://localhost:3000/collection');
+      if (!response.ok) {
+        throw new Error('Failed to fetch collection');
+      }
       const data = await response.json();
       setCollection(data);
     } catch (error) {
       console.error('Error fetching collection:', error);
+      // Handle error: Display error message to the user
     }
   }
-
+  
   const removeFromCollection = async (id) => {
     try {
       await fetch(`http://localhost:3000/collection/${id}`, {
@@ -31,7 +35,6 @@ const MyCollection = () => {
 
   return (
     <div>
-      <h1 className="text-3xl font-bold mb-4">My Collection</h1>
       <Collection collection={collection} removeFromCollection={removeFromCollection} />
     </div>
   );

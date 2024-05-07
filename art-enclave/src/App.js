@@ -1,10 +1,11 @@
+// App.js
 import React from 'react';
 import { BrowserRouter as Router, Routes, Route } from 'react-router-dom';
 import Home from './components/Home';
 import Location from './components/Location';
 import Contact from './components/Contact';
-import NavBar from './components/NavBar';
-import MyCollection from './components/MyCollection'; // Import MyCollection component
+import CollectionPage from './components/CollectionPage'; // Import CollectionPage component
+import NavBar from './components/NavBar'; // Import NavBar component
 
 const App = () => {
   return (
@@ -15,7 +16,7 @@ const App = () => {
           <Route path="/" element={<Home />} />
           <Route path="/location" element={<Location />} />
           <Route path="/contact" element={<Contact />} />
-          <Route path="/mycollection" element={<MyCollection />} /> {/* Add route for MyCollection */}
+          <Route path="/collection" element={<CollectionPage />} /> {/* Define route for CollectionPage */}
         </Routes>
       </div>
     </Router>
