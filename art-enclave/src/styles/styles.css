@@ -1,94 +1,146 @@
-/* styles.css */
+body {
+    font-family: 'Poppins', sans-serif;
+    background-color: #475c45;
+  }
 
 /* Navbar */
 .navbar {
-    background-color: #333;
-    padding: 10px;
-    margin: 0;
+    background-color: #475c45;
+    padding: 0.6rem 0.5rem; /* Reduce padding */
+    display: flex;
+    justify-content: space-between; /* Distribute items evenly */
+    align-items: center;
+    position: fixed; /* Fixed position to stick at the top */
+    width: 100%; /* Occupy full width */
+    top: 0; /* Align to the top */
+    left: 0; /* Align to the left */
+    z-index: 1000; /* Ensure it's on top of other content */
+    transition: background-color 0.3s ease; /* Smooth transition */
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1); /* Add shadow */
 }
-  
-.navbar-list {
+
+.navbar-logo {
+    font-size: 1.5rem;
+    font-weight: bold;
+    text-transform: uppercase;
+    color: #fff;
+    text-decoration: none;
+}
+
+.navbar-links {
     list-style-type: none;
     padding: 0;
     margin: 0;
     display: flex;
-}
+    justify-content: space-between; /* Distribute items evenly */
+    align-items: center;
+  }
   
-.navbar-item {
-    margin-right: 10px;
-}
-  
-.navbar-link {
+  .navbar-link {
+    position: relative;
     text-decoration: none;
-    color: #fff;
-    font-size: 18px;
-    padding: 8px 12px;
-    border-radius: 5px;
-    transition: all 0.3s ease;
-}
+    color: hsl(0, 0%, 0%);
+    transition: color 0.3s ease; /* Smooth transition */
+    margin-right: 1rem; /* Increase margin between links */
+    font-size: 1.2rem; /* Increase font size */
+    font-weight: bold; /* Bold font weight */
+  }
   
-.navbar-link:hover {
-    background-color: #555;
-}
+  .navbar-link:hover {
+    color: hsl(120, 20%, 98%); /* Change text color on hover */
+  }
   
-/* DarkModeToggle */
-.dark-mode-toggle {
+  .navbar-link::after {
+    content: '';
+    position: absolute;
+    bottom: -2px; /* Adjust based on your design */
+    left: 0;
+    width: 0;
+    height: 2px; /* Thickness of the line */
+    background-color: hsl(0, 0%, 0%); /* Color of the line */
+    transition: width 0.3s ease; /* Transition for the line width */
+  }
+  
+  .navbar-link:hover::after {
+    width: 100%; /* Show the line on hover */
+  }
+  
+.icon {
+    font-size: 1.5rem; /* Increase icon size */
+    margin-left: 1rem; /* Increase margin between icons */
+    cursor: pointer;
+    transition: color 0.3s ease; /* Smooth transition */
+}
+
+.icon:hover {
+    color: #ffcc00; /* Change icon color on hover */
+}
+/* styles.css */
+
+/* Contacts */
+/* Contacts Container */
+.contacts-container {
     display: flex;
     justify-content: center;
     align-items: center;
-}
-  
-
-.card {
-    border: 1px solid #ccc;
-    border-radius: 8px;
-    overflow: hidden;
+    margin-top: 2rem;
   }
   
-  .card-image {
-    width: 100%;
+  /* Contact Card */
+  .contact-card {
+    width: 300px;
     height: 200px;
-    object-fit: cover;
+    perspective: 1000px;
   }
   
-  .card-content {
-    padding: 16px;
+  /* Contact Face */
+  .contact-face {
+    width: 100%;
+    height: 100%;
+    position: absolute;
+    backface-visibility: hidden;
+    transition: transform 0.5s;
   }
   
-  .card-title {
-    font-size: 18px;
-    font-weight: bold;
-    margin-bottom: 8px;
+  /* Contact Front Face */
+  .contact-face-front {
+    transform: rotateY(0deg);
   }
   
-  .card-date {
-    font-size: 14px;
+  /* Contact Back Face */
+  .contact-face-back {
+    transform: rotateY(180deg);
+  }
+  
+  /* Contact Content */
+  .contact-content {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    height: 100%;
+    padding: 1rem;
+    background-color: #fff;
+    border-radius: 8px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+  }
+  
+  /* Contact Icon */
+  .contact-icon {
+    font-size: 3rem;
+    margin-bottom: 1rem;
+    color: #333;
+  }
+  
+  /* Contact Title */
+  .contact-content h3 {
+    font-size: 1.5rem;
+    margin-bottom: 0.5rem;
+  }
+  
+  /* Contact Description */
+  .contact-content p {
+    font-size: 1rem;
     color: #666;
   }
-.container .card .face.face1 {
-    position:relative;
-    background: #333;
-    display: flex;
-    justify-content: center;
-    align-items: center;
-    z-index: 1;
-    transform: translateY(100px);
-}
-.container .card:hover .face.face1 {
-    background: #ff0057;
-    transform: translateY(0px);
-}
-.container .card .face.face1 .content i {
-    max-width: 100px;
-}
-.container .card .face.face2 {
-    position: relative;
-    background: #fff;
-    display: flex;
-    justify-content: center;
-    align-items: center;
-    padding: 20px;
-    box-sizing: border-box;
-    box-shadow: 0 20px 50px rbga(0, 0, 0, 0.8);
-    transform: translateY(-100px);
-}
+  

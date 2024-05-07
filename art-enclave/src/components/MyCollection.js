@@ -1,4 +1,3 @@
-// MyCollection.js
 import React, { useState, useEffect } from 'react';
 import Collection from './Collection';
 

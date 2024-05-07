@@ -1,7 +1,13 @@
-import React from 'react';
-import '../styles/styles.css'; // Import styles.css
+import React, { useState } from 'react';
+import '../styles/styles.css';
+const Cards = ({ artworks, addToCollection }) => {
+  const [addedToCart, setAddedToCart] = useState({});
 
-const Cards = ({ artworks }) => {
+  const handleAddToCart = (artworkId) => {
+    addToCollection(artworkId);
+    setAddedToCart(prevState => ({ ...prevState, [artworkId]: true }));
+  };
+
   return (
     <div className="grid grid-cols-3 gap-4">
       {artworks.map(artwork => (
@@ -9,7 +15,10 @@ const Cards = ({ artworks }) => {
           <img src={artwork.baseimageurl} alt={artwork.title} />
           <h2>{artwork.title}</h2>
           <p>{artwork.description}</p>
-          <button>Add to Cart</button>
+          <button onClick={() => handleAddToCart(artwork.id)}>
+            Add to Cart
+            {addedToCart[artwork.id] && <i className="fas fa-check-circle"></i>}
+          </button>
         </div>
       ))}
     </div>
