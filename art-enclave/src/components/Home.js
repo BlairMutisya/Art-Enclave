@@ -13,7 +13,7 @@ const Home = () => {
 
   const fetchArtworks = async () => {
     try {
-      const response = await fetch('https://openaccess-api.clevelandart.org/api/artworks/?limit=13');
+      const response = await fetch('https://openaccess-api.clevelandart.org/api/artworks/?limit=12');
       const data = await response.json();
       setArtworks(data.data);
     } catch (error) {

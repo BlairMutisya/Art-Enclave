@@ -1,13 +1,13 @@
 body {
     font-family: 'Poppins', sans-serif;
     background-color: #F4E6D1;
-    margin-top:4cm
+    margin-top:1.8cm
   }
 
 /* Navbar */
 .navbar {
     background-color: #EA871E;
-    padding: 0.9rem 0.1rem; /* Reduce padding */
+    padding: 0.5rem 0.1rem; /* Reduce padding */
     display: flex;
     justify-content: space-between; /* Distribute items evenly */
     align-items: center;
@@ -66,12 +66,20 @@ body {
     width: 100%; /* Show the line on hover */
   }
   
+
 .icon {
     font-size: 1.5rem; /* Increase icon size */
-    margin-left: 1rem; /* Increase margin between icons */
+    display: inline-block; /* Change display to inline-block */
+    margin-right: 1rem; /* Increase margin between icons */
     cursor: pointer;
     transition: color 0.3s ease; /* Smooth transition */
 }
+
+.navbar-icons {
+    display: flex;
+    align-items: center;
+}
+
 
 .icon:hover {
     color: #ffcc00; /* Change icon color on hover */

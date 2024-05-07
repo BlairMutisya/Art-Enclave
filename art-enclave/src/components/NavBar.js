@@ -10,7 +10,9 @@ const Navbar = () => {
 
   return (
     <nav className="navbar">
-      <Link to="/" className="navbar-logo"></Link>
+      <Link to="/" className="navbar-logo">
+        <img src="./assets/maya-svgrepo-com.png" alt="Logo" />
+      </Link>
       <ul className="navbar-links">
         <li className="navbar-item">
           <Link to="/" className="navbar-link">Home</Link>
@@ -19,11 +21,13 @@ const Navbar = () => {
           <Link to="/contact" className="navbar-link">Contact</Link>
         </li>
         <li className="navbar-item">
+          <Link to="/About" className="navbar-link">About</Link>
+        </li>
+        <li className="navbar-item">
           <Link to="/collection" className="navbar-link">Collection</Link> {/* Changed link to Collection */}
         </li>
       </ul>
       <div className="navbar-icons">
-        <i className="icon fas fa-user"></i>
         <i className="icon fas fa-shopping-cart" onClick={handleAddToCart}></i>
       </div>
     </nav>
