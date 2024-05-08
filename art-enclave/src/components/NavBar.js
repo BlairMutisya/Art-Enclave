@@ -16,7 +16,7 @@ const Navbar = () => {
 
   return (
     <nav className="navbar">
-      <Link to="/" className="navbar-logo">Art EnClave</Link> 
+      <Link to="/" className="navbar-logo">Art EnClave</Link> {/* Text logo */}
       <ul className="navbar-links">
         <li className="navbar-item">
           <Link to="/" className="navbar-link">Home</Link>

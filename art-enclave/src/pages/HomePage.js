@@ -2,7 +2,7 @@
 import React from 'react';
 import Cards from '../components/Cards';
 import Search from '../components/Search';
-import NavBar from '../components/NavBar'; // Import NavBar component
+import NavBar from '../components/NavBar'; 
 
 const Home = () => {
   return (

@@ -266,8 +266,17 @@ body {
   }
   
   /* Login form */
-  .login-form {
-    margin-top: 20px; /* Add margin from the buttons */
+/* styles.css */
+
+/* Login form */
+.login-form {
+    width: 300px; /* Set a fixed width for the form */
+    margin: 0 auto; /* Center the form horizontally */
+    margin-top: 50px; /* Add some top margin */
+    padding: 20px; /* Add padding to the form */
+    background-color: #ffffff; /* White background */
+    border-radius: 8px; /* Rounded corners */
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1); /* Add shadow */
   }
   
   .login-form input {
@@ -291,6 +300,71 @@ body {
   }
   
   .login-form button:hover {
+    background-color: #45a049;
+  }
+  
+  /* Move login button to the left side */
+  .login-button {
+    position: absolute;
+    left: 20px; 
+    top: 20px; 
+    background-color: #4CAF50;
+    color: white;
+    border: none;
+    padding: 10px 20px;
+    margin-right: 20px; /* Add margin to separate from other buttons */
+    cursor: pointer;
+    border-radius: 4px;
+    transition: background-color 0.3s ease; /* Smooth transition */
+  }
+  
+  .login-button:hover {
+    background-color: #45a049;
+  }
+  /* Add image button */
+.add-image-button {
+  background-color: #4CAF50;
+  color: white;
+  border: none;
+  padding: 10px 20px;
+  border-radius: 4px;
+  cursor: pointer;
+  transition: background-color 0.3s ease;
+}
+
+.add-image-button:hover {
+  background-color: #45a049;
+}
+
+/* styles.css */
+
+/* Form styles */
+.form-input {
+    width: 100%;
+    padding: 0.5rem;
+    font-size: 1rem;
+    border: 1px solid #ccc;
+    border-radius: 0.25rem;
+    transition: border-color 0.2s ease;
+  }
+  
+  .form-input:focus {
+    outline: none;
+    border-color: #4CAF50;
+  }
+  
+  .button {
+    background-color: #4CAF50;
+    border: none;
+    color: white;
+    padding: 10px 20px;
+    font-size: 1rem;
+    cursor: pointer;
+    border-radius: 0.25rem;
+    transition: background-color 0.2s ease;
+  }
+  
+  .button:hover {
     background-color: #45a049;
   }
   
