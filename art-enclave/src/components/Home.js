@@ -1,11 +1,16 @@
 import React, { useState, useEffect } from 'react';
-import Cards from '../components/Cards';
-import CollectionPage from '../pages/CollectionPage'; // Import CollectionPage component
+import AddToCollectionForm from './AddToCollectionForm';
 import '../styles/styles.css'; // Import styles.css
 
 const Home = () => {
   const [artworks, setArtworks] = useState([]);
-  const [collection, setCollection] = useState([]); // Define collection state
+  const [collection, setCollection] = useState([]);
+  const [showAddToCollectionForm, setShowAddToCollectionForm] = useState(false);
+  const [selectedArtwork, setSelectedArtwork] = useState(null);
+  const [showLoginForm, setShowLoginForm] = useState(false);
+  const [username, setUsername] = useState('');
+  const [password, setPassword] = useState('');
+  const [isLoggedIn, setIsLoggedIn] = useState(false);
 
   useEffect(() => {
     fetchArtworks();
@@ -21,19 +26,19 @@ const Home = () => {
     }
   };
 
-  const addToCollection = async (artwork) => {
+  const addToCollection = async (artworkData) => {
     try {
       const response = await fetch('http://localhost:3000/collection', {
         method: 'POST',
         headers: {
           'Content-Type': 'application/json',
         },
-        body: JSON.stringify(artwork),
+        body: JSON.stringify(artworkData),
       });
       if (response.ok) {
-        // Update the collection state with the added artwork
-        setCollection(prevCollection => [...prevCollection, artwork]);
+        setCollection(prevCollection => [...prevCollection, artworkData]);
         alert('Artwork added to collection!');
+        setShowAddToCollectionForm(false); // Close the form after adding to collection
       } else {
         alert('Failed to add artwork to collection.');
       }
@@ -42,8 +47,60 @@ const Home = () => {
     }
   };
 
+  const handleAddToCollectionClick = (artwork) => {
+    setSelectedArtwork(artwork);
+    setShowAddToCollectionForm(true);
+  };
+
+  const handleLogin = (e) => {
+    e.preventDefault();
+    // Simulate login functionality (replace with actual logic)
+    if (username === 'user' && password === 'password') {
+      setIsLoggedIn(true);
+      setShowLoginForm(false);
+      alert('Login successful!');
+    } else {
+      alert('Invalid username or password.');
+    }
+  };
+
+  const handleLogout = () => {
+    setIsLoggedIn(false);
+    setUsername('');
+    setPassword('');
+    setShowAddToCollectionForm(false);
+    setShowLoginForm(false);
+    alert('Logged out successfully!');
+  };
+
   return (
     <div>
+      {isLoggedIn ? (
+        <button onClick={handleLogout} className="logout-button">Logout</button>
+      ) : (
+        <button onClick={() => setShowLoginForm(true)} className="login-button">Login</button>
+      )}
+
+      {showLoginForm && !isLoggedIn && (
+        <form onSubmit={handleLogin} className="login-form">
+          <input
+            type="text"
+            placeholder="Username"
+            value={username}
+            onChange={(e) => setUsername(e.target.value)}
+            required
+          />
+          <input
+            type="password"
+            placeholder="Password"
+            value={password}
+            onChange={(e) => setPassword(e.target.value)}
+            required
+          />
+          <button type="submit">Login</button>
+        </form>
+      )}
+
       <div className="grid grid-cols-3 gap-4">
         {artworks.map((artwork, index) => (
           <div key={index} className="card">
@@ -51,11 +108,15 @@ const Home = () => {
             <div className="p-4">
               <h2 className="text-lg font-bold mb-2">{artwork.title}</h2>
               <p className="text-sm text-gray-600">{artwork.creation_date}</p>
-              <button className="button" onClick={() => addToCollection(artwork)}>Add to Collection</button>
+              <button className="button" onClick={() => handleAddToCollectionClick(artwork)}>Add to Collection</button>
             </div>
           </div>
         ))}
       </div>
+
+      {showAddToCollectionForm && selectedArtwork && (
+        <AddToCollectionForm artwork={selectedArtwork} addToCollection={addToCollection} />
+      )}
     </div>
   );
 };

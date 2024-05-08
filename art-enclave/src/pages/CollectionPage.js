@@ -24,8 +24,9 @@ const CollectionPage = () => {
         method: 'DELETE',
       });
       setCollection(collection.filter(item => item.id !== id));
+      alert('Artwork removed from collection!');
     } catch (error) {
-      console.error('Error removing item from collection:', error);
+      console.error('Error removing artwork from collection:', error);
     }
   };
 

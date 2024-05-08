@@ -1,5 +1,6 @@
 import React from 'react';
 import { Link } from 'react-router-dom';
+import { FaShoppingCart, FaSignInAlt } from 'react-icons/fa'; // Import icons from react-icons
 import '../styles/styles.css'; // Import styles.css
 
 const Navbar = () => {
@@ -8,11 +9,14 @@ const Navbar = () => {
     alert('Item added to cart!');
   };
 
+  const handleLogin = () => {
+    // Implement login functionality
+    alert('Login clicked!');
+  };
+
   return (
     <nav className="navbar">
-      <Link to="/" className="navbar-logo">
-        <img src="./assets/maya-svgrepo-com.png" alt="Logo" />
-      </Link>
+      <Link to="/" className="navbar-logo">Art EnClave</Link> 
       <ul className="navbar-links">
         <li className="navbar-item">
           <Link to="/" className="navbar-link">Home</Link>
@@ -28,7 +32,8 @@ const Navbar = () => {
         </li>
       </ul>
       <div className="navbar-icons">
-        <i className="icon fas fa-shopping-cart" onClick={handleAddToCart}></i>
+        <FaShoppingCart className="icon" onClick={handleAddToCart} /> {/* Shopping cart icon */}
+        <FaSignInAlt className="icon" onClick={handleLogin} /> {/* Login icon */}
       </div>
     </nav>
   );

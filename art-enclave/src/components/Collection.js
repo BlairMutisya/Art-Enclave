@@ -1,5 +1,4 @@
 import React from 'react';
-import '../styles/styles.css'; // Import styles.css
 
 const Collection = ({ collection, removeFromCollection }) => {
   return (
