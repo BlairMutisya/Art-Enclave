@@ -187,8 +187,6 @@ body {
     display: flex;
     border-radius: 50px;
   }
-  /* Add these CSS styles to your existing styles.css file */
-
 /* Adjust grid layout to display 4 rows and 3 columns */
 .grid {
     display: grid;

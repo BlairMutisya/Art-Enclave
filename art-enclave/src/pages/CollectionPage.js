@@ -39,6 +39,7 @@ const CollectionPage = () => {
       console.error('Error adding artwork to collection:', error);
     }
   };
+  
 
   const removeFromCollection = async (id) => {
     try {
@@ -54,11 +55,26 @@ const CollectionPage = () => {
 
   const handleChange = (e) => {
     const { name, value } = e.target;
-    setNewArtwork(prevArtwork => ({
-      ...prevArtwork,
-      [name]: value
-    }));
+    if (name === 'url') {
+      // If the input name is 'url', update the image URL in newArtwork
+      setNewArtwork(prevArtwork => ({
+        ...prevArtwork,
+        images: {
+          web: {
+            url: value
+          }
+        }
+      }));
+    } else {
+      // For other inputs, update normally
+      setNewArtwork(prevArtwork => ({
+        ...prevArtwork,
+        [name]: value
+      }));
+    }
   };
+  
+  
 
   const handleSubmit = (e) => {
     e.preventDefault();
@@ -68,9 +84,9 @@ const CollectionPage = () => {
   return (
     <div>
       <div className="grid grid-cols-3 gap-4">
-        {collection.map((artwork, index) => (
+        {/* Render existing collection artworks */}
+        {collection.length > 0 && collection.map((artwork, index) => (
           <div key={index} className="card">
-            {/* Optional chaining to handle potential undefined 'images' or 'web' */}
             {artwork.images?.web && (
               <img src={artwork.images.web.url} alt={artwork.title} className="w-full h-48 object-cover mb-2" />
             )}
@@ -81,6 +97,20 @@ const CollectionPage = () => {
             </div>
           </div>
         ))}
+
+        {/* Render new artwork */}
+        {newArtwork.title && (
+          <div className="card">
+            {newArtwork.images?.web && (
+              <img src={newArtwork.images.web.url} alt={newArtwork.title} className="w-full h-48 object-cover mb-2" />
+            )}
+            <div className="p-4">
+              <h2 className="text-lg font-bold mb-2">{newArtwork.title}</h2>
+              <p className="text-sm text-gray-600">{newArtwork.creation_date}</p>
+              <button className="button" onClick={() => setNewArtwork({ title: '', creation_date: '', url: '' })}>Remove from Collection</button>
+            </div>
+          </div>
+        )}
       </div>
 
       {/* Add to Collection form */}

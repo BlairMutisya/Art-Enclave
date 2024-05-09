@@ -17474,6 +17474,772 @@
       "alternate_titles": [],
       "is_highlight": false,
       "updated_at": "2024-03-26 01:56:10.088000"
+    },
+    {
+      "id": 102578,
+      "accession_number": "1921.1239",
+      "share_license_status": "CC0",
+      "tombstone": "Portrait of Dora Wheeler, 1882–83. William Merritt Chase (American, 1849–1916). Oil on canvas; framed: 180.6 x 188.6 x 11 cm (71 1/8 x 74 1/4 x 4 5/16 in.); unframed: 159.8 x 166.4 cm (62 15/16 x 65 1/2 in.). The Cleveland Museum of Art, Gift of Mrs. Boudinot Keith in memory of  Mr. and Mrs. J. H. Wade 1921.1239",
+      "current_location": "208 American Gilded Age and Realism",
+      "title": "Portrait of Dora Wheeler",
+      "creation_date": "1882–83",
+      "creation_date_earliest": 1882,
+      "creation_date_latest": 1883,
+      "artists_tags": [
+        "male"
+      ],
+      "culture": [
+        "America, 19th century"
+      ],
+      "technique": "oil on canvas",
+      "support_materials": [],
+      "department": "American Painting and Sculpture",
+      "collection": "American - Painting",
+      "type": "Painting",
+      "measurements": "Framed: 180.6 x 188.6 x 11 cm (71 1/8 x 74 1/4 x 4 5/16 in.); Unframed: 159.8 x 166.4 cm (62 15/16 x 65 1/2 in.)",
+      "dimensions": {
+        "framed": {
+          "height": 1.806,
+          "width": 1.886,
+          "depth": 0.11
+        },
+        "unframed": {
+          "height": 1.598,
+          "width": 1.664
+        }
+      },
+      "state_of_the_work": null,
+      "edition_of_the_work": null,
+      "copyright": null,
+      "inscriptions": [
+        {
+          "inscription": "signed lower right:  WM M. Chase [WM in monogram]",
+          "inscription_translation": null,
+          "inscription_remark": null
+        }
+      ],
+      "exhibitions": {
+        "current": [
+          {
+            "id": 312517,
+            "title": "The Twentieth Anniversary Exhibition: The Official Art Exhibit of the Great Lakes Exposition",
+            "description": "<i>The Twentieth Anniversary Exhibition: The Official Art Exhibit of the Great Lakes Exposition</i>. The Cleveland Museum of Art, Cleveland, OH (organizer) (June 26-October 4, 1936).",
+            "opening_date": "1936-06-26T04:00:00"
+          },
+          {
+            "id": 312462,
+            "title": "Exhibition of American Painting from 1860 Until Today",
+            "description": "<i>Exhibition of American Painting from 1860 Until Today</i>. The Cleveland Museum of Art, Cleveland, OH (organizer) (June 23-October 4, 1937).",
+            "opening_date": "1937-06-23T04:00:00"
+          },
+          {
+            "id": 520746,
+            "title": "The First West Coast Retrospective Exhibition of Paintings by William Merritt Chase",
+            "description": "<i>The First West Coast Retrospective Exhibition of Paintings by William Merritt Chase</i>. Art, Design & Architecture Museum, UC Santa Barbara, Santa Barbara, CA (organizer) (October 6-November 8, 1964); Museum of Contemporary Art, San Diego, La Jolla, CA (December 1-27, 1964); Fine Arts Museum of San Francisco, Legion of Honor, San Francisco, CA (January 10-February 7, 1965); Seattle Art Museum, Seattle, WA (March 3-April 4, 1965); The Gallery of Modern Art, New York, NY (April 27-May 30, 1965).",
+            "opening_date": "1964-10-06T04:00:00"
+          },
+          {
+            "id": 302330,
+            "title": "Heritage and Horizon: American Painting 1776 - 1976",
+            "description": "<i>Heritage and Horizon: American Painting 1776 - 1976</i>. Albright-Knox Art Gallery, Buffalo, NY (organizer) (March 7-April 11, 1976); The Detroit Institute of Arts, Detroit, MI (May 2-June 13, 1976); The Toledo Museum of Art, Toledo, OH (July 4-August 15, 1976); The Cleveland Museum of Art, Cleveland, OH (September 8-October 10, 1976).",
+            "opening_date": "1976-03-07T05:00:00"
+          },
+          {
+            "id": 309658,
+            "title": "Portraiture: The Image of the Individual",
+            "description": "<i>Portraiture: The Image of the Individual</i>. The Cleveland Museum of Art, Cleveland, OH (organizer) (November 22, 1983-January 22, 1984).",
+            "opening_date": "1983-11-22T05:00:00"
+          },
+          {
+            "id": 215111,
+            "title": "American Impressionism, Images \"of hope, of life, of promise\"",
+            "description": "<i>American Impressionism, Images \"of hope, of life, of promise\"</i>. Worcester Art Museum, Worcester, MA (organizer) (October 4, 1997-January 4, 1998).",
+            "opening_date": "1997-10-04T00:00:00"
+          },
+          {
+            "id": 207232,
+            "title": "Candace Wheeler:  The Art and Enterprise of American Design, 1875-1900",
+            "description": "<i>Candace Wheeler:  The Art and Enterprise of American Design, 1875-1900</i>. The Metropolitan Museum of Art, New York, NY (organizer) (October 10, 2001-January 6, 2002).",
+            "opening_date": "2001-10-10T00:00:00"
+          },
+          {
+            "id": 184052,
+            "title": "Cleveland Collects American Art of the Gilded Age",
+            "description": "<i>Cleveland Collects American Art of the Gilded Age</i>. The Cleveland Museum of Art, Cleveland, OH (organizer) (February 23-May 18, 2003).",
+            "opening_date": "2003-02-23T00:00:00"
+          },
+          {
+            "id": 224230,
+            "title": "After Whistler: The Artist and His Influence on American Painting",
+            "description": "<i>After Whistler: The Artist and His Influence on American Painting</i>. High Museum of Art, Atlanta, GA (organizer) (November 22, 2003-February 8, 2004); The Detroit Institute of Arts, Detroit, MI (March 13-June 6, 2004).",
+            "opening_date": "2003-11-15T00:00:00"
+          },
+          {
+            "id": 179631,
+            "title": "CMA Highlights",
+            "description": "<i>CMA Highlights</i>. The Cleveland Museum of Art (organizer) (June 21-September 11, 2005).",
+            "opening_date": "2005-06-21T00:00:00"
+          },
+          {
+            "id": 213635,
+            "title": "Americans in Paris",
+            "description": "<i>Americans in Paris</i>. National Gallery, London, London, United Kingdom of Great Britain and Northern Ireland (organizer) (February 22-May 21, 2006); Museum of Fine Arts, Boston, Boston, MA (June 25-September 24, 2006); The Metropolitan Museum of Art, New York, NY (October 16, 2006-January 28, 2007).",
+            "opening_date": "2006-02-22T00:00:00"
+          },
+          {
+            "id": 213855,
+            "title": "William Merritt Chase: A Modern Master",
+            "description": "<i>William Merritt Chase: A Modern Master</i>. The Phillips Collection, Washington, DC (organizer) (June 4-September 11, 2016); Museum of Fine Arts, Boston, Boston, MA (October 9, 2016-January 16, 2017).",
+            "opening_date": "2016-06-04T00:00:00"
+          }
+        ],
+        "legacy": [
+          {
+            "description": "<em>Salon.</em> Paris, France (1883).",
+            "opening_date": "1883-01-01T04:56:02Z"
+          },
+          {
+            "description": "<em>Internationale Kunstausstellung</em>, Crystal Palace, Munich, Germany (1883).",
+            "opening_date": "1883-01-01T04:56:02Z"
+          },
+          {
+            "description": "<em>Exhibition of Pictures, Studies, and Sketches by Mr. Wm. M. Chase under the Auspices of the American Art Association. </em>Boston Art Club, (November 13–December 4, 1886), cat. 10, as Portrait of Miss Dora Wheeler.",
+            "opening_date": "1886-11-13T05:00:00Z"
+          },
+          {
+            "description": "<em>Paintings by Mr. William M. Chase. </em>Moore's Art Galleries, New York, (March 2–3, 1887), cat. 115, [lent by Miss. Wheeler].",
+            "opening_date": "1887-03-02T05:00:00Z"
+          },
+          {
+            "description": "<em>Painting today and Yesterday in the United States.</em> Santa Barbara Museum of Art, Santa Barbara, CA (1941), no. 27.",
+            "opening_date": "1941-01-01T05:00:00Z"
+          },
+          {
+            "description": "<em>Chase Centennial Exhibition: Commemorating the Birth of William Merritt Chase</em>, <em>November 1, 1849.</em> John Herron Art Institute, Indianapolis (1949), no. 15, illus.",
+            "opening_date": "1949-01-01T00:00:00"
+          },
+          {
+            "description": "<em>The 75th Anniversary Exhibition of Painting &amp; Sculpture by 75 Artists Associated with the Art Students League of New York. </em>Metropolitan Museum of Art, New York (1951), xiii, no. 6, p. 1, illus. p. 6.",
+            "opening_date": "1951-01-01T00:00:00"
+          },
+          {
+            "description": "<em>150th Anniversary Exhibition. </em>Pennsylvania Academy of the Fine Arts, Philadelphia (15 January–13 March 1955); cat. no. 59, not illus.",
+            "opening_date": "1955-01-15T00:00:00"
+          },
+          {
+            "description": "<em>American Portraiture in the Grand Manner: 1720-1920. </em>Los Angeles, Los Angeles County Museum of Art (1981–82), traveled to Smithsonian Institution, National Portrait Gallery.",
+            "opening_date": "1981-01-01T05:00:00Z"
+          },
+          {
+            "description": "<em>William Merritt Chase: Portraits. </em>Akron, Akron Art Museum (1982).",
+            "opening_date": "1982-01-01T00:00:00"
+          },
+          {
+            "description": "<em>William Merritt Chase, 1849-1916: A Leading Spirit in American Art.</em> University of Washington Henry Art Gallery, Seattle (1983).",
+            "opening_date": "1983-01-01T00:00:00"
+          },
+          {
+            "description": "<em>In Pursuit of Beauty: Americans and the Aesthetic Movement. </em>Metropolitan Museum of Art, New York (1986–87)",
+            "opening_date": "1986-01-01T05:00:00Z"
+          },
+          {
+            "description": "<em> American Impressionism and Realism: The Painting of Modern Life, 1885-1915. </em>The Metropolitan Museum of Art, New York (1994).",
+            "opening_date": "1994-01-01T00:00:00"
+          },
+          {
+            "description": "<em>Dennis Miller Bunker: American Impressionist. </em>Museum of Fine Arts, Boston (1994).",
+            "opening_date": "1994-01-01T00:00:00"
+          },
+          {
+            "description": "<em>Annual Exhibition</em>. Calumet Club, New York, NY (1884).",
+            "opening_date": "1884-01-01T05:00:00Z"
+          },
+          {
+            "description": "<em>National Academy of Design, Society of American Artists Seventh Annual Exhibition</em>, New York, NY (May 26-June 21, 1884).",
+            "opening_date": "1884-05-26T05:00:00Z"
+          },
+          {
+            "description": "<em>Inter-State Industrial Exposition of Chicago Twelfth Annual Exhibition</em>. Art Hall Gallery D, Chicago, IL (September 3-October 18,1884).",
+            "opening_date": "1884-09-03T05:00:00Z"
+          },
+          {
+            "description": "<em>Portraits of American Women, from Romanticism to Surrealism. </em>Portraits, Inc., New York (December 5–29, 1945); cat. no. 15.",
+            "opening_date": "1945-12-05T05:00:00Z"
+          },
+          {
+            "description": "<em>Survey of American Painting.</em> Pittsburgh, Carnegie Institute (1940), no. 155, pl. 49.",
+            "opening_date": "1940-01-01T05:00:00Z"
+          },
+          {
+            "description": "<em>William Merritt Chase: A Retrospective Exhibition. </em>The Parrish Art Museum, Southampton, Long Island, New York (1957), illus. p. 47, no. 31.",
+            "opening_date": "1957-01-01T05:00:00Z"
+          }
+        ]
+      },
+      "provenance": [
+        {
+          "description": "Dora Wheeler, later Mrs. Boudinot Keith [1856-1940], New York, NY, by donation to the Cleveland Museum of Art",
+          "citations": [],
+          "footnotes": [],
+          "date": "1883-1921"
+        },
+        {
+          "description": "The Cleveland Museum of Art, Cleveland, Ohio",
+          "citations": [],
+          "footnotes": [],
+          "date": "1921-"
+        }
+      ],
+      "find_spot": null,
+      "related_works": [],
+      "former_accession_numbers": [],
+      "did_you_know": "Chase and Wheeler worked together to raise money for constructing the Statue of Liberty's pedestal.",
+      "description": "Dora Wheeler became Chase's first student when he returned from overseas study in Munich and set up a teaching studio in New York. At the time, few American artists accepted women as private pupils. After her course of study, Wheeler joined her mother in launching a successful decorating firm, one of the first businesses in the country to be operated entirely by women. For the firm, she designed luxurious textiles, and the embroidered silk tapestry that fills the background in her portrait references her occupational interest. Chase's portrait was awarded a gold medal at an international exhibition of contemporary art in Munich in 1883, and later that year was also shown in Paris. At some later point, the painting was acquired by the sitter, who subsequently donated it to the museum.",
+      "external_resources": {
+        "wikidata": [
+          "https://www.wikidata.org/wiki/Q60503334"
+        ],
+        "internet_archive": [
+          "https://archive.org/details/clevelandart-1921.1239-portrait-of-dora-whe"
+        ]
+      },
+      "citations": [
+        {
+          "citation": "Brownell, W. C. \"American Pictures at the Salon.\" <em>The Magazine of Art </em>6 (1883): 492-501.",
+          "page_number": "Mentioned: P. 494-495",
+          "url": null
+        },
+        {
+          "citation": "Dumas, F. G., Henry Houssaye, and Ludovic Baschet. <em>[Paris salon de ...]</em>. Paris, France: Liepmannssohn ed Dufour, 1883.",
+          "page_number": "Reproduced: no. 506",
+          "url": null
+        },
+        {
+          "citation": "Internationale Kunstausstellung. <em>Illustrierter Katalog der internationalen Kunstausstellung im königl. Glaspalaste in München</em>. Munchen, Germany : Knorr &amp; Hirth, 1883-1937",
+          "page_number": "Reproduced: p. 347",
+          "url": null
+        },
+        {
+          "citation": "Society of American Artists. <em>Catalogue of the Exhibition</em>. New York, NY: [Society of American Artists], 1800.",
+          "page_number": "Reproduced: no. 24",
+          "url": null
+        },
+        {
+          "citation": "<em>Catalogue of the Art Hall of the Inter-State Industrial Exposition of Chicago, 1884 : Twelfth Annual Exhibition Open from September 3d until October 18th</em>. Chicago, IL: Rand, McNally, 1884.",
+          "page_number": "Reproduced: no. 354",
+          "url": null
+        },
+        {
+          "citation": "\"Mr. William M. Chase's Art.\" <em>The Art Interchange </em>12, no. 13 (June 19, 1884): 148.",
+          "page_number": "Mentioned: P. 148",
+          "url": null
+        },
+        {
+          "citation": "Pecht. \"A German Critic on American Art.\" <em>The Art Amateur</em> 11, no. 4 (1884): 76-79.",
+          "page_number": "Mentioned: P. 78",
+          "url": "www.jstor.org/stable/25628198"
+        },
+        {
+          "citation": "\"The Brush.\" <em>Chicago Tribune. </em>(September 14, 1884): 17.",
+          "page_number": "Mentioned: P. 17",
+          "url": null
+        },
+        {
+          "citation": "\"A Boston Estimate of a New York Painter.\" <em>The Art Interchange </em>17, no. 12 (December 4, 1886): 179.",
+          "page_number": "Mentioned: P. 179",
+          "url": null
+        },
+        {
+          "citation": "Wheeler, Candace. <em>Yesterdays in a Busy Life</em>. New York: Harper, 1918.",
+          "page_number": "Mentioned: P. 253",
+          "url": null
+        },
+        {
+          "citation": "J.C.G. \"Painting by Chase Given to Cleveland.\" <em>American Art News</em> 20, no. 15 (Jan. 21, 1922): 5.",
+          "page_number": "Mentioned: P. 5",
+          "url": "http://www.jstor.org/stable/25589899"
+        },
+        {
+          "citation": "Milliken, W. M. “Portrait of Miss Dora Wheeler by William Merritt Chase.” <em>The Bulletin of the Cleveland Museum of Art</em> 9, no. 3 (1922): 39–42.",
+          "page_number": "Reproduced: P. 37",
+          "url": null
+        },
+        {
+          "citation": "Cortissoz, Royal. <em>American Artists</em>. New York: C. Scribner's Sons, 1923.",
+          "page_number": "Reproduced: P. 166",
+          "url": null
+        },
+        {
+          "citation": "Whiting, Frederic. \"The Cleveland Museum of Art.\" <em>Art and Archaeology </em>16 (November 1923): 187-194.",
+          "page_number": "Reproduced: P. 191.",
+          "url": null
+        },
+        {
+          "citation": "The Cleveland Museum of Art. <em>Handbook of the Cleveland Museum of Art</em>. Cleveland, OH: The Cleveland Museum of Art, 1925.",
+          "page_number": "Mentioned and Reproduced: 32",
+          "url": "https://archive.org/details/CMAHandbook_80839/page/n34"
+        },
+        {
+          "citation": "The Cleveland Museum of Art. <em>Handbook of the Cleveland Museum of Art</em>. Cleveland, OH: The Cleveland Museum of Art, 1928.",
+          "page_number": "Mentioned and Reproduced: p. 41",
+          "url": "https://archive.org/details/CMAHandbook1928/page/n45"
+        },
+        {
+          "citation": "Cleveland Museum of Art. Catalogue of the Twentieth Anniversary Exhibition of the Cleveland Museum of Art: The Official Art Exhibit of the Great Lakes Exposition : June Twenty-Sixth to October Fourth 1936. [Cleveland, Ohio]: [Cleveland Museum of Art], 1936.",
+          "page_number": "no. 379",
+          "url": null
+        },
+        {
+          "citation": "Cleveland Museum of Art. Catalogue of an Exhibition of American Painting from 1860 Until Today at the Cleveland Museum of Art. [Cleveland]: [Printed by the Artcraft Printing Co.], 1937.",
+          "page_number": "p. 16, no. 30, pl. XIV, no. 30",
+          "url": null
+        },
+        {
+          "citation": "Lane, James W. “This YEAR the CARNEGIE NATIONAL: Pittsburgh’s Brilliant Survey of 160 Years of U.S. Painting.” <em>ARTnews</em> 39, no. 4 (October 26, 1940): 7–18.",
+          "page_number": "Mentioned and reproduced: P. 15-16",
+          "url": null
+        },
+        {
+          "citation": "Saint-Gaudens, Homer. <em>The American Artist and His Times</em>. New York: Dodd, Mead &amp; Company, 1941.",
+          "page_number": "Reproduced: P. 185, pl. 33",
+          "url": null
+        },
+        {
+          "citation": "Cleveland Museum of Art, and Henry Sayles Francis. <em>Paintings in the Cleveland Museum of Art</em>. Picture Book, No. 1. Cleveland: Cleveland Museum of Art, 1945.",
+          "page_number": "Reproduced: P. 14",
+          "url": "https://archive.org/details/CMAPaintings1945/mode/2up"
+        },
+        {
+          "citation": "<em>Paintings in the Cleveland Museum of Art.</em> [Cleveland]: The Cleveland Museum of Art, 1945.",
+          "page_number": "Reproduced: p. 14",
+          "url": "https://archive.org/details/CMAPaintings1945/page/n22"
+        },
+        {
+          "citation": "Flexner, James Thomas. \"The Great Chase.\" <em>ARTnews </em>48, no. 8 (December 1949): 32-34; 60.",
+          "page_number": "Reproduced: P. 33; Mentioned: P. 34",
+          "url": null
+        },
+        {
+          "citation": "The Cleveland Museum of Art. <em>The Cleveland Museum of Art Handbook.</em> Cleveland, OH: The Cleveland Museum of Art, 1958.",
+          "page_number": "Mentioned and Reproduced: cat. no. 538",
+          "url": "https://archive.org/details/CMAHandbook1958/page/n99"
+        },
+        {
+          "citation": "Neumeyer, A. \"Chase, William Merritt.\" <em>Kindlers Malerei Lexikon: 1000 Malersignaturen, 1200 farbige Reproducktionen, 3000 schwarzweisse Reproduktionen in sechs Bänden.</em> Zürich : Kindler Verlag, 1964.",
+          "page_number": "Mentioned: Band I, P. 730",
+          "url": null
+        },
+        {
+          "citation": "University of California, Santa Barbara. Art Gallery. <em>The First West Coast Retrospective Exhibition of Paintings by William Merritt Chase, 1849-1916: An Exhibition Organized by the Art Gallery, University of California, Santa Barbara, in Cooperation with La Jolla Museum of Art, La Jolla; California Palace of the Legion of Honor, San Francisco; Seattle Art Museum, Seattle; with a Final Presentation at the Gallery of Modern Art Including the Huntington Hartford Collection, New York; 1964-1965</em>. Santa Barbara, Calif, 1964.",
+          "page_number": "",
+          "url": ""
+        },
+        {
+          "citation": "Francis, Henry. \"Portraits by Wheeler and Chase.\" <em>The Bulletin of The</em> <em>Cleveland Museum of Art</em> LII, no. 1 (January, 1965):19-22.",
+          "page_number": "Reproduced: p. 20, fig. 2",
+          "url": null
+        },
+        {
+          "citation": "The Cleveland Museum of Art. <em>Handbook of the Cleveland Museum of Art/1966</em>. Cleveland, OH: The Cleveland Museum of Art, 1966.",
+          "page_number": "Reproduced: p. 188",
+          "url": "https://archive.org/details/CMAHandbook1966/page/n212"
+        },
+        {
+          "citation": "Wittke, Carl Frederick. <em>The First Fifty Years: The Cleveland Museum of Art, 1916-1966.</em> [Cleveland]: John Huntington Art and Polytechnic Trust, Cleveland Museum of Art, 1966.",
+          "page_number": "Mentioned: P. 88",
+          "url": null
+        },
+        {
+          "citation": "The Cleveland Museum of Art. <em>Handbook of the Cleveland Museum of Art/1969</em>. Cleveland, OH: The Cleveland Museum of Art, 1969.",
+          "page_number": "Reproduced: p. 188",
+          "url": "https://archive.org/details/CMAHandbook1969/page/n212"
+        },
+        {
+          "citation": "Milgrome, David. <em>The Art of William Merrit Chase</em>. 1970.",
+          "page_number": "Mentioned: p. 74-76; Reproduced: p. p. 206",
+          "url": null
+        },
+        {
+          "citation": "Flexner, James Thomas. <em>Nineteenth Century American Painting</em>. New York, NY: Putnam, 1970.",
+          "page_number": "Reproduced: p. 166; Mentioned: p. 171",
+          "url": null
+        },
+        {
+          "citation": "Flexner, James Thomas. <em>Nineteenth Century American Painting</em>. New York: Putnam, 1970.",
+          "page_number": "Reproduced: P. 166; mentioned: P. 171",
+          "url": null
+        },
+        {
+          "citation": "Wilmerding, John, and R. Peter Mooz. <em>The Genius of American Painting</em>. London. United Kingdom: Weidenfeld &amp; Nicolson, 1973.",
+          "page_number": "Mentioned: p. 165-167; Reproduced: p. 166",
+          "url": null
+        },
+        {
+          "citation": "Albright-Knox Art Gallery, Detroit Institute of Arts, and Toledo Museum of Art. <em>Heritage and Horizon: American Painting, 1776-1976. </em>[Toledo]: Toledo Museum of Art, 1976.",
+          "page_number": "Reproduced: P. 43",
+          "url": null
+        },
+        {
+          "citation": "Pisano, Ronald G. “Teaching Career of William Merritt Chase.” <em>American Artist</em> 40 (May 1976): 26-33, 63-66..",
+          "page_number": "Mentioned: P. 28; reproduced: P. 30",
+          "url": null
+        },
+        {
+          "citation": "Young, Mahonri Sharp. <em>American Realists, Homer to Hopper</em>. New York, NY: Watson-Guptill Publications, 1977.",
+          "page_number": "Reproduced: p. 100",
+          "url": null
+        },
+        {
+          "citation": "The Cleveland Museum of Art. <em>Handbook of the Cleveland Museum of Art/1978</em>. Cleveland, OH: The Cleveland Museum of Art, 1978.",
+          "page_number": "Reproduced: p. 233",
+          "url": "https://archive.org/details/CMAHandbook1978/page/n253"
+        },
+        {
+          "citation": "Marling, Karal Ann. \"Portrait of the Artist as a Young Woman: Miss Dora Wheeler.\" <em>The Bulletin of the Cleveland Museum of Art</em> 65, no. 2 (1978): 47-57.",
+          "page_number": "Reproduced: P. 46; mentioned: P. 47-48",
+          "url": "http://www.jstor.org/stable/25159564"
+        },
+        {
+          "citation": "\"Les Chronique des Arts.\" <em>Gazette des Beaux-Arts</em> (November 1978): 27.",
+          "page_number": "Reproduced: P. 27, fig. 31",
+          "url": null
+        },
+        {
+          "citation": "Pisano, Ronald G. <em>William Merritt Chase</em>. New York, NY: Watson-Guptill, 1979.",
+          "page_number": "Mentioned: p. 8, 29: Reproduced: p. 29",
+          "url": null
+        },
+        {
+          "citation": "Quick, Michael, Marvin S. Sadik, and William H. Gerdts. <em>American Portraiture in the Grand Manner, 1720-1920</em>. Los Angeles, CA: Los Angeles County Museum of Art, 1981.",
+          "page_number": "Mentioned: p. 68; Reproduced: p. 69",
+          "url": null
+        },
+        {
+          "citation": "Ludwig, Horst. <em>Münchner Maler im 19. Jahrhundert</em>. München, Germany: Bruckmann, 1981.",
+          "page_number": "Mentioned: p. 173-174; Reproduced: p. 173",
+          "url": null
+        },
+        {
+          "citation": "<em>William Merritt Chase: Portraits, Akron Art Museum, 5 June-29 August, 1982</em>. Akron, Ohio (70 E. Market St., Akron 44308): The Museum, 1982.",
+          "page_number": "Mentioned: p. 10, 12-14; Reproduced: P. 13",
+          "url": null
+        },
+        {
+          "citation": "Betsky, Celia. \"In the Artists Studio.\" <em>Portfolio</em> 4 (January-February 1982): 38-39.",
+          "page_number": "Reproduced: P. 39",
+          "url": null
+        },
+        {
+          "citation": "Bienenstock, Jennifer A. Martin. <em>The Formation and Early Years of the Society of American Artists, 1877-1884</em>. 1983.",
+          "page_number": "Mentioned: p. 163-183, 316, 405-407",
+          "url": null
+        },
+        {
+          "citation": "Johnston, Sona. <em>American Paintings, 1750-1900, from the Collection of the Baltimore Museum of Art</em>. Baltimore, MD: The Museum, 1983.",
+          "page_number": "Reproduced:.p. 69",
+          "url": null
+        },
+        {
+          "citation": "Pisano, Ronald G. <em>A Leading Spirit in American Art: William Merritt Chase, 1849-1916</em>. Seattle, WA: Henry Art Gallery, University of Washington, 1983.",
+          "page_number": "Mentioned: p. 63,175; Reproduced: p. 16, 172",
+          "url": null
+        },
+        {
+          "citation": "Boyle, Richard J. <em>American Impressionism</em>. Boston, MA: New York Graphic Society, 1974.",
+          "page_number": "Mentioned: P. 182-206; Reproduced: p. 185",
+          "url": null
+        },
+        {
+          "citation": "Bolger, Doreen. <em>In Pursuit of Beauty: Americans and the Aesthetic Movement</em>. New York, NY: Metropolitan Museum of Art, 1986.",
+          "page_number": "Mentioned: p. 41, 406-407; Reproduced: p. 325",
+          "url": null
+        },
+        {
+          "citation": "Simon, Robin. <em>The Portrait in Britain and America: With a Biographical Dictionary of Portrait Painters, 1680-1914</em>. Oxford, United Kingdom: Phaidon, 1987.",
+          "page_number": "Mentioned: p. 32; Reproduced: p. 45",
+          "url": null
+        },
+        {
+          "citation": "Fink, Lois Marie. <em>American Art at the Nineteenth-Century Paris Salons</em>. Washington, DC.: National Museum of American Art, Smithsonian Institution, 1990.",
+          "page_number": "Mentioned: p. 240, 329; Reproduced: p. 266",
+          "url": null
+        },
+        {
+          "citation": "Bryant, Keith L. <em>William Merritt Chase, a Genteel Bohemian</em>. Columbia, MO: University of Missouri Press, 1991.",
+          "page_number": "Mentioned: p. 102-104, 136; Reproduced: p. 103",
+          "url": null
+        },
+        {
+          "citation": "Hiesinger, Ulrich W. <em>Impressionism in America: The Ten American Painters</em>. Munich, Germany: Prestel, 1991.",
+          "page_number": "Reproduced: p, 81",
+          "url": null
+        },
+        {
+          "citation": "Butor, Michel, Jennifer Martin, Claude Massu, Sarah Nichols, Alexandra Parigoris, Denys Riout, and David Travis. <em>L'Art des Etats-Unis</em>. Paris, France: Citadelles &amp; Mazenod, 1992.",
+          "page_number": "Mentioned: p. 209-210; Reproduced: p. 548",
+          "url": null
+        },
+        {
+          "citation": "Chong, Alan. <em>European &amp; American Painting in the Cleveland Museum of Art: A Summary Catalogue</em>. Cleveland,OH: Cleveland Museum of Art, 1993.",
+          "page_number": "Reproduced: p. 36",
+          "url": null
+        },
+        {
+          "citation": ".Weinberg, H. Barbara, Doreen Bolger, and David Park Curry. <em>American Impressionism and Realism: The Painting of Modern Life, 1885-1915</em>. New York, NY: Metropolitan Museum of Art, 1994.",
+          "page_number": "Mentioned: p. 38-41; Reproduced: p.",
+          "url": null
+        },
+        {
+          "citation": "Hirshler, Erica E. <em>Dennis Miller Bunker: American Impressionist</em>. Boston, MA: Museum of Fine Arts Boston, 1994.",
+          "page_number": "Mentioned and reproduced: p. 46-47",
+          "url": null
+        },
+        {
+          "citation": "Fuller, Margaret, and Donna Dickenson. <em>Woman in the Nineteenth Century and Other Writings</em>. Oxford, NY: Oxford University Press, 1994.",
+          "page_number": "Reproduced: cover",
+          "url": null
+        },
+        {
+          "citation": "Baigell, Matthew. <em>A Concise History of American Painting and Sculpture</em>. New York, NY: IconEditions, 1996.",
+          "page_number": "Mentioned and reproduced: p. 161",
+          "url": null
+        },
+        {
+          "citation": "Van Hook, Bailey. <em>Angels of Art: Women and Art in American Society, 1876-1914</em>. University Park, PA: Pennsylvania State University Press, 1996.",
+          "page_number": "Mentioned: p. 49-67; Reproduced: p. 65",
+          "url": null
+        },
+        {
+          "citation": "Brigham, David R. American Impressionism: Paintings of Promise. Worcester, Mass: Worcester Art Museum, 1997.",
+          "page_number": "pp. 25-26, illus. p. 53, Pl. 13",
+          "url": null
+        },
+        {
+          "citation": "Brigham, David R. <em>American Impressionism: Paintings of Promise</em>. Worcester, MA: Worcester Art Museum, 1997.",
+          "page_number": "Mentioned: p. 25-26; Reproduced: p. 53",
+          "url": null
+        },
+        {
+          "citation": "Turner, Jane. <em>Encyclopedia of American Art Before 1914</em>. New York, NY: Grove's Dictionaries, 2000.",
+          "page_number": "Reproduced: p. 90",
+          "url": null
+        },
+        {
+          "citation": "Groseclose, Barbara S. <em>Nineteenth-Century American Art</em>. New York, NY: Oxford University Press, 2000.",
+          "page_number": "Mentioned: p. 49-59; Reproduced: p. 55",
+          "url": null
+        },
+        {
+          "citation": "Peck, Amelia, and Carol Irish. Candace Wheeler: The Art and Enterprise of American Design, 1875-1900. New York: Metropolitan Museum of Art, 2001.",
+          "page_number": "cat. no. 47, illus. p. 175",
+          "url": "http://libmma.contentdm.oclc.org/cdm/ref/collection/p15324coll10/id/48949"
+        },
+        {
+          "citation": "May, Sally Ruth, Jane Takac, and Barbara J. Bradley. <em>Knockouts: A Pocket Guide</em>. Cleveland, OH: Cleveland Museum of Art, 2001.",
+          "page_number": "Mentioned: p. 50-51; Reproduced: p. 50",
+          "url": null
+        },
+        {
+          "citation": "Merrill, Linda, and James McNeill Whistler. After Whistler: The Artist and His Influence on American Painting. Atlanta: High Museum of Art, 2003.",
+          "page_number": "exh. cat no. 22, p.150-151",
+          "url": null
+        },
+        {
+          "citation": "Tinterow, Gary, Geneviève Lacambre, and Deborah L. Roldán. <em>Manet/Velázquez: The French Taste for Spanish Painting</em>. New York, NY: Metropolitan Museum of Art, 2003.",
+          "page_number": "Reproduced: p. 290, fig. 10.34",
+          "url": null
+        },
+        {
+          "citation": "Merrill, Linda, and James McNeill Whistler. <em>After Whistler: The Artist and His Influence on American Painting</em>. Atlanta, GA: High Museum of Art, 2003.",
+          "page_number": "Mentioned and reproduced: p. 150-151",
+          "url": null
+        },
+        {
+          "citation": "Merrill, Linda, and James McNeill Whistler. <em>After Whistler: The Artist and His Influence on American Painting</em>. Atlanta, GA: High Museum of Art, 2003.",
+          "page_number": "Mentioned and reproduced: p. 150-151",
+          "url": null
+        },
+        {
+          "citation": "Curry, David Park. <em>James Mcneill Whistler: Uneasy Pieces</em>. Richmond, VA: Virginia Museum of Fine Arts in association with Quantuck Lane Press, 2004.",
+          "page_number": "Mentioned: p. 164-219; Reproduced: p. 197",
+          "url": null
+        },
+        {
+          "citation": "Weber, Bruce, Sarah Kate Gillespie, and William Merritt Chase. <em>Chase Inside and Out: the Aesthetic Interiors of William Merritt Chase</em>. New York, NY: Berry-Hill Galleries, 2004.",
+          "page_number": "Mentioned: p. 32-34; Reproduced: p. 33",
+          "url": null
+        },
+        {
+          "citation": "Adler, Kathleen, Erica E. Hirshler, H. Barbara Weinberg, David Park Curry, Rodolphe Rapetti, and Christopher Riopelle. Americans in Paris, 1860-1900. London: National Gallery, 2006.",
+          "page_number": "pp. 34, 236, plate 14",
+          "url": null
+        },
+        {
+          "citation": "Adler, Kathleen, Erica E. Hirshler, H. Barbara Weinberg, David Park Curry, Rodolphe Rapetti, and Christopher Riopelle. <em>Americans in Paris, 1860-1900</em>. London, United Kingdom: National Gallery, 2006.",
+          "page_number": "Mentioned: p. 34, 236; Reproduced: p. 35",
+          "url": null
+        },
+        {
+          "citation": "Connor, Holly Pyne. <em>Off the Pedestal: New Women in the Art of Homer, Chase, and Sargent</em>. Newark, NJ.: Newark Museum, 2006.",
+          "page_number": "Mentioned: p. 40, 43; Reproduced: p. 44",
+          "url": null
+        },
+        {
+          "citation": "Brooklyn Museum, Teresa A. Carbone, Barbara Dayer Gallati, and Linda S. Ferber. <em>American Paintings in the Brooklyn Museum: Artists Born by 1876</em>. New York, NY: Brooklyn Museum, 2006.",
+          "page_number": "Mentioned:  p. 362,369",
+          "url": null
+        },
+        {
+          "citation": "Pisano, Ronald G., William Merritt Chase, and D. Frederick Baker. <em>The Complete Catalogue of Known and Documented Work by William Merritt Chase (1849-1916)</em>. New Haven, CT: Yale University Press, 2006.",
+          "page_number": "Mentioned: p. 27, 50-51; Reproduced: p. 50",
+          "url": null
+        },
+        {
+          "citation": "Goldin, Marco. <em>America!: storie di pittura dal nuovo mondo</em>. Treviso, Italy : Linea d’ombra libri, 2007.",
+          "page_number": "Reproduced: p. 380",
+          "url": null
+        },
+        {
+          "citation": "Gallati, Barbara Dayer, and Ortrud Westheider. <em>High Society: American Portraits of the Gilded Age : Bucerius Kunst Forum, Hamburg, June 7-August 31, 2008</em>. Munich, Germany: Hirmer, 2008.",
+          "page_number": "Reproduced: p. 48, fig. 2",
+          "url": null
+        },
+        {
+          "citation": "Miller, Angela L., Janet Catherine Berlo, Bryan Jay Wolf, and Jennifer L. Roberts. <em>American Encounters: Art, History, and Cultural Identity</em>. Upper Saddle River, NJ: Pearson Education, Inc., 2008.",
+          "page_number": "Reproduced: p. 48, fig. 2",
+          "url": null
+        },
+        {
+          "citation": "Rudolph, William Keyse, A. Kate Sheerin, Chloe Barnett, and Julian Onderdonk. <em>Julian Onderdonk: American Impressionist</em>. New Haven, CT: Yale University Press, 2008.",
+          "page_number": "Mentioned: p. 17-18; Reproduced: p. 18",
+          "url": null
+        },
+        {
+          "citation": "Hirshler, Erica E., <em>Sargent's Daughters: The Biography of a Painting</em>. Boston, MA: MFA Publications, 2009.",
+          "page_number": "Reperoduced: p. 111",
+          "url": null
+        },
+        {
+          "citation": "Ringelberg, Kirstin. <em>Redefining Gender in American Impressionist Studio Paintings: Work Place/Domestic Space</em>. Surrey, UK, England: Ashgate, 2010.",
+          "page_number": "Mentioned: p. 87-88; Reproduced:  p. 87",
+          "url": null
+        },
+        {
+          "citation": "Reason, Akela, and Thomas Eakins. <em>Thomas Eakins and the Uses of History</em>. Philadelphia, PA: University of Pennsylvania Press, 2010.",
+          "page_number": "Reproduced: p. 78, fig. 31",
+          "url": null
+        },
+        {
+          "citation": "Marter, Joan M. <em>The Grove Encyclopedia of American Art</em>. New York, NY: Oxford University Press, 2011.",
+          "page_number": "Mentioned and reproduced: p. 445-446",
+          "url": null
+        },
+        {
+          "citation": "Pohl, Frances K. <em>Framing America: A Social History of American Art</em>. New York, NY: Thames &amp; Hudson, 2012.",
+          "page_number": "Reproduced: p. 289, fig. 5.38",
+          "url": null
+        },
+        {
+          "citation": "Marozeau, Maureen, and Matthieu de Sainte-Croix. <em>Art: 365 histoires pour épater la galerie</em>. Paris, France: La Martinière, 2012.",
+          "page_number": "Mentioned and reproduced: p. 36-37",
+          "url": null
+        },
+        {
+          "citation": "Major, Judith K. <em>Mariana Griswold Van Rensselaer: A Landscape Critic in the Gilded Age</em>. Charlottesville, VA: University of Virginia Press, 2013.",
+          "page_number": "Reproduced: p. 31",
+          "url": ""
+        },
+        {
+          "citation": "Cleveland Museum of Art. <em>The CMA Companion: A Guide to the Cleveland Museum of Art</em>. Cleveland: Cleveland Museum of Art, 2014.",
+          "page_number": "Mentioned and reproduced: P. 50",
+          "url": ""
+        },
+        {
+          "citation": "Hirshler, Erica E. <em>William Merritt Chas</em>e. Boston, Mass.: MFA Publications, Museum of Fine Arts, 2016.",
+          "page_number": "Reproduced: p. 24-25, 33",
+          "url": null
+        },
+        {
+          "citation": "Smithgall, Elsa. <em>William Merritt Chase: A Modern Master.</em> Washington, D.C.: The Phillips Collection; New Haven; London: in association with Yale University Press, 2016.",
+          "page_number": "Reproduced: p. 103, pl. 16",
+          "url": null
+        },
+        {
+          "citation": "Green, Dominic. \"The Body Eclectic.\" <em>Art &amp; Antiques</em>, (Summer 2016): 88-93.",
+          "page_number": "Reproduced: p. 89",
+          "url": null
+        },
+        {
+          "citation": "Smithgall, Elsa. \"William Merritt Chase: A Modern Master\". <em>American Art Review</em>. 28, no.4 (Aug. 2016): 48-55, 111-112.",
+          "page_number": "Reproduced: p. 53",
+          "url": null
+        },
+        {
+          "citation": "Adams, Henry. <em>What's American About American Art?: A Gallery Tour in the Cleveland Museum of Art</em>. Cleveland, OH: Cleveland Museum of Art, 2008.",
+          "page_number": "Mentioned and reproduced: p. 104-105",
+          "url": null
+        }
+      ],
+      "url": "https://clevelandart.org/art/1921.1239",
+      "images": {
+        "annotation": null,
+        "web": {
+          "url": "https://openaccess-cdn.clevelandart.org/1921.1239/1921.1239_web.jpg",
+          "width": "939",
+          "height": "893",
+          "filesize": "175673",
+          "filename": "1921.1239_web.jpg"
+        },
+        "print": {
+          "url": "https://openaccess-cdn.clevelandart.org/1921.1239/1921.1239_print.jpg",
+          "width": "3400",
+          "height": "3254",
+          "filesize": "8163185",
+          "filename": "1921.1239_print.jpg"
+        },
+        "full": {
+          "url": "https://openaccess-cdn.clevelandart.org/1921.1239/1921.1239_full.tif",
+          "width": "5000",
+          "height": "4786",
+          "filesize": "71824808",
+          "filename": "1921.1239_full.tif"
+        }
+      },
+      "alternate_images": [],
+      "creditline": "Gift of Mrs. Boudinot Keith in memory of  Mr. and Mrs. J. H. Wade",
+      "sketchfab_id": null,
+      "sketchfab_url": null,
+      "gallery_donor_text": "The Cleveland Foundation Gallery",
+      "athena_id": 102578,
+      "creators": [
+        {
+          "id": 3071,
+          "description": "William Merritt Chase (American, 1849–1916)",
+          "extent": null,
+          "qualifier": null,
+          "role": "artist",
+          "biography": null,
+          "name_in_original_language": null,
+          "birth_year": "1849",
+          "death_year": "1916"
+        }
+      ],
+      "legal_status": "accessioned",
+      "accession_date": "1921-11-17T00:00:00",
+      "sortable_date": 1882,
+      "date_text": "1882–83",
+      "collapse_artists": false,
+      "on_loan": false,
+      "recently_acquired": false,
+      "record_type": "object",
+      "conservation_statement": null,
+      "is_nazi_era_provenance": false,
+      "impression": null,
+      "alternate_titles": [
+        "Portrait of Miss Dora Wheeler"
+      ],
+      "is_highlight": true,
+      "updated_at": "2024-03-26 01:56:42.161000"
     }
   ]
 }
