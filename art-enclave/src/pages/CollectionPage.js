@@ -2,6 +2,7 @@ import React, { useState, useEffect } from 'react';
 
 const CollectionPage = () => {
   const [collection, setCollection] = useState([]);
+  const [newArtwork, setNewArtwork] = useState({ title: '', creation_date: '', url: '' });
 
   useEffect(() => {
     fetchCollection();
@@ -17,23 +18,19 @@ const CollectionPage = () => {
     }
   };
 
-  const addToCollection = async (artwork) => {
-    // Check if the artwork is already in the collection
-    if (collection.some(item => item.id === artwork.id)) {
-      alert('Artwork is already added to the collection!');
-      return;
-    }
-
+  const addToCollection = async () => {
     try {
       const response = await fetch('http://localhost:3000/collection', {
         method: 'POST',
         headers: {
           'Content-Type': 'application/json',
         },
-        body: JSON.stringify(artwork),
+        body: JSON.stringify(newArtwork),
       });
       if (response.ok) {
-        setCollection(prevCollection => [...prevCollection, artwork]);
+        const addedArtwork = await response.json();
+        setCollection(prevCollection => [...prevCollection, addedArtwork]);
+        setNewArtwork({ title: '', creation_date: '', url: '' }); // Clear form fields after adding artwork
         alert('Artwork added to collection!');
       } else {
         alert('Failed to add artwork to collection.');
@@ -55,6 +52,19 @@ const CollectionPage = () => {
     }
   };
 
+  const handleChange = (e) => {
+    const { name, value } = e.target;
+    setNewArtwork(prevArtwork => ({
+      ...prevArtwork,
+      [name]: value
+    }));
+  };
+
+  const handleSubmit = (e) => {
+    e.preventDefault();
+    addToCollection();
+  };
+
   return (
     <div>
       <div className="grid grid-cols-3 gap-4">
@@ -72,6 +82,15 @@ const CollectionPage = () => {
           </div>
         ))}
       </div>
+
+      {/* Add to Collection form */}
+      <form onSubmit={handleSubmit} className="add-to-collection-form">
+        <h2>Add to Collection</h2>
+        <input type="text" name="title" value={newArtwork.title} onChange={handleChange} placeholder="Title" required />
+        <input type="text" name="creation_date" value={newArtwork.creation_date} onChange={handleChange} placeholder="Creation Year" required />
+        <input type="text" name="url" value={newArtwork.url} onChange={handleChange} placeholder="URL" required />
+        <button type="submit">Add Artwork</button>
+      </form>
     </div>
   );
 };
