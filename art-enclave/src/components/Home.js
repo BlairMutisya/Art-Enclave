@@ -4,6 +4,7 @@ import '../styles/styles.css'; // Import styles.css
 const Home = () => {
   const [artworks, setArtworks] = useState([]);
   const [collection, setCollection] = useState([]); // Define collection state
+  const [formData, setFormData] = useState({ url: '', title: '', creationYear: '' });
 
   useEffect(() => {
     fetchArtworks();
@@ -40,8 +41,31 @@ const Home = () => {
     }
   };
 
+  const handleChange = (e) => {
+    setFormData({ ...formData, [e.target.name]: e.target.value });
+  };
+
+  const handleSubmit = async (e) => {
+    e.preventDefault();
+    const { url, title, creationYear } = formData;
+    const newArtwork = {
+      url,
+      title,
+      creation_date: creationYear // Assuming backend expects 'creation_date' instead of 'creationYear'
+    };
+
+    addToCollection(newArtwork);
+  };
+
   return (
     <div>
+     
+      {/* Welcome message */}
+      <div className="welcome-message">
+        <h1>Welcome to Art EnClave, </h1>
+        <h2>The home of Artworks:</h2>
+      </div>
+
       <div className="grid grid-cols-3 gap-4">
         {artworks.map((artwork, index) => (
           <div key={index} className="card">

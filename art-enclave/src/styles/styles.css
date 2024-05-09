@@ -1,3 +1,21 @@
+/* Add these styles to your CSS file */
+
+.welcome-message {
+    text-align: center; /* Center align text */
+    margin-top: 100px; /* Adjust the top margin to center vertically */
+  }
+  
+  /* Optionally, you can add more styling to the welcome message */
+  .welcome-message h1 {
+    font-size: 2rem;
+    color: #333;
+  }
+  
+  .welcome-message p {
+    font-size: 1.2rem;
+    color: #666;
+  }
+  
 body {
     font-family: 'Poppins', sans-serif;
     background-color: #F4E6D1;
@@ -10,9 +28,9 @@ body {
     font-weight: 700;
     font-style: normal;
     background-color: #EA871E;
-    padding: 0.5rem 0.1rem; /* Reduce padding */
+    padding: 0.5rem 0.1rem; 
     display: flex;
-    justify-content: space-between; /* Distribute items evenly */
+    justify-content: space-between; 
     align-items: center;
     position: fixed; /* Fixed position to stick at the top */
     width: 100%; /* Occupy full width */
@@ -29,11 +47,6 @@ body {
     text-transform: uppercase;
     color: #000000;
     text-decoration: none;
-}
-.navbar-logo img {
-    width: 40px; /* Adjust the width of the logo */
-    height: auto; /* Maintain aspect ratio */
-    margin-right: 10px; /* Add some spacing between the logo and text */
 }
 
 
@@ -336,35 +349,3 @@ body {
   background-color: #45a049;
 }
 
-/* styles.css */
-
-/* Form styles */
-.form-input {
-    width: 100%;
-    padding: 0.5rem;
-    font-size: 1rem;
-    border: 1px solid #ccc;
-    border-radius: 0.25rem;
-    transition: border-color 0.2s ease;
-  }
-  
-  .form-input:focus {
-    outline: none;
-    border-color: #4CAF50;
-  }
-  
-  .button {
-    background-color: #4CAF50;
-    border: none;
-    color: white;
-    padding: 10px 20px;
-    font-size: 1rem;
-    cursor: pointer;
-    border-radius: 0.25rem;
-    transition: background-color 0.2s ease;
-  }
-  
-  .button:hover {
-    background-color: #45a049;
-  }
-  
