@@ -8,7 +8,10 @@ export const CenteredContainer = styled.div`
 `;
 
 export const Container = styled.div`
-  
+display: flex;
+justify-content: center;
+align-items: center;
+
   backdrop-filter: blur(10px);
   -webkit-backdrop-filter: blur(10px);
 
@@ -19,6 +22,8 @@ export const Container = styled.div`
   width: 678px;
   max-width: 100%;
   min-height: 400px;
+  margin-left: 8cm;
+  margin-top: 3.0cm
 `;
 
 export const SignUpContainer = styled.div`
@@ -58,8 +63,9 @@ export const SignInContainer = styled.div`
   backdrop-filter: blur(10px);
   -webkit-backdrop-filter: blur(10px);
   
-  border: 1px solid rgba(255, 255, 255, 0.18);
+  
   box-shadow: 0 8px 32px 0 rgba(0, 0, 0, 0.37);
+  background-color: #F2F0EB;
 `;
 
 export const Form = styled.form`
@@ -89,8 +95,8 @@ width: 100%;
 
 export const Button = styled.button`
    border-radius: 20px;
-   border: 1px solid #ff4b2b;
-   background-color: #ff4b2b;
+   border: 1px solid #EF0307;
+   background-color: #EF0307;
    color: #ffffff;
    font-size: 12px;
    font-weight: bold;
@@ -106,8 +112,8 @@ export const Button = styled.button`
    }
 `;
 export const GhostButton = styled(Button)`
-background-color: transparent;
-border-color: #ffffff;
+background-color: Black;
+
 `;
 
 export const Anchor = styled.a`
@@ -130,9 +136,11 @@ ${props =>
 `;
 
 export const Overlay = styled.div`
-background: #ff416c;
+background: #EF0307;
+background: linear-gradient(135deg, rgba(255, 255, 255, 0.1), rgba(255, 255, 255, 0));
+  backdrop-filter: blur(10px);
+  -webkit-backdrop-filter: blur(10px)
 background: -webkit-linear-gradient(to right, #ff4b2b, #ff416c);
-background: linear-gradient(to right, #ff4b2b, #ff416c);
 background-repeat: no-repeat;
 background-size: cover;
 background-position: 0 0;
