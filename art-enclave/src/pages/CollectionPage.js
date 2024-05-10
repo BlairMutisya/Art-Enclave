@@ -61,30 +61,38 @@ const CollectionPage = () => {
   };
 
   const handleChange = (e) => {
-  const { name, value } = e.target;
-  if (name === 'url') {
-    // Always update the state for URL field
-    setNewArtwork(prevArtwork => ({
-      ...prevArtwork,
-      [name]: value,
-      images: {
-        web: {
-          url: value
+    const { name, value } = e.target;
+    if (name === 'url') {
+      // Always update the state for URL field
+      setNewArtwork(prevArtwork => ({
+        ...prevArtwork,
+        [name]: value,
+        images: {
+          web: {
+            url: value
+          }
         }
-      }
-    }));
-  } else {
-    // Update the state for other fields
-    setNewArtwork(prevArtwork => ({
-      ...prevArtwork,
-      [name]: value
-    }));
-  }
-};
+      }));
+    } else {
+      // Update the state for other fields
+      setNewArtwork(prevArtwork => ({
+        ...prevArtwork,
+        [name]: value
+      }));
+    }
+  };
 
-  
   return (
     <div>
+      {/* Add to Collection form */}
+      <form onSubmit={handleSubmit} className="add-to-collection-form">
+        <h2>Add to Collection</h2>
+        <input type="text" name="title" value={newArtwork.title} onChange={handleChange} placeholder="Title" required />
+        <input type="text" name="creation_date" value={newArtwork.creation_date} onChange={handleChange} placeholder="Creation Year" required />
+        <input type="text" name="url" value={newArtwork.url} onChange={handleChange} placeholder="URL" required />
+        <button type="submit">Confirm</button>
+      </form>
+
       <div className="grid grid-cols-3 gap-4">
         {/* Render existing collection artworks */}
         {collection.length > 0 && collection.map((artwork, index) => (
@@ -114,15 +122,6 @@ const CollectionPage = () => {
           </div>
         )}
       </div>
-
-      {/* Add to Collection form */}
-      <form onSubmit={handleSubmit} className="add-to-collection-form">
-        <h2>Add to Collection</h2>
-        <input type="text" name="title" value={newArtwork.title} onChange={handleChange} placeholder="Title" required />
-        <input type="text" name="creation_date" value={newArtwork.creation_date} onChange={handleChange} placeholder="Creation Year" required />
-        <input type="text" name="url" value={newArtwork.url} onChange={handleChange} placeholder="URL" required />
-        <button type="submit">Confirm</button>
-      </form>
     </div>
   );
 };

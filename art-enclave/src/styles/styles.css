@@ -8,7 +8,7 @@
     color: #333;
 }
 .welcome-message h2 {
-        color: #fff;
+        color: #333;
 } 
 .welcome-message p {
     font-size: 1.2rem;
@@ -28,7 +28,7 @@ body {
     font-family: "Poppins", sans-serif;
     font-weight: 700;
     font-style: normal;
-    background-color:  #BF8654 ;
+    background-color:  #C60C30 ;
     padding: 0.5rem 0.1rem; 
     display: flex;
     justify-content: space-between; 
@@ -43,10 +43,11 @@ body {
 }
 
 .navbar-logo {
+    font-family: "Briem Hand", cursive;
     font-size: 1.5rem;
     font-weight: bold;
     text-transform: uppercase;
-    color: hsl(0, 21%, 82%);
+    color: black;
     text-decoration: none;
 }
 
@@ -63,7 +64,7 @@ body {
 .navbar-link {
     position: relative;
     text-decoration: none;
-    color: hsl(0, 23%, 82%);
+    color: black;
     transition: color 0.3s ease; /* Smooth transition */
     margin-right: 5rem; /* Increase margin between links */
     font-size: 1.2rem; /* Increase font size */
@@ -71,7 +72,7 @@ body {
 }
   
 .navbar-link:hover {
-    color: hsl(0, 81%, 51%); /* Change text color on hover */
+    color: #666; /* Change text color on hover */
 }
   
 .navbar-link::after {
@@ -93,7 +94,8 @@ body {
     font-size: 1.5rem; /* Increase icon size */
     margin-left: 1rem; /* Increase margin between icons */
     cursor: pointer;
-    transition: color 0.3s ease; /* Smooth transition */
+    transition: color 0.7s ease; /* Smooth transition */
+    color: #F2F0EB;
 }
 
 .icon:hover {
@@ -111,6 +113,8 @@ body {
   
 /* Contact Card */
 .contact-card {
+    backdrop-filter: blur(10px);
+    -webkit-backdrop-filter: blur(10px);
     width: 300px;
     height: 200px;
     perspective: 1000px;
@@ -119,11 +123,12 @@ body {
     box-shadow: 0 0 20px rgba(251, 251, 251, 0.1);
     transition: transform 0.5s;
     margin-bottom: 2rem; /* Add spacing between cards */
+
 }
   
 /* Contact Card Hover Effect */
 .contact-card:hover {
-    transform: scale(1.05);
+    transform: scale(1.15);
 }
   
 /* Contact Face */
@@ -220,6 +225,7 @@ body {
     font-size: 18px;
     font-weight: bold;
     margin-bottom: 10px;
+    color: #F2F0EB;
   }
   
   .card p {
@@ -266,7 +272,9 @@ body {
 .add-to-collection-form {
     margin-top: 20px;
   }
-  
+  .add-to-collection-form h2 {
+    color: #F2F0EB;
+  }
   .add-to-collection-form h3 {
     margin-bottom: 10px;
   }

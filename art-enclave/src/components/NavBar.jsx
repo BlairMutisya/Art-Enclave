@@ -1,3 +1,4 @@
+// Navbar.js
 import React from 'react';
 import { Link } from 'react-router-dom';
 import { TbLogin } from "react-icons/tb"; // Import icons from react-icons
@@ -5,8 +6,8 @@ import '../styles/styles.css'; // Import styles.css
 
 const Navbar = () => {
   const handleLogin = () => {
-    // Implement login functionality
-    alert('Login clicked!');
+    // Redirect to login/register page when the login button is clicked
+    window.location.href = '/login-register';
   };
 
   return (
