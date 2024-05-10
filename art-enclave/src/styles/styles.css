@@ -1,33 +1,34 @@
-/* Add these styles to your CSS file */
-
 .welcome-message {
     text-align: center; /* Center align text */
     margin-top: 100px; /* Adjust the top margin to center vertically */
-  }
+}
   
-  /* Optionally, you can add more styling to the welcome message */
-  .welcome-message h1 {
+.welcome-message h1 {
     font-size: 2rem;
     color: #333;
-  }
-  
-  .welcome-message p {
+}
+.welcome-message h2 {
+        color: #fff;
+} 
+.welcome-message p {
     font-size: 1.2rem;
     color: #666;
-  }
+}
   
 body {
     font-family: 'Poppins', sans-serif;
-    background-color: #F4E6D1;
+    
     margin-top:1.8cm
-  }
+
+}
+
 
 /* Navbar */
 .navbar {
     font-family: "Poppins", sans-serif;
     font-weight: 700;
     font-style: normal;
-    background-color: #EA871E;
+    background-color:  #BF8654 ;
     padding: 0.5rem 0.1rem; 
     display: flex;
     justify-content: space-between; 
@@ -45,7 +46,7 @@ body {
     font-size: 1.5rem;
     font-weight: bold;
     text-transform: uppercase;
-    color: #000000;
+    color: hsl(0, 21%, 82%);
     text-decoration: none;
 }
 
@@ -57,36 +58,36 @@ body {
     display: flex;
     justify-content: space-between; /* Distribute items evenly */
     align-items: center;
-  }
+}
   
-  .navbar-link {
+.navbar-link {
     position: relative;
     text-decoration: none;
-    color: hsl(0, 0%, 0%);
+    color: hsl(0, 23%, 82%);
     transition: color 0.3s ease; /* Smooth transition */
     margin-right: 5rem; /* Increase margin between links */
     font-size: 1.2rem; /* Increase font size */
     font-weight: bold; /* Bold font weight */
-  }
+}
   
-  .navbar-link:hover {
-    color: hsl(120, 20%, 98%); /* Change text color on hover */
-  }
+.navbar-link:hover {
+    color: hsl(0, 81%, 51%); /* Change text color on hover */
+}
   
-  .navbar-link::after {
+.navbar-link::after {
     content: '';
     position: absolute;
     bottom: -2px; /* Adjust based on your design */
     left: 0;
     width: 0;
     height: 2px; /* Thickness of the line */
-    background-color: hsl(0, 0%, 0%); /* Color of the line */
+    background-color: rgb(245, 245, 245); /* Color of the line */
     transition: width 0.3s ease; /* Transition for the line width */
-  }
+}
   
-  .navbar-link:hover::after {
+.navbar-link:hover::after {
     width: 100%; /* Show the line on hover */
-  }
+}
   
 .icon {
     font-size: 1.5rem; /* Increase icon size */
@@ -98,8 +99,6 @@ body {
 .icon:hover {
     color: #ffcc00; /* Change icon color on hover */
 }
-/* styles.css */
-
 /* Contacts Container */
 .contacts-container {
     display: flex;
@@ -108,10 +107,10 @@ body {
     flex-wrap: wrap; /* Allow cards to wrap to the next line */
     margin-top: 2rem;
     padding: 0 1rem; /* Add padding to the container */
-  }
+}
   
-  /* Contact Card */
-  .contact-card {
+/* Contact Card */
+.contact-card {
     width: 300px;
     height: 200px;
     perspective: 1000px;
@@ -120,26 +119,26 @@ body {
     box-shadow: 0 0 20px rgba(251, 251, 251, 0.1);
     transition: transform 0.5s;
     margin-bottom: 2rem; /* Add spacing between cards */
-  }
+}
   
-  /* Contact Card Hover Effect */
-  .contact-card:hover {
+/* Contact Card Hover Effect */
+.contact-card:hover {
     transform: scale(1.05);
-  }
+}
   
-  /* Contact Face */
-  .contact-face {
+/* Contact Face */
+.contact-face {
     width: 100%;
     height: 100%;
     position: absolute;
     backface-visibility: hidden;
     transition: transform 0.5s;
-  }
+}
   
-  /* Contact Front Face */
+/* Contact Front Face */
   .contact-face-front {
     transform: rotateY(0deg);
-    background-color: #fff;
+    background:transparent;
     border-radius: 16px;
     display: flex;
     justify-content: center;
@@ -149,7 +148,7 @@ body {
   /* Contact Back Face */
   .contact-face-back {
     transform: rotateY(180deg);
-    background-color: #f0f0f0;
+    background:transparent;
     border-radius: 16px;
     display: flex;
     justify-content: center;
@@ -172,16 +171,16 @@ body {
   .contact-content h3 {
     font-size: 1.5rem;
     margin-bottom: 0.5rem;
-    color: #000000;
+    color: hsl(0, 0%, 100%);
   }
   
   /* Contact Description */
   .contact-content p {
     font-size: 1rem;
-    color: #2b2929;
+    color: hsl(0, 0%, 100%);
   }
   
-  .button 
+
   
   .artWork {
     display: flex;
@@ -197,16 +196,20 @@ body {
   
   /* Style individual card */
   .card {
-    background-color: #ffffff;
-    border-radius: 8px;
-    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
-    overflow: hidden;
-  }
-  
+    background: linear-gradient(135deg, rgba(255, 255, 255, 0.1), rgba(255, 255, 255, 0));
+    backdrop-filter: blur(10px);
+    -webkit-backdrop-filter: blur(10px);
+    border-radius: 20px;
+    border:1px solid rgba(255, 255, 255, 0.18);
+    box-shadow: 0 8px 32px 0 rgba(0, 0, 0, 0.37);
+}
+
   .card img {
     width: 100%;
     height: 250px; /* Set a fixed height for the image */
     object-fit: cover;
+    border-top-left-radius:20px;
+    border-top-right-radius: 20px;
   }
   
   .card .p-4 {
@@ -227,7 +230,7 @@ body {
   
   /* Style the "Add to Collection" button */
   .button {
-    background-color: #4CAF50;
+    background-color: #C60C30;
     border: none;
     color: white;
     padding: 10px 20px;
@@ -236,17 +239,18 @@ body {
     display: inline-block;
     font-size: 14px;
     cursor: pointer;
-    border-radius: 4px;
-    transition-duration: 0.4s;
+    border-radius: 5px;
+    transition-duration: 0.9s;
+    margin-left: 2.3cm;
   }
   
   .button:hover {
-    background-color: #45a049;
+    background-color: #57F287;
   }
 
   /* Add image button */
 .add-image-button {
-  background-color: #4CAF50;
+  background-color: #C60C30;
   color: white;
   border: none;
   padding: 10px 20px;
@@ -256,7 +260,7 @@ body {
 }
 
 .add-image-button:hover {
-  background-color: #45a049;
+  background-color: #57F287;
 }
 
 .add-to-collection-form {
@@ -287,5 +291,5 @@ body {
   
   .add-to-collection-form button:hover {
     background-color: #555;
-  }
+}
   

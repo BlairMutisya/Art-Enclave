@@ -39,7 +39,6 @@ const CollectionPage = () => {
       console.error('Error adding artwork to collection:', error);
     }
   };
-  
 
   const removeFromCollection = async (id) => {
     try {
@@ -53,34 +52,37 @@ const CollectionPage = () => {
     }
   };
 
-  const handleChange = (e) => {
-    const { name, value } = e.target;
-    if (name === 'url') {
-      // If the input name is 'url', update the image URL in newArtwork
-      setNewArtwork(prevArtwork => ({
-        ...prevArtwork,
-        images: {
-          web: {
-            url: value
-          }
-        }
-      }));
-    } else {
-      // For other inputs, update normally
-      setNewArtwork(prevArtwork => ({
-        ...prevArtwork,
-        [name]: value
-      }));
-    }
-  };
-  
-  
+  const [submitted, setSubmitted] = useState(false);
 
   const handleSubmit = (e) => {
     e.preventDefault();
+    setSubmitted(true); // Set submitted to true when the form is submitted
     addToCollection();
   };
 
+  const handleChange = (e) => {
+  const { name, value } = e.target;
+  if (name === 'url') {
+    // Always update the state for URL field
+    setNewArtwork(prevArtwork => ({
+      ...prevArtwork,
+      [name]: value,
+      images: {
+        web: {
+          url: value
+        }
+      }
+    }));
+  } else {
+    // Update the state for other fields
+    setNewArtwork(prevArtwork => ({
+      ...prevArtwork,
+      [name]: value
+    }));
+  }
+};
+
+  
   return (
     <div>
       <div className="grid grid-cols-3 gap-4">
@@ -99,9 +101,9 @@ const CollectionPage = () => {
         ))}
 
         {/* Render new artwork */}
-        {newArtwork.title && (
+        {newArtwork.title && newArtwork.creation_date && newArtwork.url && (
           <div className="card">
-            {newArtwork.images?.web && (
+            {newArtwork.images?.web?.url && (
               <img src={newArtwork.images.web.url} alt={newArtwork.title} className="w-full h-48 object-cover mb-2" />
             )}
             <div className="p-4">
@@ -119,7 +121,7 @@ const CollectionPage = () => {
         <input type="text" name="title" value={newArtwork.title} onChange={handleChange} placeholder="Title" required />
         <input type="text" name="creation_date" value={newArtwork.creation_date} onChange={handleChange} placeholder="Creation Year" required />
         <input type="text" name="url" value={newArtwork.url} onChange={handleChange} placeholder="URL" required />
-        <button type="submit">Add Artwork</button>
+        <button type="submit">Confirm</button>
       </form>
     </div>
   );

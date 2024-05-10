@@ -3,8 +3,7 @@ import '../styles/styles.css'; // Import styles.css
 
 const Home = () => {
   const [artworks, setArtworks] = useState([]);
-  const [collection, setCollection] = useState([]); // Define collection state
-  const [formData, setFormData] = useState({ url: '', title: '', creationYear: '' });
+  const [ setCollection] = useState([]); // Define collection state
 
   useEffect(() => {
     fetchArtworks();
@@ -39,22 +38,6 @@ const Home = () => {
     } catch (error) {
       console.error('Error adding artwork to collection:', error);
     }
-  };
-
-  const handleChange = (e) => {
-    setFormData({ ...formData, [e.target.name]: e.target.value });
-  };
-
-  const handleSubmit = async (e) => {
-    e.preventDefault();
-    const { url, title, creationYear } = formData;
-    const newArtwork = {
-      url,
-      title,
-      creation_date: creationYear // Assuming backend expects 'creation_date' instead of 'creationYear'
-    };
-
-    addToCollection(newArtwork);
   };
 
   return (
