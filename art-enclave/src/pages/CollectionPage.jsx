@@ -109,18 +109,7 @@ const CollectionPage = () => {
         ))}
 
         {/* Render new artwork */}
-        {newArtwork.title && newArtwork.creation_date && newArtwork.url && (
-          <div className="card">
-            {newArtwork.images?.web?.url && (
-              <img src={newArtwork.images.web.url} alt={newArtwork.title} className="w-full h-48 object-cover mb-2" />
-            )}
-            <div className="p-4">
-              <h2 className="text-lg font-bold mb-2">{newArtwork.title}</h2>
-              <p className="text-sm text-gray-600">{newArtwork.creation_date}</p>
-              <button className="button" onClick={() => setNewArtwork({ title: '', creation_date: '', url: '' })}>Remove from Collection</button>
-            </div>
-          </div>
-        )}
+        
       </div>
     </div>
   );

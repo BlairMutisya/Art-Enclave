@@ -1,8 +1,9 @@
 // Navbar.js
 import React from 'react';
 import { Link } from 'react-router-dom';
-import { TbLogin } from "react-icons/tb"; // Import icons from react-icons
+
 import '../styles/styles.css'; // Import styles.css
+import { UserCirclePlus } from "@phosphor-icons/react"
 
 const Navbar = () => {
   const handleLogin = () => {
@@ -28,7 +29,7 @@ const Navbar = () => {
         </li>
       </ul>
       <div className="navbar-icons">
-        <TbLogin className="icon" onClick={handleLogin} /> {/* Login icon */}
+        <UserCirclePlus className="icon" onClick={handleLogin} /> {/* Login icon */}
       </div>
     </nav>
   );

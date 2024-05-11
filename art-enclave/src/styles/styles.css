@@ -1,26 +1,24 @@
 .welcome-message {
-    text-align: center; /* Center align text */
-    margin-top: 100px; /* Adjust the top margin to center vertically */
+    text-align: center; 
+    margin-top: 100px; 
 }
   
 .welcome-message h1 {
-    font-size: 4rem;
+    font-size: 6rem;
     color: #333;
 }
 .welcome-message h2 {
-    font-size: 3rem;
+    font-size: 4rem;
     color: #333;
 } 
 .welcome-message p {
-    font-size: 1.2rem;
+    font-size: 2rem;
     color: #666;
 }
   
 body {
     font-family: 'Poppins', sans-serif;
-    
     margin-top:1.8cm
-
 }
 
 
@@ -34,11 +32,11 @@ body {
     display: flex;
     justify-content: space-between; 
     align-items: center;
-    position: fixed; /* Fixed position to stick at the top */
-    width: 100%; /* Occupy full width */
-    top: 0; /* Align to the top */
-    left: 0; /* Align to the left */
-    z-index: 1000; /* Ensure it's on top of other content */
+    position: fixed;
+    width: 100%; 
+    top: 0; 
+    left: 0; 
+    z-index: 1000; 
     
     box-shadow: 0 2px 4px rgba(254, 254, 254, 0.1); /* Add shadow */
 }
@@ -238,7 +236,7 @@ body {
   
   /* Style the "Add to Collection" button */
   .button {
-    background-color: #C60C30;
+    background-color: #EF0307;
     border: none;
     color: white;
     padding: 10px 20px;
@@ -253,12 +251,12 @@ body {
   }
   
   .button:hover {
-    background-color: #57F287;
+    background-color: hsl(0, 0%, 0%);
   }
 
   /* Add image button */
 .add-image-button {
-  background-color: #C60C30;
+  background-color: #EF0307;
   color: white;
   border: none;
   padding: 10px 20px;
@@ -300,7 +298,37 @@ body {
   }
   
   .add-to-collection-form button:hover {
-    background-color: #555;
+    background-color: hsl(0, 86%, 54%);
    
 }
 
+
+
+.centered-container {
+  margin-bottom: 20px;
+  margin-top: 10px; /* Adjust the margin as needed */
+  
+}
+
+.get-started-button {
+  padding: 10px 20px;
+  font-size: 16px;
+  background-color: hsl(0, 86%, 54%);
+  color: rgb(228, 228, 228);
+  border: none;
+  border-radius: 15px;
+  cursor: pointer;
+  transition: background-color 0.3s;
+  margin-bottom: 60px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  margin-left: 35em;
+  
+  
+}
+
+.get-started-button:hover {
+  background-color: #010202;
+}

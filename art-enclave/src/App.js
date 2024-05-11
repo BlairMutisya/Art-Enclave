@@ -5,7 +5,7 @@ import Home from './components/Home';
 import Location from './components/Location';
 import Contact from './components/Contact';
 import CollectionPage from './pages/CollectionPage'; 
-import LoginRegisterPage from './pages/LoginRegisterPage'; // Import the login/register page
+import LoginRegisterPage from './pages/LoginRegisterPage'; 
 import NavBar from './components/NavBar'; 
 
 const App = () => {
@@ -18,7 +18,7 @@ const App = () => {
           <Route path="/location" element={<Location />} />
           <Route path="/contact" element={<Contact />} />
           <Route path="/collection" element={<CollectionPage />} />
-          <Route path="/login-register" element={<LoginRegisterPage />} /> // Define the route for login/register page
+          <Route path="/login-register" element={<LoginRegisterPage />} />
         </Routes>
       </div>
     </Router>
