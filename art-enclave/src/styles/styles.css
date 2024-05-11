@@ -1,262 +1,261 @@
 .welcome-message {
-    text-align: center; 
-    margin-top: 100px; 
-}
-  
-.welcome-message h1 {
-    font-size: 6rem;
-    color: #333;
-}
-.welcome-message h2 {
-    font-size: 4rem;
-    color: #333;
-} 
-.welcome-message p {
-    font-size: 2rem;
-    color: #666;
-}
-  
-body {
-    font-family: 'Poppins', sans-serif;
-    margin-top:1.8cm
+  text-align: center;
+  margin-top: 100px;
 }
 
+.welcome-message h1 {
+  font-size: 6rem;
+  color: #333;
+}
+.welcome-message h2 {
+  font-size: 4rem;
+  color: #333;
+}
+.welcome-message p {
+  font-size: 2rem;
+  color: #666;
+}
+
+body {
+  font-family: "Poppins", sans-serif;
+  margin-top: 1.8cm;
+}
 
 /* Navbar */
 .navbar {
-    font-family: "Pacifico", cursive;
-    font-weight: 900;
-    font-style: normal;
-    background-color: #EF0307 ;
-    padding: 0.5rem 0.1rem; 
-    display: flex;
-    justify-content: space-between; 
-    align-items: center;
-    position: fixed;
-    width: 100%; 
-    top: 0; 
-    left: 0; 
-    z-index: 1000; 
-    
-    box-shadow: 0 2px 4px rgba(254, 254, 254, 0.1); /* Add shadow */
+  font-family: "Pacifico", cursive;
+  font-weight: 900;
+  font-style: normal;
+  background-color: #ef0307;
+  padding: 0.5rem 0.1rem;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  position: fixed;
+  width: 100%;
+  top: 0;
+  left: 0;
+  z-index: 1000;
+
+  box-shadow: 0 2px 4px rgba(254, 254, 254, 0.1); /* Add shadow */
 }
 
 .navbar-logo {
-    font-family: "Pacifico", cursive;
-    font-size: 1.5rem;
-    font-weight: bold;
-    text-transform: uppercase;
-    color: black;
-    text-decoration: none;
+  font-family: "Pacifico", cursive;
+  font-size: 1.5rem;
+  font-weight: bold;
+  text-transform: uppercase;
+  color: black;
+  text-decoration: none;
 }
-
 
 .navbar-links {
-    list-style-type: none;
-    padding: 0;
-    margin: 0;
-    display: flex;
-    justify-content: space-between; /* Distribute items evenly */
-    align-items: center;
+  list-style-type: none;
+  padding: 0;
+  margin: 0;
+  display: flex;
+  justify-content: space-between; /* Distribute items evenly */
+  align-items: center;
 }
-  
+
 .navbar-link {
-    position: relative;
-    text-decoration: none;
-    color: black;
-    transition: color 0.3s ease; /* Smooth transition */
-    margin-right: 5rem; /* Increase margin between links */
-    font-size: 1.2rem; /* Increase font size */
-    font-weight: bold; /* Bold font weight */
+  position: relative;
+  text-decoration: none;
+  color: black;
+  transition: color 0.3s ease; /* Smooth transition */
+  margin-right: 5rem; /* Increase margin between links */
+  font-size: 1.2rem; /* Increase font size */
+  font-weight: bold; /* Bold font weight */
 }
-  
+
 .navbar-link:hover {
-    color: #666; /* Change text color on hover */
+  color: #666; /* Change text color on hover */
 }
-  
+
 .navbar-link::after {
-    content: '';
-    position: absolute;
-    bottom: -2px; /* Adjust based on your design */
-    left: 0;
-    width: 0;
-    height: 2px; /* Thickness of the line */
-    background-color: rgb(245, 245, 245); /* Color of the line */
-    transition: width 0.3s ease; /* Transition for the line width */
+  content: "";
+  position: absolute;
+  bottom: -2px; 
+  left: 0;
+  width: 0;
+  height: 2px; /* Thickness of the line */
+  background-color: rgb(245, 245, 245); /* Color of the line */
+  transition: width 0.3s ease; /* Transition for the line width */
 }
-  
+
 .navbar-link:hover::after {
-    width: 100%; /* Show the line on hover */
+  width: 100%; /* Show the line on hover */
 }
-  
+
 .icon {
-    font-size: 1.5rem; /* Increase icon size */
-    margin-left: 1rem; /* Increase margin between icons */
-    cursor: pointer;
-    transition: color 0.7s ease; /* Smooth transition */
-    color: #F2F0EB;
-    margin-right: 1cm;
+  font-size: 1.5rem; 
+  margin-left: 1rem; /* margin between icons */
+  cursor: pointer;
+  transition: color 0.7s ease; /* Smooth transition */
+  color: #f2f0eb;
+  margin-right: 1cm;
 }
 
 .icon:hover {
-    color: #ffcc00; /* Change icon color on hover */
+  color: #ffcc00; /* Change icon color on hover */
 }
 /* Contacts Container */
 .contacts-container {
-    display: flex;
-    justify-content: space-between; /* Adjust the spacing between cards */
-    align-items: center;
-    flex-wrap: wrap; /* Allow cards to wrap to the next line */
-    margin-top: 2rem;
-    padding: 0 1rem; /* Add padding to the container */
+  display: flex;
+  justify-content: space-between; /* Adjust the spacing between cards */
+  align-items: center;
+  flex-wrap: wrap; /* Allow cards to wrap to the next line */
+  margin-top: 2rem;
+  padding: 0 1rem; /* Add padding to the container */
 }
-  
+
 /* Contact Card */
 .contact-card {
-    backdrop-filter: blur(10px);
-    -webkit-backdrop-filter: blur(10px);
-    width: 300px;
-    height: 200px;
-    perspective: 1000px;
-    border-radius: 16px;
-    overflow: hidden;
-    box-shadow: 0 0 20px rgba(251, 251, 251, 0.1);
-    transition: transform 0.5s;
-    margin-bottom: 2rem; /* Add spacing between cards */
-
+  backdrop-filter: blur(10px);
+  -webkit-backdrop-filter: blur(10px);
+  width: 300px;
+  height: 200px;
+  perspective: 1000px;
+  border-radius: 16px;
+  overflow: hidden;
+  box-shadow: 0 0 20px rgba(251, 251, 251, 0.1);
+  transition: transform 0.5s;
+  margin-bottom: 2rem; /* Add spacing between cards */
 }
-  
+
 /* Contact Card Hover Effect */
 .contact-card:hover {
-    transform: scale(1.15);
+  transform: scale(1.15);
 }
-  
+
 /* Contact Face */
 .contact-face {
-    width: 100%;
-    height: 100%;
-    position: absolute;
-    backface-visibility: hidden;
-    transition: transform 0.5s;
+  width: 100%;
+  height: 100%;
+  position: absolute;
+  backface-visibility: hidden;
+  transition: transform 0.5s;
 }
-  
-/* Contact Front Face */
-  .contact-face-front {
-    transform: rotateY(0deg);
-    background:transparent;
-    border-radius: 16px;
-    display: flex;
-    justify-content: center;
-    align-items: center;
-  }
-  
-  /* Contact Back Face */
-  .contact-face-back {
-    transform: rotateY(180deg);
-    background:transparent;
-    border-radius: 16px;
-    display: flex;
-    justify-content: center;
-    align-items: center;
-  }
-  
-  /* Contact Content */
-  .contact-content {
-    text-align: center;
-  }
-  
-  /* Contact Icon */
-  .contact-icon {
-    font-size: 3rem;
-    margin-bottom: 1rem;
-    color: #333;
-  }
-  
-  /* Contact Title */
-  .contact-content h3 {
-    font-size: 1.5rem;
-    margin-bottom: 0.5rem;
-    color: hsl(0, 0%, 100%);
-  }
-  
-  /* Contact Description */
-  .contact-content p {
-    font-size: 1rem;
-    color: hsl(0, 0%, 100%);
-  }
-  
 
-  
-  .artWork {
-    display: flex;
-    border-radius: 50px;
-  }
+/* Contact Front Face */
+.contact-face-front {
+  transform: rotateY(0deg);
+  background: transparent;
+  border-radius: 16px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+/* Contact Back Face */
+.contact-face-back {
+  transform: rotateY(180deg);
+  background: transparent;
+  border-radius: 16px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+/* Contact Content */
+.contact-content {
+  text-align: center;
+}
+
+/* Contact Icon */
+.contact-icon {
+  font-size: 3rem;
+  margin-bottom: 1rem;
+  color: #333;
+}
+
+/* Contact Title */
+.contact-content h3 {
+  font-size: 1.5rem;
+  margin-bottom: 0.5rem;
+  color: hsl(0, 0%, 100%);
+}
+
+/* Contact Description */
+.contact-content p {
+  font-size: 1rem;
+  color: hsl(0, 0%, 100%);
+}
+
+.artWork {
+  display: flex;
+  border-radius: 50px;
+}
 /* Adjust grid layout to display 4 rows and 3 columns */
 .grid {
-    display: grid;
-    grid-template-columns: repeat(3, 1fr); /* 3 columns */
-    grid-template-rows: repeat(4, auto); /* 4 rows */
-    gap: 20px; /* Gap between grid items */
-  }
-  
-  /* Style individual card */
-  .card {
-    background: linear-gradient(135deg, rgba(255, 255, 255, 0.1), rgba(255, 255, 255, 0));
-    backdrop-filter: blur(10px);
-    -webkit-backdrop-filter: blur(10px);
-    border-radius: 20px;
-    border:1px solid rgba(255, 255, 255, 0.18);
-    box-shadow: 0 8px 32px 0 rgba(0, 0, 0, 0.37);
+  display: grid;
+  grid-template-columns: repeat(3, 1fr); /* 3 columns */
+  grid-template-rows: repeat(4, auto); /* 4 rows */
+  gap: 20px; /* Gap between grid items */
 }
 
-  .card img {
-    width: 100%;
-    height: 250px; /* Set a fixed height for the image */
-    object-fit: cover;
-    border-top-left-radius:20px;
-    border-top-right-radius: 20px;
-  }
-  
-  .card .p-4 {
-    padding: 20px;
-  }
-  
-  .card h2 {
-    font-size: 18px;
-    font-weight: bold;
-    margin-bottom: 10px;
-    color: #F2F0EB;
-  }
-  
-  .card p {
-    font-size: 14px;
-    color: #666666;
-    margin-bottom: 10px;
-  }
-  
-  /* Style the "Add to Collection" button */
-  .button {
-    background-color: #EF0307;
-    border: none;
-    color: white;
-    padding: 10px 20px;
-    text-align: center;
-    text-decoration: none;
-    display: inline-block;
-    font-size: 14px;
-    cursor: pointer;
-    border-radius: 5px;
-    transition-duration: 0.9s;
-    margin-left: 2.3cm;
-  }
-  
-  .button:hover {
-    background-color: hsl(0, 0%, 0%);
-  }
+/* Style individual card */
+.card {
+  background: linear-gradient(
+    135deg,
+    rgba(255, 255, 255, 0.1),
+    rgba(255, 255, 255, 0)
+  );
+  backdrop-filter: blur(10px);
+  -webkit-backdrop-filter: blur(10px);
+  border-radius: 20px;
+  border: 1px solid rgba(255, 255, 255, 0.18);
+  box-shadow: 0 8px 32px 0 rgba(0, 0, 0, 0.37);
+}
 
-  /* Add image button */
+.card img {
+  width: 100%;
+  height: 250px; /* Set a fixed height for the image */
+  object-fit: cover;
+  border-top-left-radius: 20px;
+  border-top-right-radius: 20px;
+}
+
+.card .p-4 {
+  padding: 20px;
+}
+
+.card h2 {
+  font-size: 18px;
+  font-weight: bold;
+  margin-bottom: 10px;
+  color: #f2f0eb;
+}
+
+.card p {
+  font-size: 14px;
+  color: #666666;
+  margin-bottom: 10px;
+}
+
+/* Style the "Add to Collection" button */
+.button {
+  background-color: #ef0307;
+  border: none;
+  color: white;
+  padding: 10px 20px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 14px;
+  cursor: pointer;
+  border-radius: 5px;
+  transition-duration: 0.9s;
+  margin-left: 2.3cm;
+}
+
+.button:hover {
+  background-color: hsl(0, 0%, 0%);
+}
+
+/* Add image button */
 .add-image-button {
-  background-color: #EF0307;
+  background-color: #ef0307;
   color: white;
   border: none;
   padding: 10px 20px;
@@ -266,48 +265,44 @@ body {
 }
 
 .add-image-button:hover {
-  background-color: #57F287;
+  background-color: #57f287;
 }
 
 .add-to-collection-form {
-    margin-top: 20px;
-  }
-  .add-to-collection-form h2 {
-    color: #F2F0EB;
-  }
-  .add-to-collection-form h3 {
-    margin-bottom: 10px;
-  }
-  
-  .add-to-collection-form input {
-    width: 200px;
-    padding: 10px;
-    margin-bottom: 15px; /* Added margin-bottom */
-    border: 1px solid #ccc;
-    border-radius: 5px;
-    margin-right: 80px;
-  }
-  
-  .add-to-collection-form button {
-    background-color: #333;
-    color: #fff;
-    border: none;
-    padding: 10px 20px;
-    border-radius: 5px;
-    cursor: pointer;
-  }
-  
-  .add-to-collection-form button:hover {
-    background-color: hsl(0, 86%, 54%);
-   
+  margin-top: 20px;
+}
+.add-to-collection-form h2 {
+  color: #f2f0eb;
+}
+.add-to-collection-form h3 {
+  margin-bottom: 10px;
 }
 
+.add-to-collection-form input {
+  width: 200px;
+  padding: 10px;
+  margin-bottom: 15px; /* Added margin-bottom */
+  border: 1px solid #ccc;
+  border-radius: 5px;
+  margin-right: 80px;
+}
 
+.add-to-collection-form button {
+  background-color: #333;
+  color: #fff;
+  border: none;
+  padding: 10px 20px;
+  border-radius: 5px;
+  cursor: pointer;
+}
+
+.add-to-collection-form button:hover {
+  background-color: hsl(0, 86%, 54%);
+}
 
 .centered-container {
   margin-bottom: 20px;
   margin-top: 10px; /* Adjust the margin as needed */
-  
 }
 
 .get-started-button {
@@ -325,8 +320,6 @@ body {
   align-items: center;
   justify-content: center;
   margin-left: 35em;
-  
-  
 }
 
 .get-started-button:hover {

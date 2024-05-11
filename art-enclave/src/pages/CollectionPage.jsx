@@ -52,7 +52,7 @@ const CollectionPage = () => {
     }
   };
 
-  const [submitted, setSubmitted] = useState(false);
+  const [ setSubmitted] = useState(false);
 
   const handleSubmit = (e) => {
     e.preventDefault();
@@ -106,10 +106,7 @@ const CollectionPage = () => {
               <button className="button" onClick={() => removeFromCollection(artwork.id)}>Remove from Collection</button>
             </div>
           </div>
-        ))}
-
-        {/* Render new artwork */}
-        
+        ))}  
       </div>
     </div>
   );

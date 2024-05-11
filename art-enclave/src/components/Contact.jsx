@@ -3,7 +3,7 @@ import '../styles/styles.css';
 
 const Contacts = () => {
   return (
-    <div className="contacts-container"> {/* Change class name to match the updated CSS */}
+    <div className="contacts-container"> 
       <div className="contact-card">
         <div className="contact-face contact-face1">
           <div className="contact-content">
