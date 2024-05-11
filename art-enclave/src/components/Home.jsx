@@ -51,7 +51,10 @@ const Home = () => {
     <div>
       {/* Welcome message */}
       <div className="welcome-message">
-        <h1>Welcome to Art EnClave, </h1>
+        <h1>
+          <span className="half-red">Welcome to </span>{" "}
+          <span className="half-grey">Art EnClave</span>
+        </h1>
         <h2>The home of Artworks:</h2>
         <p>
           "Embark on a captivating journey through the halls of our esteemed art

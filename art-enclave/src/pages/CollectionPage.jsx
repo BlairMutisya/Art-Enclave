@@ -3,6 +3,7 @@ import React, { useState, useEffect } from 'react';
 const CollectionPage = () => {
   const [collection, setCollection] = useState([]);
   const [newArtwork, setNewArtwork] = useState({ title: '', creation_date: '', url: '' });
+  const [submitted, setSubmitted] = useState(false);
 
   useEffect(() => {
     fetchCollection();
@@ -30,7 +31,7 @@ const CollectionPage = () => {
       if (response.ok) {
         const addedArtwork = await response.json();
         setCollection(prevCollection => [...prevCollection, addedArtwork]);
-        setNewArtwork({ title: '', creation_date: '', url: '' }); // Clear form fields after adding artwork
+        setNewArtwork({ title: '', creation_date: '', url: '' });
         alert('Artwork added to collection!');
       } else {
         alert('Failed to add artwork to collection.');
@@ -52,18 +53,15 @@ const CollectionPage = () => {
     }
   };
 
-  const [ setSubmitted] = useState(false);
-
   const handleSubmit = (e) => {
     e.preventDefault();
-    setSubmitted(true); // Set submitted to true when the form is submitted
+    setSubmitted(true);
     addToCollection();
   };
 
   const handleChange = (e) => {
     const { name, value } = e.target;
     if (name === 'url') {
-      // Always update the state for URL field
       setNewArtwork(prevArtwork => ({
         ...prevArtwork,
         [name]: value,
@@ -74,7 +72,6 @@ const CollectionPage = () => {
         }
       }));
     } else {
-      // Update the state for other fields
       setNewArtwork(prevArtwork => ({
         ...prevArtwork,
         [name]: value
@@ -84,7 +81,6 @@ const CollectionPage = () => {
 
   return (
     <div>
-      {/* Add to Collection form */}
       <form onSubmit={handleSubmit} className="add-to-collection-form">
         <h2>Add to Collection</h2>
         <input type="text" name="title" value={newArtwork.title} onChange={handleChange} placeholder="Title" required />
@@ -94,7 +90,6 @@ const CollectionPage = () => {
       </form>
 
       <div className="grid grid-cols-3 gap-4">
-        {/* Render existing collection artworks */}
         {collection.length > 0 && collection.map((artwork, index) => (
           <div key={index} className="card">
             {artwork.images?.web && (
@@ -106,7 +101,7 @@ const CollectionPage = () => {
               <button className="button" onClick={() => removeFromCollection(artwork.id)}>Remove from Collection</button>
             </div>
           </div>
-        ))}  
+        ))}
       </div>
     </div>
   );
