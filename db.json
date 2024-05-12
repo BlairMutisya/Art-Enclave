@@ -1600,7 +1600,7 @@
       "updated_at": "2024-03-26 01:56:10.088000"
     },
     {
-      "id": 125249,
+      "id": "125249",
       "accession_number": "1947.209",
       "share_license_status": "CC0",
       "tombstone": "The Large Plane Trees (Road Menders at Saint-Rémy), 1889. Vincent van Gogh (Dutch, 1853–1890). Oil on fabric; framed: 104.5 x 124.5 x 7.6 cm (41 1/8 x 49 x 3 in.); unframed: 73.4 x 91.8 cm (28 7/8 x 36 1/8 in.). The Cleveland Museum of Art, Gift of the Hanna Fund 1947.209",
@@ -2375,7 +2375,7 @@
       }
     },
     {
-      "id": 135299,
+      "id": "135299",
       "accession_number": "1958.31",
       "share_license_status": "CC0",
       "tombstone": "Adeline Ravoux, 1890. Vincent van Gogh (Dutch, 1853–1890). Oil on fabric; framed: 72.5 x 73.5 x 8.5 cm (28 9/16 x 28 15/16 x 3 3/8 in.); unframed: 50.2 x 50.5 cm (19 3/4 x 19 7/8 in.). The Cleveland Museum of Art, Bequest of Leonard C. Hanna, Jr. 1958.31",
@@ -3016,6 +3016,1033 @@
           "url": "https://i.pinimg.com/564x/3f/af/49/3faf4974c2f67018ca2b543d1b9aadd5.jpg"
         }
       }
+    },
+    {
+      "id": 151904,
+      "accession_number": "1927.1984",
+      "share_license_status": "CC0",
+      "tombstone": "The Biglin Brothers Turning the Stake, 1873. Thomas Eakins (American, 1844–1916). Oil on canvas; framed: 117 x 167 x 6.5 cm (46 1/16 x 65 3/4 x 2 9/16 in.); unframed: 101.3 x 151.4 cm (39 7/8 x 59 5/8 in.). The Cleveland Museum of Art, Hinman B. Hurlbut Collection 1927.1984",
+      "current_location": "207 American Realism",
+      "title": "The Biglin Brothers Turning the Stake",
+      "creation_date": "1873",
+      "creation_date_earliest": 1873,
+      "creation_date_latest": 1873,
+      "artists_tags": [
+        "male"
+      ],
+      "culture": [
+        "America, 19th century"
+      ],
+      "technique": "oil on canvas",
+      "support_materials": [],
+      "department": "American Painting and Sculpture",
+      "collection": "American - Painting",
+      "type": "Painting",
+      "measurements": "Framed: 117 x 167 x 6.5 cm (46 1/16 x 65 3/4 x 2 9/16 in.); Unframed: 101.3 x 151.4 cm (39 7/8 x 59 5/8 in.)",
+      "dimensions": {
+        "framed": {
+          "height": 1.17,
+          "width": 1.67,
+          "depth": 0.065
+        },
+        "unframed": {
+          "height": 1.013,
+          "width": 1.514
+        }
+      },
+      "state_of_the_work": null,
+      "edition_of_the_work": null,
+      "copyright": null,
+      "inscriptions": [
+        {
+          "inscription": "signed lower left:  EAKINS 73.",
+          "inscription_translation": null,
+          "inscription_remark": null
+        }
+      ],
+      "exhibitions": {
+        "current": [
+          {
+            "id": 312517,
+            "title": "The Twentieth Anniversary Exhibition: The Official Art Exhibit of the Great Lakes Exposition",
+            "description": "<i>The Twentieth Anniversary Exhibition: The Official Art Exhibit of the Great Lakes Exposition</i>. The Cleveland Museum of Art, Cleveland, OH (organizer) (June 26-October 4, 1936).",
+            "opening_date": "1936-06-26T04:00:00"
+          },
+          {
+            "id": 312462,
+            "title": "Exhibition of American Painting from 1860 Until Today",
+            "description": "<i>Exhibition of American Painting from 1860 Until Today</i>. The Cleveland Museum of Art, Cleveland, OH (organizer) (June 23-October 4, 1937).",
+            "opening_date": "1937-06-23T04:00:00"
+          },
+          {
+            "id": 312341,
+            "title": "The Silver Jubilee Exhibition",
+            "description": "<i>The Silver Jubilee Exhibition</i>. The Cleveland Museum of Art, Cleveland, OH (organizer) (June 23-September 28, 1941).",
+            "opening_date": "1941-06-23T04:00:00"
+          },
+          {
+            "id": 311898,
+            "title": "35th Anniversary Exhibition",
+            "description": "<i>35th Anniversary Exhibition</i>. The Cleveland Museum of Art, Cleveland, OH (organizer) (June 20-September 30, 1951).",
+            "opening_date": "1951-06-20T04:00:00"
+          },
+          {
+            "id": 445590,
+            "title": "Thomas Eakins: Retrospective Exhibition",
+            "description": "<i>Thomas Eakins: Retrospective Exhibition</i>. Whitney Museum of American Art, New York, NY (organizer) (September 21-November 21, 1970).",
+            "opening_date": "1970-09-21T04:00:00"
+          },
+          {
+            "id": 302330,
+            "title": "Heritage and Horizon: American Painting 1776 - 1976",
+            "description": "<i>Heritage and Horizon: American Painting 1776 - 1976</i>. Albright-Knox Art Gallery, Buffalo, NY (organizer) (March 7-April 11, 1976); The Detroit Institute of Arts, Detroit, MI (May 2-June 13, 1976); The Toledo Museum of Art, Toledo, OH (July 4-August 15, 1976); The Cleveland Museum of Art, Cleveland, OH (September 8-October 10, 1976).",
+            "opening_date": "1976-03-07T05:00:00"
+          },
+          {
+            "id": 205372,
+            "title": "Thomas Eakins: The Rowing Pictures",
+            "description": "<i>Thomas Eakins: The Rowing Pictures</i>. National Gallery of Art (June 23-September 29, 1996); Yale University Art Gallery (organizer) (October 11, 1996-January 14, 1997); The Cleveland Museum of Art, Cleveland, OH (February 19-May 15, 1997).",
+            "opening_date": "1996-06-23T00:00:00"
+          },
+          {
+            "id": 205787,
+            "title": "Thomas Eakins, American Realist",
+            "description": "<i>Thomas Eakins, American Realist</i>. Philadelphia Museum of Art, Philadelphia, PA (organizer) (September 30, 2001-January 6, 2002); Musée d'Orsay, Paris, France (February 3-May 12, 2002); The Metropolitan Museum of Art, New York, NY (June 10-September 15, 2002).",
+            "opening_date": "2001-09-20T00:00:00"
+          },
+          {
+            "id": 184052,
+            "title": "Cleveland Collects American Art of the Gilded Age",
+            "description": "<i>Cleveland Collects American Art of the Gilded Age</i>. The Cleveland Museum of Art, Cleveland, OH (organizer) (February 23-May 18, 2003).",
+            "opening_date": "2003-02-23T00:00:00"
+          },
+          {
+            "id": 224558,
+            "title": "Time Stands Still: Muybridge and the Instantaneous Photography Movement",
+            "description": "<i>Time Stands Still: Muybridge and the Instantaneous Photography Movement</i>. The Cleveland Museum of Art, Cleveland, OH (February 15-May 16, 2004).",
+            "opening_date": "2004-02-15T00:00:00"
+          },
+          {
+            "id": 179631,
+            "title": "CMA Highlights",
+            "description": "<i>CMA Highlights</i>. The Cleveland Museum of Art (organizer) (June 21-September 11, 2005).",
+            "opening_date": "2005-06-21T00:00:00"
+          },
+          {
+            "id": 216543,
+            "title": "Manly Pursuits: The Sporting Images of Thomas Eakins",
+            "description": "<i>Manly Pursuits: The Sporting Images of Thomas Eakins</i>. Los Angeles County Museum of Art, Los Angeles, CA (organizer) (July 25-October 23, 2010).",
+            "opening_date": "2010-07-25T00:00:00"
+          }
+        ],
+        "legacy": [
+          {
+            "description": "Long Branch, NJ, unknown location (Summer, 1878) as Biglen Brothers turning the Stake-boat; see Thomas Eakins: The Rowing Pictures (Washington, D.C, 1996).",
+            "opening_date": "1996-01-01T00:00:00"
+          },
+          {
+            "description": "Boston, Charitable Mechanics Association, 13th Exhibition (2 September-2 November 1878) as Turning the Stake; see Thomas Eakins: The Rowing Pictures (Washington, D.C, 1996).",
+            "opening_date": "1996-01-01T00:00:00"
+          },
+          {
+            "description": "Philadelphia, Philadelphia Society of Artists, 2nd Annual Exhibition (1 November-6 December 1880) as Turning the Stake, A pair oared Race; see Thomas Eakins: The Rowing Pictures (Washington, D.C, 1996).",
+            "opening_date": "1996-01-01T00:00:00"
+          },
+          {
+            "description": "St. Louis, Art Hall, 21st St. Louis Fair, (3-8 October 1881) as Turning the Stake-boat; see Thomas Eakins: The Rowing Pictures (Washington, D.C, 1996).",
+            "opening_date": "1996-01-01T00:00:00"
+          },
+          {
+            "description": "Denver, National Mining and Industrial Exposition, 1st Annual Exposition (1 August-30 September 1882) as Biglen Brothers turning the Stake-boat; see Thomas Eakins: The Rowing Pictures (Washington, D.C, 1996).",
+            "opening_date": "1996-01-01T00:00:00"
+          },
+          {
+            "description": "New York, The Metropolitan Museum of Art, Loan Exhibition of the Works of Thomas Eakins (5 November-3 December 1917), illus. cat. no. 3, pl. 3 as The Biglin Brothers Turning the Stake-Boat.",
+            "opening_date": "1917-11-05T00:00:00"
+          },
+          {
+            "description": "Philadelphia, The Pennsylvania Academy of the Fine Arts, Memorial Exhibition of the Works of the Late Thomas Eakins (23 December 1917-13 January 1918), illus. cat. no. 33, listed p. 86.",
+            "opening_date": "1917-12-23T00:00:00"
+          },
+          {
+            "description": "Philadelphia, Department of Fine Arts, Paintings, Sculpture, and Prints in the Department of Fine Arts Sesqui-centennial International Exposition (1926), listed cat. no. 360, p. 70.",
+            "opening_date": "1926-01-01T00:00:00"
+          },
+          {
+            "description": "Cleveland, The Cleveland Museum of Art, Memorial Exhibition of Paintings by Thomas Eakins, Albert P. Ryder, and J. Alden Weir (15 December 1927-23 January 1928)",
+            "opening_date": "1927-12-15T00:00:00"
+          },
+          {
+            "description": "Philadelphia, PA, Pennsylvania Museum of Art, Work of Thomas Eakins (March 1930) New York, The Museum of Modern Art, Sixth Loan Exhibition: Winslow Homer, Albert P. Ryder, Thomas Eakins (May, 1930), illus. cat. no. 94, listed p. 29.",
+            "opening_date": "1930-03-01T00:00:00"
+          },
+          {
+            "description": "Los Angeles, Los Angeles Museum of History, Science, and Art, Olympic Competition and Exhibition of Art (30 July 30-31 August 1932), listed cat. no. 753, p. 51.",
+            "opening_date": "1931-07-30T00:00:00"
+          },
+          {
+            "description": "New York, Whitney Museum of American Art, American Genre: The Social Scene in Paintings and Prints (26 March-29 April 1935) cat. no. 28, listed p. 16, not illus.",
+            "opening_date": "1935-03-26T00:00:00"
+          },
+          {
+            "description": "Baltimore, The Baltimore Museum of Art, Thomas Eakins 1844-1916: A Retrospective Exhibition of His Paintings (1 December 1936-1 January 1937), illus. cat. no. 5.",
+            "opening_date": "1936-12-01T00:00:00"
+          },
+          {
+            "description": "Detroit, Detroit Institute of Art, Eighteenth Annual Exhibition of American Art (2 April-3 May 1937) cat. no. 1, listed p. 8, not illus.",
+            "opening_date": "1937-04-02T00:00:00"
+          },
+          {
+            "description": "New York, National Academy of Design, The Special World's Fair Exhibition (8 May-25 July 1939), listed cat. no.213.",
+            "opening_date": "1939-05-08T00:00:00"
+          },
+          {
+            "description": "San Francisco, The California Palace of the Legion of Honor, Seven Centuries of Painting: A Loan Exhibition of Old and Modern Masters (29 December 1939 - 28 January 1940), illus. cat. no. L-153, listed p. 50.",
+            "opening_date": "1939-12-29T00:00:00"
+          },
+          {
+            "description": "Detroit, The Detroit Institute of Arts, Five Centuries of Marine Painting (6 March-5 April 1942), listed no. 117, pp. 37-38, not illus.",
+            "opening_date": "1942-03-06T00:00:00"
+          },
+          {
+            "description": "Philadelphia, Philadelphia Museum of Art, Thomas Eakins Centennial Exhibitions (8 April-14 May, 1944), illus. cat. no. 17, p. 123, listed p. 134.",
+            "opening_date": "1944-04-08T00:00:00"
+          },
+          {
+            "description": "New York, M. Knoedler &amp; Company, A Loan Exhibition of the Works of Thomas Eakins 1844-1944, Commemorating the Centennial of His Birth (3 June-31 July 1944) illus. cat. no. 6.",
+            "opening_date": "1944-06-03T00:00:00"
+          },
+          {
+            "description": "Boston, Museum of Fine Arts, Boston Sport in American Art (10 October-10 December 1944), listed cat. no. 26, p.11, not illus.",
+            "opening_date": "1944-10-10T00:00:00"
+          },
+          {
+            "description": "Pittsburgh, Department of Fine Arts, Carnegie Institute, Thomas Eakins: Centennial Exhibition 1844-1944 (26 April-1 June 1945), illus. cat. no. 110.",
+            "opening_date": "1945-04-26T00:00:00"
+          },
+          {
+            "description": "London, The Tate Gallery, American Painting: From the Eighteenth Century to the Present Day (June - July 1946), illus. cat. no. 70, listed p. 12.",
+            "opening_date": "1946-06-01T00:00:00"
+          },
+          {
+            "description": "Saginaw Museum, Michigan, (2-28 November 1948), Thomas Eakins Centennial, no catalogue can be found for this show.",
+            "opening_date": "1948-11-02T00:00:00"
+          },
+          {
+            "description": "New York, NY, The Century Association, Exhibition of Paintings by Thomas Eakins (10 January-18 February 1951) no catalogue can be found for this show.",
+            "opening_date": "1951-01-10T00:00:00"
+          },
+          {
+            "description": "Akron, OH, Akron Art Institute, Masterpiece Series ( 30 December 1952-1 February 1953) no catalogue.",
+            "opening_date": "1952-12-30T00:00:00"
+          },
+          {
+            "description": "New York, Wildenstein &amp; Co., Landmarks in American Art, 1670-1950 (26 February-28 March 1953), illus. cat. no. 25, pl. 25 as The Biglen Brothers Turning the Stake.",
+            "opening_date": "1953-02-26T00:00:00"
+          },
+          {
+            "description": "Syracuse, Syracuse Museum of Fine Arts, 125 Years of American Art (16 September-11 October 1953), illus. cat . no. no. 18 as Turning the Stake Boat.",
+            "opening_date": "1953-09-16T00:00:00"
+          },
+          {
+            "description": "Philadelphia, Pennsylvania Academy of Fine Arts, 150th Anniversary Exhibition (15 January-13 March 1955); listed p. 65, cat. no. 74, not illus.",
+            "opening_date": "1955-01-15T00:00:00"
+          },
+          {
+            "description": "Washington, DC, National Gallery of Art, Smithsonian Institution, Thomas Eakins: A Retrospective Exhibition (8 October-12 November 1961); traveled to Chicago, The Art Institute of Chicago (1 December 1961-7 January 1962); to Philadelphia, Philadelphia Museum of Art (1 February-18 March 1962), illus. cat. no. 9, p. 43.",
+            "opening_date": "1961-10-08T00:00:00"
+          },
+          {
+            "description": "New York, Whitney Museum of Art, Thomas Eakins: Retrospective Exhibition (22 September-21 November 1970), illus. cat. no. 10, p. 37, listed p. 69.",
+            "opening_date": "1970-09-22T00:00:00"
+          },
+          {
+            "description": "Buffalo, Albright-Knox Art Gallery, Heritage and Horizon: American Painting 1776-1976 (6 March- 11 April 1976); traveled to Detroit, The Detroit Institute of Arts (5 May-13 June 1976); to Toledo, The Toledo Museum of Art (4 July-15 August 1976); to Cleveland, The Cleveland Museum of Art (8 September-10 October 1976), illus. cat. no. 22, illus.",
+            "opening_date": "1976-03-06T00:00:00"
+          },
+          {
+            "description": "Philadelphia, Philadelphia Museum of Art, Thomas Eakins Exhibition: Artist of Philadelphia (29 May-1 August 1982); traveled to Boston, Museum of Fine Arts, Boston (22 September-28 November 1982), illus. cat. no. 18, p. 22, illus.",
+            "opening_date": "1982-05-29T00:00:00"
+          },
+          {
+            "description": "Boston, Museum of Fine Arts, Boston A New World: Masterpieces of American Paintings 1760-1910 (7 September-13 November 1983); traveled to Washington, DC, Corcoran Gallery of American Art (7 December 1983-12 February 1984); to Paris, Grand Palais (16 March-11 June 1984) illus. cat. no. 58, p. 118, pp. 267-268, illus. p. 267.",
+            "opening_date": "1983-09-07T00:00:00"
+          },
+          {
+            "description": "The Cleveland Museum of Art (06/21/2005 - 09/11/2005); \"CMA Highlights\"",
+            "opening_date": "2005-06-21T00:00:00"
+          }
+        ]
+      },
+      "provenance": [
+        {
+          "description": "Susan MacDowell Eakins [1851-1938], Philadelphia, sold to the Cleveland Museum of Art",
+          "citations": [],
+          "footnotes": [
+            "<div><!--block-->Ownership of Eakins' unsold works passed to his wife, Susan Macdowell Eakins, upon his death in 1916.</div>"
+          ],
+          "date": "1916-1927"
+        },
+        {
+          "description": "The Cleveland Museum of Art, Cleveland, OH",
+          "citations": [],
+          "footnotes": [],
+          "date": "1927-"
+        }
+      ],
+      "find_spot": null,
+      "related_works": [
+        {
+          "id": 121189,
+          "description": "The Biglin Brothers Turning the Stake, 1873. Thomas Eakins (American, 1844–1916). Graphite and brush and brown wash; sheet: 35.5 x 43.1 cm (14 x 16 15/16 in.). The Cleveland Museum of Art, Mr. and Mrs. William H. Marlatt Fund 1942.1066",
+          "relationship": null
+        }
+      ],
+      "former_accession_numbers": [
+        "1955.27",
+        "1984.1927"
+      ],
+      "did_you_know": "Rowing was among the most popular spectator sports in the U.S. during the 1870s.",
+      "description": "Eakins's painting celebrates athletic teamwork while commemorating an actual event, a famous rowing race that took place on the Schuylkill River in Philadelphia during May 1872. Throngs of spectators line the riverbank and watch as Barney and John Biglin negotiate the tricky turn around a stake marking the halfway point in the contest. Their competitors, seen in the middle distance at the right, lag behind. The Biglin brothers won the race, cementing their status as the most celebrated oarsmen of the era. Trained in the United States and France, Eakins spent almost his entire artistic career in his hometown of Philadelphia. He is renowned for the unsentimental realism in his paintings, whose compositions he developed through painstakingly prepared figure and perspective drawings.",
+      "external_resources": {
+        "wikidata": [
+          "https://www.wikidata.org/wiki/Q117088141"
+        ],
+        "internet_archive": [
+          "https://archive.org/details/clevelandart-1927.1984-the-biglin-brothers"
+        ]
+      },
+      "citations": [
+        {
+          "citation": "",
+          "page_number": "",
+          "url": ""
+        },
+        {
+          "citation": "Koehler, S. R. “Second Annual Exhibition of the Philadelphia Society of Artists(Opened November 1. Closed December 6).” <em>The American Art Review</em> 2, no. 3 (January 1881): 103–15.",
+          "page_number": "Mentioned: P. 110",
+          "url": "https://doi.org/10.2307/20559774"
+        },
+        {
+          "citation": "Metropolitan Museum of Art (New York, N.Y.). <em>Loan Exhibition of the Works of Thomas Eakins, New York, November 5 to December 3, MCMXVII.</em> New York: The De Vinne press, 1917.",
+          "page_number": "Mentioned: pg 1; Reproduced: cat. no. 3, pl. 3",
+          "url": "https://archive.org/details/loanexhibitionof00metr_2/page/20/mode/2up"
+        },
+        {
+          "citation": "Burroughs, Alan. \"Catalogue of Work of Thomas Eakins (1869-1916).\" <em>The Arts</em> 5, no. 6 (June 1924): 328-335.",
+          "page_number": "Mentioned: P. 329",
+          "url": ""
+        },
+        {
+          "citation": "“Catalogue of the Works of Thomas Eakins.” <em>Bulletin of the Pennsylvania Museum</em> 25, no. 133 (March 1930): 17–33.",
+          "page_number": "Mentioned: P. 19, no. 25",
+          "url": "http://www.jstor.org/stable/3794383"
+        },
+        {
+          "citation": "M.M \"Exhibitions.\" <em>The International Studio </em>30 (June 1930): 70-74.",
+          "page_number": "Mentioned: P. 70; Reproduced: P. 74",
+          "url": ""
+        },
+        {
+          "citation": "Goodrich, Lloyd, and Thomas Eakins. <em>Thomas Eakins: His Life and Work</em>. New York, NY: Whitney Museum of American Art, 1933.",
+          "page_number": "Mentioned: p. 37-47; Reproduced: pl. 8",
+          "url": null
+        },
+        {
+          "citation": "Cahill, Holger, and Alfred H. Barr. <em>Art in America in Modern Times</em>. New York, NY:: Reynal &amp; Hitchcock,1934.",
+          "page_number": "Mentioned: p. 79-81; Reproduced: p. 81",
+          "url": null
+        },
+        {
+          "citation": "Cleveland Museum of Art. Catalogue of the Twentieth Anniversary Exhibition of the Cleveland Museum of Art: The Official Art Exhibit of the Great Lakes Exposition : June Twenty-Sixth to October Fourth 1936. [Cleveland, Ohio]: [Cleveland Museum of Art], 1936.",
+          "page_number": "listed cat. no. 355, p. 132 as Turning Stake Boat, or Biglin Brothers Turning Stake Boat",
+          "url": null
+        },
+        {
+          "citation": "Cleveland Museum of Art. Catalogue of an Exhibition of American Painting from 1860 Until Today at the Cleveland Museum of Art. [Cleveland]: [Printed by the Artcraft Printing Co.], 1937.",
+          "page_number": "illus. cat. no. 56, pl. 9, listed p. 20 as Turning Stake Boat",
+          "url": null
+        },
+        {
+          "citation": "\"The Story of American Painting Is Retold in Cleveland Exhibition.\" <em>Art Digest </em>11, no. 19 (August 1937): 5-9.",
+          "page_number": "Mentioned and reproduced: P. 6",
+          "url": ""
+        },
+        {
+          "citation": "Sweeney, J. J. \"L'Art Contemporain aux Etats-Unis.\" <em>Cahiers d'Art </em>13 (1938): 45-57.",
+          "page_number": "Mentioned: P. 50; Reproduced: P. 57",
+          "url": ""
+        },
+        {
+          "citation": "McKinney, Roland Joseph, Aimée Crane, and André Gloeckner. <em>Thomas Eakins</em>. New York, NY: Crown Publishers, 1942.",
+          "page_number": "Mentioned: p. 9-22; Reproduced: p. 67",
+          "url": null
+        },
+        {
+          "citation": "Richardson, E. P., and Robert Freund. <em>American Romantic Painting</em>. New York, NY: E. Weyhe, 1944.",
+          "page_number": "Mentioned: p.5-22, 31-32; Reproduced: no. 231",
+          "url": null
+        },
+        {
+          "citation": "Watkins, Franklin. \"Eakins.\" <em>ARTnews </em>63, no. 5 (April 15, 1944): 10-13.",
+          "page_number": "Reproduced: P. 11",
+          "url": ""
+        },
+        {
+          "citation": "Goodrich, Lloyd. \"Thomas Eakins Today.\" <em>Magazine of Art </em>37, no. 5 (May 1944): 162-166.",
+          "page_number": "",
+          "url": ""
+        },
+        {
+          "citation": "Ormsbee, Thomas H. \"Thomas Eakins, American Realist Painter.\" <em>American Collector: Biweekly for Dealers and Collectors </em>13, no. 6 (July 1944): 162-166.",
+          "page_number": "Reproduced: P. 165.",
+          "url": ""
+        },
+        {
+          "citation": "<em>Paintings in the Cleveland Museum of Art.</em> [Cleveland]: The Cleveland Museum of Art, 1945.",
+          "page_number": "Reproduced: p. 13",
+          "url": "https://archive.org/details/CMAPaintings1945/page/n21"
+        },
+        {
+          "citation": "O'Connor, Jr., John. \"Thomas Eakins, Consistent Realist.\" <em>Carnegie Magazine </em>19, no. 2 (April 1945): 35-39.",
+          "page_number": "Reproduced: P. 39",
+          "url": ""
+        },
+        {
+          "citation": "McHenry, Margaret. <em>Thomas Eakins Who Painted</em>. Oreland? PA: [Privately printed for the author], 1946.",
+          "page_number": "Mentioned: p. 23-24, 155",
+          "url": null
+        },
+        {
+          "citation": "Winchester, Alice. \"American Painting in London: A Comment On the Tate Gallery Exhibition.\" <em>The Magazine Antiques </em>51, no. 2 (February 1947): 100-108.",
+          "page_number": "Reproduced: P. 105, fig. 44",
+          "url": ""
+        },
+        {
+          "citation": "The Cleveland Museum of Art. <em>The Cleveland Museum of Art Handbook.</em> Cleveland, OH: The Cleveland Museum of Art, 1958.",
+          "page_number": "Mentioned and Reproduced: cat. no. 541",
+          "url": "https://archive.org/details/CMAHandbook1958/page/n100"
+        },
+        {
+          "citation": "Milliken, William Mathewson. <em>The Cleveland Museum of Art.</em> New York: H.N. Abrams, 1958.",
+          "page_number": "Mentioned and reproduced: P. 60-61",
+          "url": ""
+        },
+        {
+          "citation": "Porter, Fairfield. <em>Thomas Eakins</em>. New York: George Braziller,1959.",
+          "page_number": "Reproduced: Pl. 11",
+          "url": ""
+        },
+        {
+          "citation": "Grosser, Maurice. <em>Critic's Eye</em>. Indianapolis, IN: Bobbs-Merrill, 1962.",
+          "page_number": "Reproduced: p. 166",
+          "url": null
+        },
+        {
+          "citation": "Grosser, Maurice. <em>Critic's Eye</em>. Indianapolis: Bobbs-Merrill, 1962.",
+          "page_number": "Mentioned: P. 166",
+          "url": ""
+        },
+        {
+          "citation": "Kessler, Charles S. \"The Realism of Thomas Eakins.\" <em>Arts Magazine </em>36, no. 4 (January 1962): 16-22.",
+          "page_number": "Mentioned and reproduced: P. 17-18",
+          "url": ""
+        },
+        {
+          "citation": "Gracza, Margaret Young. <em>The Ship and the Sea in Art</em>. Minneapolis, MN: Lerner Publications Co, 1965.",
+          "page_number": "Mentioned and Reproduced: p. 52",
+          "url": null
+        },
+        {
+          "citation": "The Cleveland Museum of Art. <em>Handbook of the Cleveland Museum of Art/1966</em>. Cleveland, OH: The Cleveland Museum of Art, 1966.",
+          "page_number": "Reproduced: p. 187",
+          "url": "https://archive.org/details/CMAHandbook1966/page/n211"
+        },
+        {
+          "citation": "Schendler, Sylvan. <em>Eakins</em>. Boston, MA: Little, Brown, 1967.",
+          "page_number": "Mentioned: p. 33-40, 284-285; Reproduced: p. 39, fig. 14",
+          "url": null
+        },
+        {
+          "citation": "The Cleveland Museum of Art. <em>Handbook of the Cleveland Museum of Art/1969</em>. Cleveland, OH: The Cleveland Museum of Art, 1969.",
+          "page_number": "Reproduced: p. 187",
+          "url": "https://archive.org/details/CMAHandbook1969/page/n211"
+        },
+        {
+          "citation": "Hamilton, George Heard. <em>19th and 20th Century Art: Painting, Sculpture, Architecture</em>. New York: H.N. Abrams, 1970.",
+          "page_number": "Reproduced: p. 112, fig. 97",
+          "url": null
+        },
+        {
+          "citation": "Cleveland Museum of Art, and Berthold Fricke. <em>The Cleveland Museum of Art.</em> Hannover: Knorr &amp; Hirth, 1970.",
+          "page_number": "Mentioned and reproduced: P. 68-69",
+          "url": ""
+        },
+        {
+          "citation": "Adams, Celeste, Rita Myers, and Adele Z. Silver.<em> An Introduction to American Art in the Cleveland Museum of Art</em>. Cleveland: Cleveland Museum of Art, 1972.",
+          "page_number": "Mentioned and reproduced: P. 12-13",
+          "url": ""
+        },
+        {
+          "citation": "“A Check List. American Paintings and Water Colors of the Eighteenth, Nineteenth, and Early Twentieth Centuries in the Cleveland Museum of Art.” <em>The Bulletin of the Cleveland Museum of Art</em> 60, no. 1 (January 1973): 21–35.",
+          "page_number": "Mentioned: P. 25, no. 57",
+          "url": "http://www.jstor.org/stable/25152465"
+        },
+        {
+          "citation": "Parry, Ellwood C., and Maria Chamberlin-Hellman. “Thomas Eakins as an Illustrator, 1878-1881.” <em>American Art Journal</em> 5, no. 1 (May 1973): 20–45.",
+          "page_number": "Mentioned: P. 35",
+          "url": "https://www.jstor.org/stable/1593941"
+        },
+        {
+          "citation": "Albright-Knox Art Gallery, Detroit Institute of Arts, and Toledo Museum of Art. <em>Heritage and Horizon: American Painting, 1776-1976 : </em>[Exhibition. [Toledo]: Toledo Museum of Art, 1976.",
+          "page_number": "Mentioned and reproduced: No. 22",
+          "url": ""
+        },
+        {
+          "citation": "Hirshhorn Museum and Sculpture Garden, and Phyllis D. Rosenzweig. <em>The Thomas Eakins Collection of the Hirshhorn Museum and Sculpture Garden</em>. Washington DC: Published for the Hirshhorn Museum and Sculpture Garden, Smithsonian Institution, by the Smithsonian Institution Press, 1977.",
+          "page_number": "Mentioned and Reproduced: p. 50-51",
+          "url": null
+        },
+        {
+          "citation": "Johnson, Mark M. \"American Landscapes.\" <em>Arts and Activities </em>82, no. 4 (December 1977): 28-33.",
+          "page_number": "Mentioned: P. 31; Reproduced: P. 29, fig. 3",
+          "url": ""
+        },
+        {
+          "citation": "The Cleveland Museum of Art. <em>Handbook of the Cleveland Museum of Art/1978</em>. Cleveland, OH: The Cleveland Museum of Art, 1978.",
+          "page_number": "Reproduced: p. 232",
+          "url": "https://archive.org/details/CMAHandbook1978/page/n252"
+        },
+        {
+          "citation": "Johns, Elizabeth. \"Thomas Eakins: A Case for Reassessment.\" <em>Arts Magazine </em>53, no. 9 (May 1979): 130-133.",
+          "page_number": "Mentioned: P. 131",
+          "url": ""
+        },
+        {
+          "citation": "Johnson, Mark M. <em>Idea to Image: Preparatory Studies from the Renaissance to Impressionism.</em> Cleveland, Ohio: Cleveland Museum of Art, 1980.",
+          "page_number": "Mentioned and reproduced: P. 44-45, fig. 50",
+          "url": ""
+        },
+        {
+          "citation": "Weinberg, Barbara H. \"American Impressionism in Cosmopolitan Context.\" <em>Arts Magazine </em>(November 1980): 160-165.",
+          "page_number": "Mentioned and reproduced: P. 163-164, fig. 8",
+          "url": ""
+        },
+        {
+          "citation": "Silver, Adele Z. <em>Guide to the Galleries.</em> Cleveland, Ohio: Cleveland Museum of Art, 1981.",
+          "page_number": "Mentioned and reproduced: P. 83-84, fig. 77",
+          "url": ""
+        },
+        {
+          "citation": "Goodrich, Lloyd. <em>Thomas Eakin</em>s. Cambridge, Mass: Published for the National Gallery of Art [by] Harvard University Press, 1982.",
+          "page_number": "Mentioned: P. 83, Vol. I; Reproduced: P. 86, fig. 29",
+          "url": ""
+        },
+        {
+          "citation": "Wilmerding, John. “Philadelphia. Thomas Eakins.” <em>The Burlington Magazine</em> 124, no. 954 (September 1982): 583–85.",
+          "page_number": "Mentioned: P. 583; Reproduced: P. 585, fig. 40",
+          "url": "http://www.jstor.org/stable/880963"
+        },
+        {
+          "citation": "Goodrich, Lloyd. \"The Art of Thomas Eakins.\" <em>Portfolio </em>4, no. 5 (September/October 1982): 60-65.",
+          "page_number": "Mentioned and reproduced: P. 61-62",
+          "url": ""
+        },
+        {
+          "citation": "Parry, Ellwood. \"The 'Exact, Uncompromising' Eye of Thomas Eakins.\" <br><em>ARTnews </em>81, no. 8 (October 1982): 80-83.",
+          "page_number": "Mentioned: P. 82",
+          "url": ""
+        },
+        {
+          "citation": "Rosenblum, Robert, and H. W. Janson. <em>19th Century Art</em>. New York: Abrams, 1984.",
+          "page_number": "Mentioned: P. 357-358; Reproduced: P. 340, pl. 58",
+          "url": ""
+        },
+        {
+          "citation": "Weinberg, H. Barbara. <em>The American Pupils of Jean-Léon Gérôme. </em>Fort Worth, Tex: Amon Carter Museum, 1984.",
+          "page_number": "Mentioned and reproduced: P. 41-42, fig. 27",
+          "url": ""
+        },
+        {
+          "citation": "Johns, Elizabeth. \"Thomas Eakins: Strokes of Genius.\" <em>Art &amp; Antiques</em> (September 1984): 72-76.",
+          "page_number": "Mentioned and reproduced: P. 74-75",
+          "url": ""
+        },
+        {
+          "citation": "Milroy, Elizabeth. <em>Thomas Eakins' Artistic Training, 1860-1870. </em>Thesis, University of Pennsylvania, 1986.",
+          "page_number": "Mentioned: P. 326; Reproduced: P. 418, fig. 57",
+          "url": ""
+        },
+        {
+          "citation": "Hubbard, Roberta. \"Cleveland: A Cultural Campaign.\" <em>Horizon </em>29, no. 10 (December 1986): 16-24.",
+          "page_number": "Reproduced: P. 16",
+          "url": ""
+        },
+        {
+          "citation": "Fried, Michael. <em>Realism, Writing, Disfiguration: On Thomas Eakins and Stephen Crane. </em>Chicago: University of Chicago Press, 1987.",
+          "page_number": "Mentioned and reproduced: P. 47-48, fig. 36",
+          "url": ""
+        },
+        {
+          "citation": "Kimmerle, Constance. <em>Thomas Eakins' Exploration of the Mechanism and Laws of Human Expression and Understanding in Themes of Mental Effort and Creative Activity.</em> Thesis, Dissertation, University of Pennsylvania, 1989.",
+          "page_number": "Mentioned: P. 369",
+          "url": ""
+        },
+        {
+          "citation": "Miyazaki, Katsumi. <em>Inshō-ha No Miryoku.</em> Kyōto: Dōhōsha Shuppan, 1990.",
+          "page_number": "Mentioned and reproduced: P. 71",
+          "url": ""
+        },
+        {
+          "citation": "Griffin, Randall C. “Thomas Anshutz’s ‘The Ironworkers’ Noontime’: Remythologizing the Industrial Worker.” <em>Smithsonian Studies in American Art</em> 4, no. 3/4 (Summer-Autumn 1990): 129–43.",
+          "page_number": "Mentioned and reproduced: P. 139, fig. 13",
+          "url": "http://www.jstor.org/stable/3109019"
+        },
+        {
+          "citation": "Cleveland Museum of Art. <em>Interpretations: Sixty-Five Works from the Cleveland Museum of Art</em>. Cleveland, Ohio: Cleveland Museum of Art, 1991.",
+          "page_number": "Mentioned and reproduced: no. 31",
+          "url": ""
+        },
+        {
+          "citation": "Weinberg, H. Barbara. <em>The Lure of Paris: Nineteenth-Century American Painters and Their French Teachers.</em> New York: Abbeville Press Publishers, 1991.",
+          "page_number": "Mentioned and reproduced: P. 9-10, pl. 5",
+          "url": ""
+        },
+        {
+          "citation": "Wilmerding, John. <em>American Views: Essays on American Art.</em> Princeton, N.J.: Princeton University Press, 1991.",
+          "page_number": "Mentioned: P. 314; Reproduced: P. 316, fig. 214",
+          "url": ""
+        },
+        {
+          "citation": "Cleveland Museum of Art. <em>Handbook of the Cleveland Museum of Art</em>. Cleveland, Ohio: The Museum, 1991.",
+          "page_number": "Reproduced; p. 32",
+          "url": "https://archive.org/details/CMAHandbook1991/page/n147"
+        },
+        {
+          "citation": "Cleveland Museum of Art. <em>Masterpieces from East and West. </em>New York, NY: Rizzoli International, 1992.",
+          "page_number": "Mentioned and reproduced: P. 145",
+          "url": ""
+        },
+        {
+          "citation": "Homer, William Innes. <em>Thomas Eakins: His Life and Art. </em>New York: Abbeville Press, 1992.",
+          "page_number": "Mentioned and reproduced: P. 61, fig. 50",
+          "url": ""
+        },
+        {
+          "citation": "Chong, Alan. <em>European &amp; American Painting in the Cleveland Museum of Art: A Summary Catalogue</em>. Cleveland, Ohio: Cleveland Museum of Art, 1993.",
+          "page_number": "Mentioned and reproduced: P. 71",
+          "url": ""
+        },
+        {
+          "citation": "Wilmerding, John. <em>Thomas Eakins (1844-1916) and the Heart of American Life.</em> London: National Portrait Gallery, 1993.",
+          "page_number": "Mentioned: P. 20, 69",
+          "url": ""
+        },
+        {
+          "citation": "Griffin, Randall C. <em>Thomas Anshutz: Artist and Teach</em>er. Huntington, N.Y. : Heckscher Museum in association with the University of Washington Press, Seattle, 1994.",
+          "page_number": "Mentioned: P. 46; Reproduced: P. 48, fig. 16",
+          "url": ""
+        },
+        {
+          "citation": "\"1993 Annual Report.\" <em>The Bulletin of the Cleveland Museum of Art</em> 81, no. 6 (1994): 143-218.",
+          "page_number": "Mentioned: p. 170",
+          "url": "https://www.jstor.org/stable/25161457"
+        },
+        {
+          "citation": "Berger, Martin Andrew. <em>Determining Manhood: Constructions of Sexuality in the Art of Thomas Eakins.</em> Dissertation Yale University, 1995.",
+          "page_number": "Mentioned: P. 32-37; Reproduced: P. 173, fig. 8",
+          "url": ""
+        },
+        {
+          "citation": "Milroy, Elizabeth, and W. Douglass Paschall. <em>Guide to the Thomas Eakins Research Collection with a Lifetime Exhibition Record and Bibliography.</em> Philadelphia, Pa: Philadelphia Museum of Art, 1996.",
+          "page_number": "Mentioned: P. 21, 23, 36",
+          "url": ""
+        },
+        {
+          "citation": "Cooper, Helen A. Thomas Eakins: The Rowing Pictures. New Haven, Conn: Yale University Art Gallery, 1996.",
+          "page_number": "illus. fig. no. 26, p. 51, listed p. 137",
+          "url": null
+        },
+        {
+          "citation": "Distel, Anne. \"Yerres.\" In <em>Gustave Caillebotte: The Unknown Impressionist.</em> Anne Distel, 45-62. London: Royal Academy of Arts, in association with Ludion Press, Ghent, 1996.",
+          "page_number": "Mentioned and reproduced: P. 48-49, fig. 5",
+          "url": ""
+        },
+        {
+          "citation": "Baigell, Matthew.<em> A Concise History of American Painting and Sculpture.</em> New York: IconEditions, 1996.",
+          "page_number": "Mentioned and reproduced: P. 139-140, fig. 137",
+          "url": ""
+        },
+        {
+          "citation": "Mørstad, Erik. <em>Malerileksikon: Teknikker, motivtyper og estetikk. </em>Oslo: Ad Notam Gyldendal, 1996.",
+          "page_number": "Reproduced: P. 283",
+          "url": ""
+        },
+        {
+          "citation": "Werbel, Amy Beth. <em>Perspective in the Life and Art of Thomas Eakins.</em> Dissertation, Yale University, 1996.",
+          "page_number": "Mentioned: P. 118; Reproduced: P. 244, fig. 58",
+          "url": ""
+        },
+        {
+          "citation": "Cooper, Helen. \"The Rowing Pictures of Thomas Eakins.\" <em>The Magazine Antiques </em>150, no. 2 (August 1996): 166-177.",
+          "page_number": "Mentioned: P. 173; Reproduced: P. 174-175",
+          "url": ""
+        },
+        {
+          "citation": "Loos, Ted. \"Eakins's Shell Game.\" <em>Art &amp; Antiques </em>19, no. 10 (November 1996): 99-105.",
+          "page_number": "Mentioned and reproduced: P. 102",
+          "url": ""
+        },
+        {
+          "citation": "Masschelein-Currie, Christina. 1997. “Thomas Eakins under the Microscope: A Technical Study of the Rowing Paintings.” <em>American Artist</em> 61, no. 654 ( January 1997): 12-19.",
+          "page_number": "Mentioned and reproduced: P. 15-17, figs. 1-4, 7-9",
+          "url": ""
+        },
+        {
+          "citation": "Foster, Kathleen A., and Mark Bockrath. <em>Thomas Eakins Rediscovered: Charles Bregler's Thomas Eakins Collection at the Pennsylvania Academy of the Fine Arts.</em> New Haven: Yale University Press, 1997.",
+          "page_number": "Mentioned: P. 83, 125, 126, 143",
+          "url": ""
+        },
+        {
+          "citation": "Berger, Martin A. \"Modernity and Gender in Thomas Eakins's Swimming.\" <em>American Art </em>11, no. 3 (Fall 1997): 32-47.",
+          "page_number": "Reproduced: P. 36, fig. 3; Mentioned: P. 38",
+          "url": ""
+        },
+        {
+          "citation": "Burns, Sara Lea. \"Thomas Eakins Exposed.\" <em>Nineteenth-Century Studies </em>13 (1999): 139-152.",
+          "page_number": "Mentioned: P. 143; Reproduced: P. 145",
+          "url": ""
+        },
+        {
+          "citation": "Groseclose, Barbara S.<em> Nineteenth-Century American Art.</em> Oxford: Oxford University Press, 2000.",
+          "page_number": "Mentioned and reproduced: P. 103, no. 65",
+          "url": ""
+        },
+        {
+          "citation": "Mishory, Alec. <em>Art History: An Introduction.</em> Tel-Aviv: Open University of Israel, 2000.",
+          "page_number": "Reproduced: P. 83, no. 69",
+          "url": ""
+        },
+        {
+          "citation": "Berger, Martin A. <em>Man Made: Thomas Eakins and the Construction of Gilded Age Manhood</em>. Berkeley, Calif: University of California Press, 2000.",
+          "page_number": "Mentioned: P. 3, 23, 133 n. 51; Reproduced: Pl. 2",
+          "url": ""
+        },
+        {
+          "citation": "Sewell, Darrel, Kathleen A. Foster, and Thomas Eakins. Thomas Eakins: [... on the Occasion of the Exhibition \"Thomas Eakins. American Realist\" ... Philadelphia Museum of Art, October 4, 2001, to January 6, 2002 ...]. [New Haven, Conn.]: Yale Univ. Press, 2001.",
+          "page_number": "illus. pl. 6, p. 45, pp. 27-40, 390-391",
+          "url": null
+        },
+        {
+          "citation": "Ledes, Allison Eckardt. \"Current and Coming: Eakins in Philadelphia.\" <em>The Magazine Antiques </em>160, no. 4 (October 2001): 398-400.",
+          "page_number": "Mentioned: P. 400; Reproduced: P. 398",
+          "url": ""
+        },
+        {
+          "citation": "Esten, John.<em> Thomas Eakins: The Absolute Male.</em> New York, NY: Universe Pub, 2002.",
+          "page_number": "Reproduced: P. 39; mentioned: P. 78",
+          "url": ""
+        },
+        {
+          "citation": "Esten, John, and Thomas Eakins. Thomas Eakins: The Absolute Male. New York, NY: Universe Pub, 2002.",
+          "page_number": "Mentioned and reproduced: P. 61-63",
+          "url": ""
+        },
+        {
+          "citation": "Homer, William Innes. <em>Thomas Eakins: His Life and Art</em>. New York: Abbeville Press, 2002.",
+          "page_number": "Mentioned and reproduced: P. 61-63, fig. 50",
+          "url": ""
+        },
+        {
+          "citation": "Pinelli, Orietta Rossi. \"Un Pittore a Bordo Ring.\" <em>Art e dossier </em>175 (February 2002): 36-43.",
+          "page_number": "Reproduced: P. 39",
+          "url": ""
+        },
+        {
+          "citation": "Cleveland Museum of Art. <em>American Painting</em>. Cleveland, Ohio: Cleveland Museum of Art, 2003.",
+          "page_number": "Reproduced: P. 2",
+          "url": ""
+        },
+        {
+          "citation": "Griffin, Randall C. <em>Homer, Eakins, and Anshutz: The Search for American Identity in the Gilded Age.</em> University Park, Pa: Pennsylvania State University, 2004.",
+          "page_number": "Mentioned and reproduced: P. 50, fig. 19",
+          "url": ""
+        },
+        {
+          "citation": "Rosenblum, Robert, and H. W. Janson. <em>19th-Century Art. </em>Upper Saddle River, N.J.: Prentice Hall, 2005.",
+          "page_number": "Mentioned and reproduced: P. 364, fig. 350",
+          "url": ""
+        },
+        {
+          "citation": "Adams, Henry. <em>Eakins Revealed: The Secret Life of an American Artist.</em> Oxford [England]: Oxford University Press, 2005.",
+          "page_number": "Mentioned: P. 270, 243-244, 337; Reproduced: P. 192",
+          "url": ""
+        },
+        {
+          "citation": "Updike, John. <em>Still Looking: Essays on American A</em>rt. New York: Knopf, 2005.",
+          "page_number": "Mentioned: P. 76",
+          "url": ""
+        },
+        {
+          "citation": "Burns, Sarah. \"Ordering the Artist's Body: Thomas Eakins's Acts of Self-Portrayal.\"<em> American Art </em>19, no. 1 (Spring 2005): 82-107.",
+          "page_number": "Mentioned: P. 91",
+          "url": ""
+        },
+        {
+          "citation": "Kirkpatrick, Sidney. <em>The Revenge of Thomas Eakin</em>s. New Haven: Yale University Press, 2006.",
+          "page_number": "Reproduced: Pl. 5; Mentioned: P. 444, 146-147, 151-154, 160, 174, 187, 254",
+          "url": ""
+        },
+        {
+          "citation": "Novak, Barbara. <em>Nature and Culture: American Landscape and Painting, 1825-1875.</em> New York, NY: Oxford University Press, 2007.",
+          "page_number": "Mentioned and reproduced: P. 222, fig. 10.15",
+          "url": ""
+        },
+        {
+          "citation": "Cooper, James F. \"Is Thomas Eakins a Great Artist?\" <em>American Arts Quarterly </em>24, no. 2 (Spring 2007): 2-9.",
+          "page_number": "Mentioned: P. 3, 8",
+          "url": ""
+        },
+        {
+          "citation": "Fonsmark, Anne-Birgitte, Dorothee Hansen, and Gry Hedin. <em>Gustave Caillebotte.</em> Ostfildern: Hatje Cantz, 2008.",
+          "page_number": "Mentioned and reproduced: P. 112, fig. 4",
+          "url": ""
+        },
+        {
+          "citation": "Adams, Henry. <em>What's American About American Art?: A Gallery Tour in the Cleveland Museum of Art.</em> Cleveland: Cleveland Museum of Art, 2008.",
+          "page_number": "Mentioned and reproduced: P. 90-93",
+          "url": ""
+        },
+        {
+          "citation": "\"Welcome Back!\" <em>Cleveland Art: Cleveland Museum of Art Members Magazine </em>48, no. 5 (May/June 2008): 5-6.",
+          "page_number": "Mentioned: P. 6",
+          "url": ""
+        },
+        {
+          "citation": "Cole, Mark, \"Picture Perfect\", Cleveland Museum of Art. <em>Cleveland Art: The Cleveland Museum of Art Members Magazine</em>. Vol. 48 no. 8, October 2008",
+          "page_number": "Mentioned & reproduced: 8",
+          "url": "https://archive.org/details/CMAMM2008-08/page/8"
+        },
+        {
+          "citation": "Leja, Michael. \"Composite Images In a Hybrid Medium by Thomas Eakins and His Contemporaries.\" In <em>Shared Intelligence: American Painting and the Photograph.</em> Barbara Buhler Lynes, and Jonathan Weinberg, 28-41. Berkeley [Calif.]: University of California Press, 2011.",
+          "page_number": "Mentioned and reproduced: P. 32-33",
+          "url": ""
+        },
+        {
+          "citation": "Guttmann, Allen. S<em>ports and American Art from Benjamin West to Andy Warhol.</em> Amherst [Mass.]: University of Massachusetts Press, 2011.",
+          "page_number": "Mentioned: P. 106; Reproduced: Pl. 17",
+          "url": ""
+        },
+        {
+          "citation": "Fort, Ilene Susan. <em>Manly Pursuits: Writings on the Sporting Images of Thomas Eakins. </em>[Los Angeles]: Los Angeles County Museum of Art, 2011.",
+          "page_number": "Mentioned: P. 66, 67, 227, 345-350; Reproduced: P. 43",
+          "url": ""
+        },
+        {
+          "citation": "Franklin, David, and C. Griffith Mann. <em>Treasures from the Cleveland Museum of Art</em>. Cleveland, OH: Cleveland Museum of Art, 2012.",
+          "page_number": "Mentioned and reproduced: P. 266-267",
+          "url": ""
+        },
+        {
+          "citation": "\"Personal Favorite: Gloria Plevin.\" <em>Cleveland Art: Cleveland Museum of Art Members Magazine </em>53, no. 4 (July/August 2013): 16.",
+          "page_number": "Mentioned and reproduced: P. 16",
+          "url": ""
+        },
+        {
+          "citation": "Cleveland Museum of Art. <em>The CMA Companion: A Guide to the Cleveland Museum of Art</em>. Cleveland: Cleveland Museum of Art, 2014.",
+          "page_number": "Mentioned and reproduced: P. 49",
+          "url": ""
+        },
+        {
+          "citation": "Davis, John, Jennifer A. Greenhill and Jason David LaFountain. <em>A Companion to American Art.</em> Malden, MA: Wiley- Blackwell, 2015.",
+          "page_number": "Reproduced: p. 149, figure 9.2 Mention: p. 148",
+          "url": null
+        },
+        {
+          "citation": "\"Personal Favorite: William Busta.\" <em>Cleveland Art: Cleveland Museum of Art Members Magazine </em>55, no. 6 (November/December 2015): 12.",
+          "page_number": "Mentioned and reproduced: P. 12",
+          "url": ""
+        },
+        {
+          "citation": "Hendricks, Gordon. <em>The Life and Work of Thomas Eakins</em>. New York, NY: Grossman Publishers, 1974.",
+          "page_number": "Mentioned: p. 65-86, 296-298, 335-336; Reproduced: pl. 12 and 13 (detail).",
+          "url": null
+        },
+        {
+          "citation": "Lanouette, William. The Triumph of the Amateurs: The Rise, Ruin, and Banishment of Professional Rowing in the Gilded Age, Guilford, Connecticut : Lyons Press, 2021, 215",
+          "page_number": "Mentioned: p. 215, Reproduced; second page of image section following p. 138",
+          "url": ""
+        }
+      ],
+      "url": "https://clevelandart.org/art/1927.1984",
+      "images": {
+        "annotation": null,
+        "web": {
+          "url": "https://openaccess-cdn.clevelandart.org/1927.1984/1927.1984_web.jpg",
+          "width": "1263",
+          "height": "835",
+          "filesize": "780656",
+          "filename": "1927.1984_web.jpg"
+        },
+        "print": {
+          "url": "https://openaccess-cdn.clevelandart.org/1927.1984/1927.1984_print.jpg",
+          "width": "3400",
+          "height": "2247",
+          "filesize": "5271592",
+          "filename": "1927.1984_print.jpg"
+        },
+        "full": {
+          "url": "https://openaccess-cdn.clevelandart.org/1927.1984/1927.1984_full.tif",
+          "width": "7164",
+          "height": "4735",
+          "filesize": "101799424",
+          "filename": "1927.1984_full.tif"
+        }
+      },
+      "alternate_images": [
+        {
+          "date_created": "2011-06-27T18:03:53",
+          "annotation": "",
+          "web": {
+            "url": "https://openaccess-cdn.clevelandart.org/alternate/1927.1984/1927.1984_alt0_web.jpg",
+            "width": "1193",
+            "height": "893",
+            "filesize": "805436"
+          },
+          "print": {
+            "url": "https://openaccess-cdn.clevelandart.org/alternate/1927.1984/1927.1984_alt0_print.jpg",
+            "width": "3400",
+            "height": "2545",
+            "filesize": "7465362"
+          },
+          "full": {
+            "url": "https://openaccess-cdn.clevelandart.org/alternate/1927.1984/1927.1984_alt0_full.tif",
+            "width": "6668",
+            "height": "4992",
+            "filesize": "99887404"
+          }
+        },
+        {
+          "date_created": "2011-06-27T17:37:42",
+          "annotation": "",
+          "web": {
+            "url": "https://openaccess-cdn.clevelandart.org/alternate/1927.1984/1927.1984_alt1_web.jpg",
+            "width": "1180",
+            "height": "893",
+            "filesize": "803354"
+          },
+          "print": {
+            "url": "https://openaccess-cdn.clevelandart.org/alternate/1927.1984/1927.1984_alt1_print.jpg",
+            "width": "3400",
+            "height": "2574",
+            "filesize": "7327788"
+          },
+          "full": {
+            "url": "https://openaccess-cdn.clevelandart.org/alternate/1927.1984/1927.1984_alt1_full.tif",
+            "width": "6465",
+            "height": "4896",
+            "filesize": "94984952"
+          }
+        },
+        {
+          "date_created": "2011-06-27T17:45:38",
+          "annotation": "",
+          "web": {
+            "url": "https://openaccess-cdn.clevelandart.org/alternate/1927.1984/1927.1984_alt2_web.jpg",
+            "width": "1193",
+            "height": "893",
+            "filesize": "808645"
+          },
+          "print": {
+            "url": "https://openaccess-cdn.clevelandart.org/alternate/1927.1984/1927.1984_alt2_print.jpg",
+            "width": "3400",
+            "height": "2545",
+            "filesize": "7276175"
+          },
+          "full": {
+            "url": "https://openaccess-cdn.clevelandart.org/alternate/1927.1984/1927.1984_alt2_full.tif",
+            "width": "6668",
+            "height": "4992",
+            "filesize": "99888472"
+          }
+        },
+        {
+          "date_created": "2011-06-27T18:14:55",
+          "annotation": "",
+          "web": {
+            "url": "https://openaccess-cdn.clevelandart.org/alternate/1927.1984/1927.1984_alt3_web.jpg",
+            "width": "1193",
+            "height": "893",
+            "filesize": "795831"
+          },
+          "print": {
+            "url": "https://openaccess-cdn.clevelandart.org/alternate/1927.1984/1927.1984_alt3_print.jpg",
+            "width": "3400",
+            "height": "2545",
+            "filesize": "7483128"
+          },
+          "full": {
+            "url": "https://openaccess-cdn.clevelandart.org/alternate/1927.1984/1927.1984_alt3_full.tif",
+            "width": "6668",
+            "height": "4992",
+            "filesize": "99886904"
+          }
+        },
+        {
+          "date_created": "2008-06-23T15:28:22",
+          "annotation": "",
+          "web": {
+            "url": "https://openaccess-cdn.clevelandart.org/alternate/1927.1984/1927.1984_alt4_web.jpg",
+            "width": "1240",
+            "height": "893",
+            "filesize": "910498"
+          },
+          "print": {
+            "url": "https://openaccess-cdn.clevelandart.org/alternate/1927.1984/1927.1984_alt4_print.jpg",
+            "width": "3400",
+            "height": "2448",
+            "filesize": "6362609"
+          },
+          "full": {
+            "url": "https://openaccess-cdn.clevelandart.org/alternate/1927.1984/1927.1984_alt4_full.tif",
+            "width": "4556",
+            "height": "3280",
+            "filesize": "44874484"
+          }
+        }
+      ],
+      "creditline": "Hinman B. Hurlbut Collection",
+      "sketchfab_id": null,
+      "sketchfab_url": null,
+      "gallery_donor_text": "The Payne Fund Gallery",
+      "athena_id": 151904,
+      "creators": [
+        {
+          "id": 4037,
+          "description": "Thomas Eakins (American, 1844–1916)",
+          "extent": null,
+          "qualifier": null,
+          "role": "artist",
+          "biography": null,
+          "name_in_original_language": null,
+          "birth_year": "1844",
+          "death_year": "1916"
+        }
+      ],
+      "legal_status": "accessioned",
+      "accession_date": "1927-12-20T00:00:00",
+      "sortable_date": 1873,
+      "date_text": "1873",
+      "collapse_artists": false,
+      "on_loan": false,
+      "recently_acquired": false,
+      "record_type": "object",
+      "conservation_statement": null,
+      "is_nazi_era_provenance": false,
+      "impression": null,
+      "alternate_titles": [],
+      "is_highlight": true,
+      "updated_at": "2024-03-26 01:59:53.512000"
     }
   ],
   "user-data": [
