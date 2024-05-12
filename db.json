@@ -1,0 +1,3227 @@
+{
+  "collection": [
+    {
+      "id": "141639",
+      "accession_number": "1965.233",
+      "share_license_status": "CC0",
+      "tombstone": "Twilight in the Wilderness, 1860. Frederic Edwin Church (American, 1826–1900). Oil on canvas; framed: 124 x 185 x 13 cm (48 13/16 x 72 13/16 x 5 1/8 in.); unframed: 101.6 x 162.6 cm (40 x 64 in.). The Cleveland Museum of Art, Mr. and Mrs. William H. Marlatt Fund 1965.233",
+      "current_location": "206 American Landscape",
+      "title": "Twilight in the Wilderness",
+      "creation_date": "1860",
+      "creation_date_earliest": 1860,
+      "creation_date_latest": 1860,
+      "artists_tags": [
+        "male"
+      ],
+      "culture": [
+        "America, 19th century"
+      ],
+      "technique": "oil on canvas",
+      "support_materials": [],
+      "department": "American Painting and Sculpture",
+      "collection": "American - Painting",
+      "type": "Painting",
+      "measurements": "Framed: 124 x 185 x 13 cm (48 13/16 x 72 13/16 x 5 1/8 in.); Unframed: 101.6 x 162.6 cm (40 x 64 in.)",
+      "dimensions": {
+        "framed": {
+          "height": 1.24,
+          "width": 1.85,
+          "depth": 0.13
+        },
+        "unframed": {
+          "height": 1.016,
+          "width": 1.626
+        }
+      },
+      "state_of_the_work": null,
+      "edition_of_the_work": null,
+      "copyright": null,
+      "inscriptions": [
+        {
+          "inscription": "Signed and dated lower right: \"F. E. CHURCH / -60-\"",
+          "inscription_translation": null,
+          "inscription_remark": null
+        }
+      ],
+      "exhibitions": {
+        "current": [
+          {
+            "id": 300794,
+            "title": "Year in Review: 1965",
+            "description": "<i>Year in Review: 1965</i>. The Cleveland Museum of Art, Cleveland, OH (organizer) (October 27-November 14, 1965).",
+            "opening_date": "1965-10-27T04:00:00"
+          },
+          {
+            "id": 316990,
+            "title": "Frederic Edwin Church",
+            "description": "<i>Frederic Edwin Church</i>. Smithsonian Institution, Washington, DC (organizer) (co-organizer) (February 2-March 13, 1966); Albany Institute of History and Art, Albany, NY (March 30-April 30, 1966); M. Knoedler & Co., Inc. (June 1-30, 1966).",
+            "opening_date": "1966-03-30T05:00:00"
+          },
+          {
+            "id": 314043,
+            "title": "Art of the United States: 1670-1966",
+            "description": "<i>Art of the United States: 1670-1966</i>. Whitney Museum of American Art, New York, NY (organizer) (September 28-November 27, 1966).",
+            "opening_date": "1966-09-28T04:00:00"
+          },
+          {
+            "id": 314948,
+            "title": "Wilderness",
+            "description": "<i>Wilderness</i>. Corcoran Gallery of Art, Washington, DC (organizer) (co-organizer) (October 9-November 14, 1971).",
+            "opening_date": "1971-10-09T04:00:00"
+          },
+          {
+            "id": 302330,
+            "title": "Heritage and Horizon: American Painting 1776 - 1976",
+            "description": "<i>Heritage and Horizon: American Painting 1776 - 1976</i>. Albright-Knox Art Gallery, Buffalo, NY (organizer) (March 7-April 11, 1976); The Detroit Institute of Arts, Detroit, MI (May 2-June 13, 1976); The Toledo Museum of Art, Toledo, OH (July 4-August 15, 1976); The Cleveland Museum of Art, Cleveland, OH (September 8-October 10, 1976).",
+            "opening_date": "1976-03-07T05:00:00"
+          },
+          {
+            "id": 315054,
+            "title": "American Light: The Luminist Movement, 1850-1875",
+            "description": "<i>American Light: The Luminist Movement, 1850-1875</i>. National Gallery of Art, Washington, DC (organizer) (co-organizer) (February 10-June 15, 1980).",
+            "opening_date": "1980-02-10T05:00:00"
+          },
+          {
+            "id": 304561,
+            "title": "Visions of Landscape: East and West",
+            "description": "<i>Visions of Landscape: East and West</i>. The Cleveland Museum of Art, Cleveland, OH (organizer) (February 17-March 21, 1982).",
+            "opening_date": "1982-02-17T05:00:00"
+          },
+          {
+            "id": 314070,
+            "title": "A New World: Masterpieces of American Painting, 1760 - 1910",
+            "description": "<i>A New World: Masterpieces of American Painting, 1760 - 1910</i>. Museum of Fine Arts, Boston, Boston, MA (organizer) (co-organizer) (September 7-November 13, 1983); Corcoran Gallery of Art, Washington, DC (December 7, 1983-February 12, 1984).",
+            "opening_date": "1983-09-07T04:00:00"
+          },
+          {
+            "id": 315079,
+            "title": "American Paradise: The World of the Hudson River School",
+            "description": "<i>American Paradise: The World of the Hudson River School</i>. The Metropolitan Museum of Art, New York, NY (organizer) (co-organizer) (October 4, 1987-January 3, 1988).",
+            "opening_date": "1987-10-04T04:00:00"
+          },
+          {
+            "id": 315091,
+            "title": "Bilder Aus des Neuen Welt: Amerikanische Malerei des 18. und 19. Jahrhunderts (Paintings from the New World: American Paintings from the 18th and the 19th Century)",
+            "description": "<i>Bilder Aus des Neuen Welt: Amerikanische Malerei des 18. und 19. Jahrhunderts (Paintings from the New World: American Paintings from the 18th and the 19th Century)</i>. Orangerie des Schlosses Charlottenburg, Berlin, Germany (November 17, 1988-February 12, 1989); Staatliche Museen zu Berlin, Nationalgalerie, Berlin, Germany (organizer) (November 17, 1988-February 12, 1989); Kunsthaus Zürich, CH-8024 Zürich, Switzerland (March 3-May 15, 1989).",
+            "opening_date": "1988-11-17T05:00:00"
+          },
+          {
+            "id": 315126,
+            "title": "Frederic Edwin Church",
+            "description": "<i>Frederic Edwin Church</i>. National Gallery of Art (co-organizer) (October 8, 1989-January 28, 1990).",
+            "opening_date": "1989-10-08T04:00:00"
+          },
+          {
+            "id": 311444,
+            "title": "Object Lessons: Cleveland Creates an Art Museum",
+            "description": "<i>Object Lessons: Cleveland Creates an Art Museum</i>. The Cleveland Museum of Art, Cleveland, OH (organizer) (June 7-September 8, 1991).",
+            "opening_date": "1991-06-07T04:00:00"
+          },
+          {
+            "id": 221835,
+            "title": "America. The New World in 19th-century Painting\r\nAmerica. Die Neue Welt in Bildern des 19. Jahrhunderts",
+            "description": "<i>America. The New World in 19th-century Painting\r\nAmerica. Die Neue Welt in Bildern des 19. Jahrhunderts</i>. Belvedere, Wien, Austria (organizer) (March 17-June 20, 1999).",
+            "opening_date": "1999-03-17T00:00:00"
+          },
+          {
+            "id": 221738,
+            "title": "The American Sublime",
+            "description": "<i>The American Sublime</i>. Tate Britain, London (organizer) (February 20-May 19, 2002); Pennsylvania Academy of Fine Arts, Museum of American Art, Philadelphia, PA (June 17-August 25, 2002); Minneapolis Institute of Art, Minneapolis, MN (September 22-November 17, 2002).",
+            "opening_date": "2002-02-20T00:00:00"
+          },
+          {
+            "id": 179631,
+            "title": "CMA Highlights",
+            "description": "<i>CMA Highlights</i>. The Cleveland Museum of Art (organizer) (June 21-September 11, 2005).",
+            "opening_date": "2005-06-21T00:00:00"
+          },
+          {
+            "id": 205195,
+            "title": "Maine Sublime",
+            "description": "<i>Maine Sublime</i>. The Cleveland Museum of Art, Cleveland, OH (organizer) (October 4, 2014-January 25, 2015).",
+            "opening_date": "2014-10-04T00:00:00"
+          }
+        ],
+        "legacy": [
+          {
+            "description": "Goupil's Gallery, New York, June 1860.",
+            "opening_date": "1860-01-01T04:56:02Z"
+          },
+          {
+            "description": "New York, Metropolitan Museum of Art and National Academy of Design, The New York Centennial Loan Exhibition of Paintings, Selected from the Private Art Galleries, (1876), no. 125, listed as being part of J. T. Johnston's collection.",
+            "opening_date": "1876-01-01T04:56:02Z"
+          },
+          {
+            "description": "New York, Metropolitan Museum of Art, Paintings by Frederic E. Church, N. A., (28 May to 15 October1900), illustrated in catalogue as plate 6.",
+            "opening_date": "1900-01-01T00:00:00"
+          },
+          {
+            "description": "Baltimore, The Municipal Art Society of Baltimore, Art Loan Exhibition, (1902), no. 89, listed as the property of Miss Garrett.",
+            "opening_date": "1902-01-01T00:00:00"
+          },
+          {
+            "description": "Washington, D. C., National Collection of Fine Arts, Smithsonian Institution, Frederic Edwin Church, (12 February to 13 March 1966), no. 44; E18/ C56 W319. Exhibition traveled to the Albany Institute of History and Art (30 March through 30 April 1966), and, without Twilight in the Wilderness, to M. Knoedler and Company, New York (1 June through 30 June 1966).",
+            "opening_date": "1966-02-12T00:00:00"
+          },
+          {
+            "description": "New York, Whitney Museum of American Art, Art of the United States: 1670-1966, (28 September to 27 November, 1966), no. 48, brief comments about the color in Twilight in the Wilderness by Lloyd Goodrich, p. 25, catalogue.",
+            "opening_date": "1966-09-28T00:00:00"
+          },
+          {
+            "description": "Washington, D. C., The National Endowment for the Arts with the Corcoran Gallery of Art, Wilderness, (9 October to 14 November 1971), no. 69.",
+            "opening_date": "1971-10-09T00:00:00"
+          },
+          {
+            "description": "Buffalo, New York, Albright-Knox Art Gallery, Heritage and Horizon: American Painting 1776-1976, (6 March to 11 April 1976), no. 10. Exhibition traveled to the Detroit Institute of Arts (5 May through 13 June 1976), The Toledo Museum of Art (4 July through 15 August 1976), and the Cleveland Museum of Art, (8 September through 10 October 1976).",
+            "opening_date": "1976-03-06T00:00:00"
+          },
+          {
+            "description": "Washington, D. C., National Gallery of Art, American Light: The Luminist Movement, 1850-1875, (10 February through 15 June 1980), no. 204; includes the following remarks: in \"Design and Measurement in Luminist Art\", Lisa Andrus discusses the composition of and quality of light in Twilight in the Wilderness, p.36; Earl A. Powell's \"Luminism and the American Sublime\" describes Church's use of cadmium colors to achieve brilliant light in many of his paintings, including Twilight in the Wilderness; and Twilight's role in the development of the 19th century ideal of the sublime, p. 92; \"Church and Luminism: Light for America's Elect\" by David C. Huntington describes how Church's technique in Twilight in the Wilderness erases all evidence of the artist's touch, p. 170, illus. 167.",
+            "opening_date": "1980-02-10T00:00:00"
+          },
+          {
+            "description": "Boston, Museum of Fine Arts, A New World: Masterpieces of American Painting, 1760- 1910, (7 September through 13 November 1983), no. 39.",
+            "opening_date": "1983-09-07T00:00:00"
+          },
+          {
+            "description": "Also traveled to The Corcoran Gallery of Art, Washington, D. C. (7 December 1983- 12 February 1984) and, without Twilight in the Wilderness, to Grand Palais, Paris (16 March- 11 June 1984).",
+            "opening_date": "1984-03-16T00:00:00"
+          },
+          {
+            "description": "New York, Metropolitan Museum of Art, American Paradise: The World of the Hudson River School, (4 October 1987 through 3 January 1988), pp.45, 251-4.",
+            "opening_date": "1987-10-04T00:00:00"
+          },
+          {
+            "description": "Berlin, Staatliche Museen Preußischer Kulturbesitz, Nationalgalerie, Orangerie des Schlosses Charlottenburg, Bilder Aus des Neuen Welt: Amerikanische Malerei des 18. und 19. Jahrhunderts, (22 November 1988 through 5 February 1989), no. 15. Exhibition traveled to Kunsthaus Zurich, (3 March - 15 May 1989).",
+            "opening_date": "1989-03-03T00:00:00"
+          },
+          {
+            "description": "Washington, D. C., National Gallery of Art, Frederic Edwin Church, (8 October 1989 to 28 January 1990), no. 34, catalogue text by Franklin Kelly, pp. 58-59, 61-62, illus. p. 110, cat. 34.",
+            "opening_date": "1989-10-08T00:00:00"
+          },
+          {
+            "description": "Vienna, Osterreichischen Galerie Belvedere, America: Die Neue Welt in Bildern des 19 Jahrunderts, (17 March through 20 June 1999), no. 45.",
+            "opening_date": "1999-03-17T00:00:00"
+          },
+          {
+            "description": "London, The Tate Britain, American Sublime: Landscape Painting in the United States, 1820-1880, (21 February - 19 May 2002), no. 25; pp. 129-131, p. 55-6, illus. p. 115, 131; Exhibition traveled to the Pennsylvania Academy of Fine Arts, Philadelphia (17 June -25 August 2002) and Minneapolis Institute of Art (22 September- 17 November 2002).",
+            "opening_date": "2002-02-21T00:00:00"
+          },
+          {
+            "description": "The Cleveland Museum of Art (06/21/2005 - 09/11/2005); \"CMA Highlights\"",
+            "opening_date": "2005-06-21T00:00:00"
+          },
+          {
+            "description": "New York, Avery's Gallery, (1866). Also shown at Dusseldorf Gallery, New York, 1866. Both exhibitions held in connection with auction, according to The Round Table, 10 March 1866. (See reference above.)",
+            "opening_date": null
+          },
+          {
+            "description": "New Haven, Connecticut, Yale College, Second Annual Exhibition of the Yale School of the Fine Arts, Founded as a Department of Yale College by the Late Augustus Russell Street of New Haven, Conn., (1870), no. 114, listed as the property of John T. Johnston.",
+            "opening_date": null
+          },
+          {
+            "description": "New York, Metropolitan Museum of Art and National Academy of Design, The New York Centennial Loan Exhibition of Paintings, Selected from the Private Art Galleries, (1876), no. 125, listed as being part of J. T. Johnston's collection.",
+            "opening_date": null
+          },
+          {
+            "description": "New York, Metropolitan Museum of Art, Paintings by Frederic E. Church, N. A., (28 May to 15 October1900), illustrated in catalogue as plate 6.",
+            "opening_date": "1900-01-01T00:00:00"
+          },
+          {
+            "description": "Baltimore, The Municipal Art Society of Baltimore, Art Loan Exhibition, (1902), no. 89, listed as the property of Miss Garrett.",
+            "opening_date": "1902-01-01T00:00:00"
+          },
+          {
+            "description": "Washington, D. C., National Collection of Fine Arts, Smithsonian Institution, Frederic Edwin Church, (12 February to 13 March 1966), no. 44; E18/ C56 W319. Exhibition traveled to the Albany Institute of History and Art (30 March through 30 April 1966), and, without Twilight in the Wilderness, to M. Knoedler and Company, New York (1 June through 30 June 1966).",
+            "opening_date": "1966-02-12T00:00:00"
+          },
+          {
+            "description": "New York, Whitney Museum of American Art, Art of the United States: 1670-1966, (28 September to 27 November, 1966), no. 48, brief comments about the color in Twilight in the Wilderness by Lloyd Goodrich, p. 25, catalogue.",
+            "opening_date": "1966-09-28T00:00:00"
+          },
+          {
+            "description": "Washington, D. C., The National Endowment for the Arts with the Corcoran Gallery of Art, Wilderness, (9 October to 14 November 1971), no. 69.",
+            "opening_date": "1971-10-09T00:00:00"
+          },
+          {
+            "description": "Buffalo, New York, Albright-Knox Art Gallery, Heritage and Horizon: American Painting 1776-1976, (6 March to 11 April 1976), no. 10. Exhibition traveled to the Detroit Institute of Arts (5 May through 13 June 1976), The Toledo Museum of Art (4 July through 15 August 1976), and the Cleveland Museum of Art, (8 September through 10 October 1976).",
+            "opening_date": "1976-03-06T00:00:00"
+          },
+          {
+            "description": "Washington, D. C., National Gallery of Art, American Light: The Luminist Movement, 1850-1875, (10 February through 15 June 1980), no. 204; includes the following remarks: in \"Design and Measurement in Luminist Art\", Lisa Andrus discusses the composition of and quality of light in Twilight in the Wilderness, p.36; Earl A. Powell's \"Luminism and the American Sublime\" describes Church's use of cadmium colors to achieve brilliant light in many of his paintings, including Twilight in the Wilderness; and Twilight's role in the development of the 19th century ideal of the sublime, p. 92; \"Church and Luminism: Light for America's Elect\" by David C. Huntington describes how Church's technique in Twilight in the Wilderness erases all evidence of the artist's touch, p. 170, illus. 167.",
+            "opening_date": "1980-02-10T00:00:00"
+          },
+          {
+            "description": "Boston, Museum of Fine Arts, A New World: Masterpieces of American Painting, 1760- 1910, (7 September through 13 November 1983), no. 39.",
+            "opening_date": "1983-09-07T00:00:00"
+          },
+          {
+            "description": "Also traveled to The Corcoran Gallery of Art, Washington, D. C. (7 December 1983- 12 February 1984) and, without Twilight in the Wilderness, to Grand Palais, Paris (16 March- 11 June 1984).",
+            "opening_date": "1984-03-16T00:00:00"
+          },
+          {
+            "description": "Berlin, Staatliche Museen Preußischer Kulturbesitz, Nationalgalerie, Orangerie des Schlosses Charlottenburg, Bilder Aus des Neuen Welt: Amerikanische Malerei des 18. und 19. Jahrhunderts, (22 November 1988 through 5 February 1989), no. 15. Exhibition traveled to Kunsthaus Zurich, (3 March - 15 May 1989).",
+            "opening_date": "1989-03-03T00:00:00"
+          },
+          {
+            "description": "Washington, D. C., National Gallery of Art, Frederic Edwin Church, (8 October 1989 to 28 January 1990), no. 34, catalogue text by Franklin Kelly, pp. 58-59, 61-62, illus. p. 110, cat. 34.",
+            "opening_date": "1989-10-08T00:00:00"
+          },
+          {
+            "description": "Vienna, Osterreichischen Galerie Belvedere, America: Die Neue Welt in Bildern des 19 Jahrunderts, (17 March through 20 June 1999), no. 45.",
+            "opening_date": "1999-03-17T00:00:00"
+          },
+          {
+            "description": "London, The Tate Britain, American Sublime: Landscape Painting in the United States, 1820-1880, (21 February - 19 May 2002), no. 25; pp. 129-131, p. 55-6, illus. p. 115, 131; Exhibition traveled to the Pennsylvania Academy of Fine Arts, Philadelphia (17 June -25 August 2002) and Minneapolis Institute of Art (22 September- 17 November 2002).",
+            "opening_date": "2002-02-21T00:00:00"
+          }
+        ]
+      },
+      "provenance": [
+        {
+          "description": "William T. Walters [1820-1894], Baltimore, MD, consigned to Samuel Putnam Avery for sale at Henry H. Leeds and Co.",
+          "citations": [],
+          "footnotes": [
+            "<div><!--block-->Walters, a prominent collector and namesake of the Walters Art Museum, commissioned the painting from Church in 1860.&nbsp;</div>"
+          ],
+          "date": "1860-1864"
+        },
+        {
+          "description": "(Henry H. Leeds and Co., New York, NY, Feb. 12-13, 1864)",
+          "citations": [],
+          "footnotes": [
+            "<div><!--block-->Consigned to Samuel Putnam Avery by Walters, the painting seems to have been bought in by Avery at this sale and then put up for auction again in 1866.&nbsp;</div>"
+          ],
+          "date": "1864"
+        },
+        {
+          "description": "(Samuel Putnam Avery [1822-1904], New York, NY)",
+          "citations": [],
+          "footnotes": [
+            "<div><!--block-->After likely buying in the painting at the 1864 auction, Avery, a close associate of Walters, offered it for sale again in 1866.&nbsp;</div>"
+          ],
+          "date": "1864-1866"
+        },
+        {
+          "description": "(Leeds and Minor at Old Dusseldorf Gallery, New York, NY, March 9, 1866, no. 174, sold to John Taylor Johnston)",
+          "citations": [],
+          "footnotes": [
+            "<div><!--block-->This auction included “the entire collection of the foreign oil and water color paintings, consigned to Samuel P. Avery,\" ”to which will be added the celebrated picture by F.E. Church, Twilight in the Wilderness.\"&nbsp; As in the 1864 auction, here, too, Walters consigned the painting to Avery for sale.&nbsp;</div>"
+          ],
+          "date": "1866"
+        },
+        {
+          "description": "John Taylor Johnston [1820-1893], New York, NY",
+          "citations": [],
+          "footnotes": [],
+          "date": "1866-1876"
+        },
+        {
+          "description": "(Chickering Hall, John Taylor Johnston sale, Dec. 19-22, 1876, sold to John Work Garrett?)",
+          "citations": [],
+          "footnotes": [
+            "<div><!--block-->According to Emily de Forest, Johnston's daughter and Robert de Forest's wife, the painting was purchased at this sale by Mary Garrett.&nbsp; Lockwood de Forest, Robert's brother, however, maintains it was purchased by John Work Garrett and then descended to his daughter, Mary.&nbsp;</div>"
+          ],
+          "date": "1876"
+        },
+        {
+          "description": "John Work Garrett [1820-1884], Baltimore, MD, by descent to his daughter, Mary E. Garrett?",
+          "citations": [],
+          "footnotes": [],
+          "date": "1876-probably 1884"
+        },
+        {
+          "description": "Mary E. Garrett [1854-1909], Baltimore, MD, sold to Robert de Forest",
+          "citations": [],
+          "footnotes": [
+            "<div><!--block-->Mary Garrett was a close friend of the de Forests.&nbsp;</div>"
+          ],
+          "date": "Probably 1884-at least 1902"
+        },
+        {
+          "description": "Robert de Forest [1848-1931], Parkers Point, CT, by descent to his brother, Lockwood de Forest",
+          "citations": [],
+          "footnotes": [
+            "<div><!--block-->&nbsp;According to Robert's wife, Emily, he purchased the painting from Mary Garrett.&nbsp;</div>"
+          ],
+          "date": "After 1902-1931"
+        },
+        {
+          "description": "Lockwood de Forest [1850–1932], Santa Barbara, CA, by descent to his son, Alfred Victor de Forest",
+          "citations": [],
+          "footnotes": [],
+          "date": "1931-1932"
+        },
+        {
+          "description": "Alfred Victor de Forest [1888-1945], Marlborough, NH, by descent to his son, Taber de Forest",
+          "citations": [],
+          "footnotes": [],
+          "date": "1932-1945"
+        },
+        {
+          "description": "Taber de Forest, Maine, sold to David McCoy",
+          "citations": [],
+          "footnotes": [],
+          "date": "1945-early 1960s"
+        },
+        {
+          "description": "David McCoy, Lyme, CT, sold to Robert Weimann",
+          "citations": [],
+          "footnotes": [],
+          "date": "Early 1960s"
+        },
+        {
+          "description": "Robert Weimann, Ansonia, CT, sold to the Cleveland Museum of Art",
+          "citations": [],
+          "footnotes": [],
+          "date": "1962 or 1963-1965"
+        },
+        {
+          "description": "The Cleveland Museum of Art, Cleveland, OH",
+          "citations": [],
+          "footnotes": [],
+          "date": "1965-"
+        }
+      ],
+      "find_spot": null,
+      "related_works": [],
+      "former_accession_numbers": [],
+      "did_you_know": "An image of this painting has a cameo in the Harrison Ford film <em>Clear and Present Danger</em>.",
+      "description": "In his New York studio, Church painted this spectacular view of a blazing sunset over wilderness near Mount Katahdin in Maine, which he had sketched during a visit nearly two years earlier. Although Church often extolled the grandeur of American landscape in his work, this painting appears to have additional overtones. Created on the eve of the Civil War, the painting's subject can be interpreted as symbolically evoking the coming conflagration. Church's considerable technical skills and clever showmanship contributed to his fame as the premier artist of his generation. Rather than debut this painting in an annual exhibition with works by other artists as was the custom, Church instead exhibited it by itself at a prestigious art gallery. Coaxed by advance publicity and highly favorable press reviews, several hundred spectators flocked to admire it during its seven-week run.",
+      "external_resources": {
+        "wikidata": [
+          "https://www.wikidata.org/wiki/Q56879420"
+        ],
+        "internet_archive": [
+          "https://archive.org/details/clevelandart-1965.233-twilight-in-the-wild"
+        ]
+      },
+      "citations": [
+        {
+          "citation": "<em>New York Herald</em> (June 8, 1860): 10.",
+          "page_number": null,
+          "url": null
+        },
+        {
+          "citation": "Lockwood de Forest, letter to Emily de Forest, Sept. 16, 1931, in CMA curatorial file.",
+          "page_number": null,
+          "url": null
+        },
+        {
+          "citation": "Franklin W. Kelly, letter to William S. Talbot, Oct. 21, 1982, in CMA curatorial file.",
+          "page_number": null,
+          "url": null
+        },
+        {
+          "citation": "\"Art Exhibitions and Sales,\" <em>The Nation</em> 2 (March 15, 1866): 346.",
+          "page_number": null,
+          "url": null
+        },
+        {
+          "citation": "Franklin W. Kelly, letter to William S. Talbot, Oct. 21, 1982, in CMA curatorial file.",
+          "page_number": null,
+          "url": null
+        },
+        {
+          "citation": "\"Art Notes,\" <em>The Round Table</em> 3 (March 10, 1866): 151.",
+          "page_number": null,
+          "url": null
+        },
+        {
+          "citation": "\"Art Exhibitions and Sales,” <em>The Nation</em> 2 (March 15, 1866): 346.",
+          "page_number": null,
+          "url": null
+        },
+        {
+          "citation": "Eleanor Harvey, email to Victoria Sears Goldman, April 8, 2013, in CMA curatorial file.",
+          "page_number": null,
+          "url": null
+        },
+        {
+          "citation": "Auction Sales,”<em> New York Times</em> (March 6, 1866): 6.",
+          "page_number": null,
+          "url": null
+        },
+        {
+          "citation": "“Art Notes,” <em>The Round Table</em> 3 (March 10, 1866): 151.",
+          "page_number": null,
+          "url": null
+        },
+        {
+          "citation": "Franklin W. Kelly, letter to William S. Talbot, May 5, 1982, in CMA curatorial file.",
+          "page_number": null,
+          "url": null
+        },
+        {
+          "citation": "Franklin W. Kelly, letter to William S. Talbot, Oct. 21, 1982, in CMA curatorial file.",
+          "page_number": null,
+          "url": null
+        },
+        {
+          "citation": "Harold Kirker, letter to Sherman Lee, July 10, 1969, in CMA curatorial file.",
+          "page_number": null,
+          "url": null
+        },
+        {
+          "citation": "Emily de Forest, letter to Lockwood de Forest, Sept. 10, 1931, in CMA curatorial file.",
+          "page_number": null,
+          "url": null
+        },
+        {
+          "citation": "Emily de Forest, letter to Lockwood de Forest, Sept. 10, 1931, in CMA curatorial file.",
+          "page_number": null,
+          "url": null
+        },
+        {
+          "citation": "Lockwood de Forest, letter to Emily de Forest, Sept. 16, 1931, in CMA curatorial file.",
+          "page_number": null,
+          "url": null
+        },
+        {
+          "citation": "Lockwood de Forest, letter to Emily de Forest, Sept. 16, 1931, in CMA curatorial file.",
+          "page_number": null,
+          "url": null
+        },
+        {
+          "citation": "Emily de Forest, letter to Lockwood de Forest, Sept. 10, 1931, in CMA curatorial file.",
+          "page_number": null,
+          "url": null
+        },
+        {
+          "citation": "Sander, Kathleen Waters. <em>Mary Elizabeth Garrett: Society and Philanthropy in the Gilded Age</em>. Baltimore, Md: Johns Hopkins University Press, 2008.",
+          "page_number": null,
+          "url": null
+        },
+        {
+          "citation": "Emily de Forest, letter to Lockwood de Forest, Sept. 10, 1931, in CMA curatorial file.",
+          "page_number": null,
+          "url": null
+        },
+        {
+          "citation": "Lockwood de Forest, letter to Emily de Forest, Sept. 16, 1931, in CMA curatorial file.",
+          "page_number": null,
+          "url": null
+        },
+        {
+          "citation": "Harold Kirker, letter to Sherman Lee, July 10, 1969, in CMA curatorial file.",
+          "page_number": null,
+          "url": null
+        },
+        {
+          "citation": "Emily de Forest, letter to Lockwood de Forest, Sept. 10, 1931, in CMA curatorial file.",
+          "page_number": null,
+          "url": null
+        },
+        {
+          "citation": "Lockwood de Forest, letter to Emily de Forest, Sept. 16, 1931, in CMA curatorial file.",
+          "page_number": null,
+          "url": null
+        },
+        {
+          "citation": "Harold Kirker, letter to Sherman Lee, July 10, 1969, in CMA curatorial file.",
+          "page_number": null,
+          "url": null
+        },
+        {
+          "citation": "Marion de Forest, letter to James H. Dempsey, Jr., June 6, 1982, in CMA curatorial file.",
+          "page_number": null,
+          "url": null
+        },
+        {
+          "citation": "William S. Talbot, letter to Kevin Avery, Oct. 27, 1986, in CMA curatorial file.",
+          "page_number": null,
+          "url": null
+        },
+        {
+          "citation": "Marion de Forest, letter to James H. Dempsey, Jr., June 6, 1982, in CMA curatorial file.",
+          "page_number": null,
+          "url": null
+        },
+        {
+          "citation": "Harold Kirker, letter to Sherman Lee, July 10, 1969, in CMA curatorial file.",
+          "page_number": null,
+          "url": null
+        },
+        {
+          "citation": "Taber de Forest, letter to William S. Talbot, Jan. 12, 1970, in CMA curatorial file.",
+          "page_number": null,
+          "url": null
+        },
+        {
+          "citation": "Harold Kirker, letter to William S. Talbot, Sept. 18, 1969, in CMA curatorial file.",
+          "page_number": null,
+          "url": null
+        },
+        {
+          "citation": "Marion de Forest, letter to James H. Dempsey, Jr., June 6, 1982, in CMA curatorial file.",
+          "page_number": null,
+          "url": null
+        },
+        {
+          "citation": "Taber de Forest, letter to William S. Talbot, Jan. 12, 1970, in CMA curatorial file.",
+          "page_number": null,
+          "url": null
+        },
+        {
+          "citation": "Taber de Forest, letter to William S. Talbot, Jan. 12, 1970, in CMA curatorial file.",
+          "page_number": null,
+          "url": null
+        },
+        {
+          "citation": "\"Mr. Church's Last Picture,\" <em>New York Times</em> (Jun. 7, 1860).",
+          "page_number": null,
+          "url": null
+        },
+        {
+          "citation": "The Cleveland Museum of Art. <em>Handbook of the Cleveland Museum of Art/1966</em>. Cleveland, OH: The Cleveland Museum of Art, 1966.",
+          "page_number": "Reproduced: p. 185",
+          "url": "https://archive.org/details/CMAHandbook1966/page/n209"
+        },
+        {
+          "citation": "The Cleveland Museum of Art. <em>Handbook of the Cleveland Museum of Art/1969</em>. Cleveland, OH: The Cleveland Museum of Art, 1969.",
+          "page_number": "Reproduced: p. 185",
+          "url": "https://archive.org/details/CMAHandbook1969/page/n209"
+        },
+        {
+          "citation": "National Endowment for the Arts, and Corcoran Gallery of Art. <em>Wilderness</em>. New York: Printed by Benson Litho; for sale by the Corcoran Gallery of Art, Washington, 1971.",
+          "page_number": "Cat. No. 69",
+          "url": null
+        },
+        {
+          "citation": "The Cleveland Museum of Art. <em>Handbook of the Cleveland Museum of Art/1978</em>. Cleveland, OH: The Cleveland Museum of Art, 1978.",
+          "page_number": "Reproduced: p. 229",
+          "url": "https://archive.org/details/CMAHandbook1978/page/n249"
+        },
+        {
+          "citation": "New York, Metropolitan Museum of Art, <em>American Paradise: The World of the Hudson River School,</em> (4 October 1987 through 3 January 1988).",
+          "page_number": "pp. 45, 251-4.",
+          "url": ""
+        },
+        {
+          "citation": "Carr, Gerald. \"Frederic Edwin Church and Mexico.\" In <em>Arte, Historia e Identidad en America: Visiones Comparativas, </em>edited by Gustavo Curiel. Mexico: Universidad Nacional Autonoma de Mexico, 1994.",
+          "page_number": "Mentioned: p. 255",
+          "url": null
+        },
+        {
+          "citation": "May, Sally Ruth. <em>Knockouts: a pocket guide.</em> Cleveland: Cleveland Museum of Art, 2001.",
+          "page_number": "Reproduced: no. 48, p. 48 - 49",
+          "url": ""
+        },
+        {
+          "citation": "Keck, Michaela. <em>Walking in the Wilderness: The Peripatetic Tradition in Nineteenth-Century American Literature and Painting</em>. Heidelberg: Winter, 2006.",
+          "page_number": "p. 160, fig. 3.28",
+          "url": null
+        },
+        {
+          "citation": "Adams, Henry. <em>What's American about American art?: a gallery tour in the Cleveland Museum of Art. </em>Cleveland: Cleveland Museum of Art, 2008.",
+          "page_number": "Reproduced: fig. 8, p. 11; p. 74 - 75",
+          "url": ""
+        },
+        {
+          "citation": "Cole, Mark, \"Picture Perfect\", Cleveland Museum of Art. <em>Cleveland Art: The Cleveland Museum of Art Members Magazine</em>. Vol. 48 no. 8, October 2008",
+          "page_number": "Mentioned & reproduced: p. 9",
+          "url": "https://archive.org/details/CMAMM2008-08/page/8"
+        },
+        {
+          "citation": "Cole, Mark. \"New Spaces in the Cleveland Museum of Art.\" <em>American Art </em>24, no. 2 (Summer 2010)",
+          "page_number": "Mentioned: p. 16; Reproduced: p. 16",
+          "url": null
+        },
+        {
+          "citation": "Mitchell, Mark DeSaussure, and George Inness. <em>George Inness in Italy</em>. Philadelphia, PA: Philadelphia Museum of Art, 2011.",
+          "page_number": "21. Reproduced: 22, fig. 7",
+          "url": null
+        },
+        {
+          "citation": "Janson, H. W., Penelope J. E. Davies, and H. W. Janson. <em>Janson's History of Art: The Western Tradition.</em> Upper Saddle River, NJ: Prentice Hall, 2011.",
+          "page_number": "Mentioned and reproduced: P. 834-835, fig. 24.10",
+          "url": null
+        },
+        {
+          "citation": "Cleveland Museum of Art. <em>The CMA Companion: A Guide to the Cleveland Museum of Art</em>. Cleveland: Cleveland Museum of Art, 2014.",
+          "page_number": "Mentioned and reproduced: P. 48; reproduced: P. 42-43",
+          "url": ""
+        },
+        {
+          "citation": "Raab, Jennifer. <em>Frederic Church: The Art and Science of Detail</em>. New Haven, CT : Yale University Press, 2015.",
+          "page_number": "Mentioned and reproduced: P. 93, fig. 40",
+          "url": null
+        },
+        {
+          "citation": "Sotheby's (Firm). <em>American Paintings, Works on Paper and Sculpture: The Collection of A. Alfred Taubman, Volume Three.</em> New York: Sotheby's, 2015.",
+          "page_number": "Reproduced: P. 68",
+          "url": null
+        },
+        {
+          "citation": "Avery, Kevin J. <em>Sanford R. Gifford in the Catskills.</em> Catskill, N.Y.: Thomas Cole National Historic Site, 2017.",
+          "page_number": "Reproduced: p. 14, fig. 12",
+          "url": null
+        },
+        {
+          "citation": "Fortenberry, Diane, ed.<em> The Art Museum.</em> London; New York: Phaidon Press, 2017.",
+          "page_number": "Reproduced: P. 285, no. 4",
+          "url": null
+        },
+        {
+          "citation": "Kornhauser, Elizabeth Mankin. \"Cole's Legacy.\" In <em>Thomas Cole's Journey: Atlantic Crossings. </em>Elizabeth Mankin Kornhauserand T. J. Barringer. New York: The Metropolitan Museum of Art, 2018.",
+          "page_number": "Reproduced: p. 239, fig. 141",
+          "url": null
+        },
+        {
+          "citation": "Christie' New York. <em>Post-War and Contemporary Art; Afternoon Session. May 15, 2018.<br></em>",
+          "page_number": "Reproduced: p. 134",
+          "url": null
+        },
+        {
+          "citation": "Crosman, Christopher B. <em>John Moore: After the Rain, October 24 - December 6, 2019.</em> New York: Hirschl and Adler Modern, 2019.",
+          "page_number": "Reproduced: P. 10",
+          "url": ""
+        },
+        {
+          "citation": "Green, Tyler. <em>Emerson's Nature and the Artists: Idea As Landscape, Landscape As Idea</em>. Munich: Prestel, 2021.",
+          "page_number": "Reproduced: Frontispiece, P. 102, fig. 43; Mentioned: P. 102",
+          "url": ""
+        }
+      ],
+      "url": "https://clevelandart.org/art/1965.233",
+      "images": {
+        "annotation": "",
+        "web": {
+          "url": "https://openaccess-cdn.clevelandart.org/1965.233/1965.233_web.jpg",
+          "width": "900",
+          "height": "562",
+          "filesize": "254485",
+          "filename": "1965.233_web.jpg"
+        },
+        "print": {
+          "url": "https://openaccess-cdn.clevelandart.org/1965.233/1965.233_print.jpg",
+          "width": "3400",
+          "height": "2123",
+          "filesize": "1604230",
+          "filename": "1965.233_print.jpg"
+        },
+        "full": {
+          "url": "https://openaccess-cdn.clevelandart.org/1965.233/1965.233_full.tif",
+          "width": "7673",
+          "height": "4791",
+          "filesize": "110309980",
+          "filename": "1965.233_full.tif"
+        }
+      },
+      "alternate_images": [
+        {
+          "annotation": "",
+          "web": {
+            "url": "https://openaccess-cdn.clevelandart.org/alternate/1965.233/1965.233_alt0_web.jpg",
+            "width": "900",
+            "height": "656",
+            "filesize": "336550"
+          },
+          "print": {
+            "url": "https://openaccess-cdn.clevelandart.org/alternate/1965.233/1965.233_alt0_print.jpg",
+            "width": "3400",
+            "height": "2478",
+            "filesize": "2517286"
+          },
+          "full": {
+            "url": "https://openaccess-cdn.clevelandart.org/alternate/1965.233/1965.233_alt0_full.tif",
+            "width": "4336",
+            "height": "3160",
+            "filesize": "41147088"
+          }
+        }
+      ],
+      "creditline": "Mr. and Mrs. William H. Marlatt Fund",
+      "sketchfab_id": null,
+      "sketchfab_url": null,
+      "gallery_donor_text": "Baker & Hostetler LLP Gallery",
+      "athena_id": 141639,
+      "creators": [
+        {
+          "id": 2697,
+          "description": "Frederic Edwin Church (American, 1826–1900)",
+          "extent": null,
+          "qualifier": null,
+          "role": "artist",
+          "biography": null,
+          "name_in_original_language": null,
+          "birth_year": "1826",
+          "death_year": "1900"
+        }
+      ],
+      "legal_status": "accessioned",
+      "accession_date": "1965-09-11T00:00:00",
+      "sortable_date": 1860,
+      "date_text": "1860",
+      "collapse_artists": false,
+      "on_loan": false,
+      "recently_acquired": false,
+      "record_type": "object",
+      "conservation_statement": null,
+      "is_nazi_era_provenance": false,
+      "impression": null,
+      "alternate_titles": [],
+      "is_highlight": true,
+      "updated_at": "2024-05-10 17:45:46.024000"
+    },
+    {
+      "id": "7fce",
+      "title": "Artsper",
+      "creation_date": "2000",
+      "url": "https://blog.artsper.com/wp-content/uploads/2019/07/basquiat-644x430.jpg",
+      "images": {
+        "web": {
+          "url": "https://blog.artsper.com/wp-content/uploads/2019/07/basquiat-644x430.jpg"
+        }
+      }
+    },
+    {
+      "id": "94979",
+      "accession_number": "1915.534",
+      "share_license_status": "CC0",
+      "tombstone": "Nathaniel Hurd, c. 1765. John Singleton Copley (American, 1738–1815). Oil on canvas; framed: 90.5 x 78 x 6.5 cm (35 5/8 x 30 11/16 x 2 9/16 in.); unframed: 76.2 x 64.8 cm (30 x 25 1/2 in.). The Cleveland Museum of Art, Gift of the John Huntington Art and Polytechnic Trust 1915.534",
+      "current_location": "204 Colonial American",
+      "title": "Nathaniel Hurd",
+      "creation_date": "c. 1765",
+      "creation_date_earliest": 1760,
+      "creation_date_latest": 1770,
+      "artists_tags": [
+        "male"
+      ],
+      "culture": [
+        "America, 18th century"
+      ],
+      "technique": "oil on canvas",
+      "support_materials": [],
+      "department": "American Painting and Sculpture",
+      "collection": "American - Painting",
+      "type": "Painting",
+      "measurements": "Framed: 90.5 x 78 x 6.5 cm (35 5/8 x 30 11/16 x 2 9/16 in.); Unframed: 76.2 x 64.8 cm (30 x 25 1/2 in.)",
+      "dimensions": {
+        "framed": {
+          "height": 0.905,
+          "width": 0.78,
+          "depth": 0.065
+        },
+        "unframed": {
+          "height": 0.762,
+          "width": 0.648
+        }
+      },
+      "state_of_the_work": null,
+      "edition_of_the_work": null,
+      "copyright": null,
+      "inscriptions": [],
+      "exhibitions": {
+        "current": [
+          {
+            "id": 317001,
+            "title": "Inaugural Exhibition",
+            "description": "<i>Inaugural Exhibition</i>. The Cleveland Museum of Art, Cleveland, OH (organizer) (co-organizer) (June 6-September 20, 1916).",
+            "opening_date": "1916-06-06T05:00:00"
+          },
+          {
+            "id": 312517,
+            "title": "The Twentieth Anniversary Exhibition: The Official Art Exhibit of the Great Lakes Exposition",
+            "description": "<i>The Twentieth Anniversary Exhibition: The Official Art Exhibit of the Great Lakes Exposition</i>. The Cleveland Museum of Art, Cleveland, OH (organizer) (June 26-October 4, 1936).",
+            "opening_date": "1936-06-26T04:00:00"
+          },
+          {
+            "id": 312341,
+            "title": "The Silver Jubilee Exhibition",
+            "description": "<i>The Silver Jubilee Exhibition</i>. The Cleveland Museum of Art, Cleveland, OH (organizer) (June 23-September 28, 1941).",
+            "opening_date": "1941-06-23T04:00:00"
+          },
+          {
+            "id": 304248,
+            "title": "Style, Truth and the Portrait",
+            "description": "<i>Style, Truth and the Portrait</i>. The Cleveland Museum of Art, Cleveland, OH (October 1-November 19, 1963).",
+            "opening_date": "1963-10-01T04:00:00"
+          },
+          {
+            "id": 520707,
+            "title": "Four Centuries of American Masterpieces",
+            "description": "<i>Four Centuries of American Masterpieces</i>. 1964 New York World's Fair, New York, NY (May 1-October 18, 1964).",
+            "opening_date": "1964-05-01T04:00:00"
+          },
+          {
+            "id": 520960,
+            "title": "John Singleton Copley: A Retrospective Exhibition",
+            "description": "<i>John Singleton Copley: A Retrospective Exhibition</i>. National Gallery of Art, Washington, D.C. (organizer) (September 18-October 31, 1965); The Metropolitan Museum of Art, New York, NY (November 20, 1965-January 2, 1966); Museum of Fine Arts, Boston, Boston, MA (January 22-March 6, 1966).",
+            "opening_date": "1965-09-18T04:00:00"
+          },
+          {
+            "id": 444647,
+            "title": "The Face of Liberty",
+            "description": "<i>The Face of Liberty</i>. Amon Carter Museum, Fort Worth, TX (organizer) (December 23, 1975-February 8, 1976).",
+            "opening_date": "1975-12-23T05:00:00"
+          },
+          {
+            "id": 417433,
+            "title": "John Singleton Copley's America",
+            "description": "<i>John Singleton Copley's America</i>. Museum of Fine Arts, Boston (June 7-August 27, 1995); The Metropolitan Museum of Art (organizer) (September 26, 1995-January 7, 1996); Museum of Fine Arts, Houston (February 4-April 28, 1996).",
+            "opening_date": "1995-06-07T04:00:00"
+          },
+          {
+            "id": 222076,
+            "title": "Nathaniel Hurd",
+            "description": "<i>Nathaniel Hurd</i>. Memorial Art Gallery of the University of Rochester, NY (November 22, 1999-April 10, 2000).",
+            "opening_date": "1999-11-22T00:00:00"
+          },
+          {
+            "id": 180609,
+            "title": "CMA @ Oberlin - American Portraits",
+            "description": "<i>CMA @ Oberlin - American Portraits</i>. Allen Memorial Art Museum, Oberlin, OH (August 29-December 17, 2006).",
+            "opening_date": "2006-08-29T00:00:00"
+          }
+        ],
+        "legacy": [
+          {
+            "description": "Cleveland, Cleveland Museum of Art, The Inaugural Exhibition (6 June-20 September, 1916); cat. p. 255.",
+            "opening_date": "1916-06-06T00:00:00"
+          },
+          {
+            "description": "Boston, Museum of Fine Arts, Boston, One Hundred Colonial Portraits (19 June-21 September 1930), cat. no. 50.",
+            "opening_date": "1930-06-19T00:00:00"
+          },
+          {
+            "description": "Cleveland, Cleveland Museum of Art, Catalogue of the Twentieth Anniversary Exhibition of the Cleveland Museum of Art: The Official Art Exhibit of the Great Lakes Exposition (26 June-4 October, 1936), illus. plate II, cat. no. 23, pp. 21-22.",
+            "opening_date": "1936-06-26T00:00:00"
+          },
+          {
+            "description": "New York, Metropolitan Museum of Art, An Exhibition of Paintings by John Singleton Copley: In Commemoration of the Two-Hundredth Anniversary of His Birth (22 December, 1936-14 February, 1937), illus. 16.",
+            "opening_date": "1936-12-22T00:00:00"
+          },
+          {
+            "description": "Baltimore, Baltimore Museum of Art, Two Hundred Years of American Painting, (15 January-28 February, 1938), no. 2.",
+            "opening_date": "1938-01-15T00:00:00"
+          },
+          {
+            "description": "New Haven, Yale University Gallery of Fine Arts, Masterpieces of New England Silver 1650-1800, (18 June-10 September, 1939), ill. no. 224, p. 94.",
+            "opening_date": "1939-06-18T00:00:00"
+          },
+          {
+            "description": "Flint, Mich., Flint Institute of Arts, Art Marches On: The Opening and Dedicating Exhibition of the New Flint Institute of Arts (14 November-31 December, 1941), illus no. 53, p. 30.",
+            "opening_date": "1941-11-14T00:00:00"
+          },
+          {
+            "description": "Oberlin, Ohio, The Dudley P. Allen Memorial Art Museum, The Arts in the Americas in the Eighteenth Century (1946), cat. no. 1 (see Bulletin of the Allen Memorial Art Museum, Oberlin College, vol. III, no. 3 (May, 1946).",
+            "opening_date": "1946-05-01T00:00:00"
+          },
+          {
+            "description": "Dallas, The Dallas Museum of Fine Arts, Survey of American Painting from 1700 to the Present (5 October - 3 November 1946); cat. 200 Years of American Painting.",
+            "opening_date": "1946-10-05T00:00:00"
+          },
+          {
+            "description": "Denver, The Denver Art Museum, American Heritage: An Exhibitions of Paintings and Crafts 1770-1790 (7 March-11 April 1948), ill. p. 9.",
+            "opening_date": "1948-03-07T00:00:00"
+          },
+          {
+            "description": "Denver, The Denver Art Museum, Portraiture Through the Ages (9 January - 15 February 1950).",
+            "opening_date": "1950-01-09T00:00:00"
+          },
+          {
+            "description": "Milwaukee, Milwaukee Art Institute, Silver and American Tradition (13 February - 19 March 1953).",
+            "opening_date": "1953-02-13T00:00:00"
+          },
+          {
+            "description": "Houston, Museum of Fine Arts, Houston, George Washington's World (15 January - 14 February 1954), cat. no. 5.",
+            "opening_date": "1954-01-15T00:00:00"
+          },
+          {
+            "description": "Boston, Museum of Fine Arts, Boston, Colonial Silversmiths, Masters and Apprentices (13 November - 30 December 1956).",
+            "opening_date": "1956-11-13T00:00:00"
+          },
+          {
+            "description": "Jewett Art Center, Wellesley College, Massachusetts, Four Boston Masters (10 April-11 May, 1959), cat. no. 8, repr. p. 25; traveled to Boston, Museum of Fine Arts (19 May - 26 June 1959).",
+            "opening_date": "1959-04-10T00:00:00"
+          },
+          {
+            "description": "Cleveland, The Cleveland Museum of Art, Style, Truth and the Portrait (1 October -10 November, 1963), ill. cat. no. 29.",
+            "opening_date": "1963-10-01T00:00:00"
+          },
+          {
+            "description": "New York, The Gallery at The Better Living Center, New York World's Fair, Four Centuries of American Masterpieces (22 May-18 October 1964), p. 18, illus. p. 18; (arranged by the Skowhegan School of Painting and Sculpture).",
+            "opening_date": "1964-05-22T00:00:00"
+          },
+          {
+            "description": "Washington, DC, National Gallery of Art, John Singleton Copley, 1738-1815 (18 September - 31 October 1965), pp. 45-9, illus. p. 47; traveled to New York, Metropolitan Museum of Art (20 November 1965 - 2 January 1966); traveled to Boston, Museum of Fine Arts (22 January - 6 February 1966).",
+            "opening_date": "1965-09-18T00:00:00"
+          },
+          {
+            "description": "Fort Worth, Amon Carter Museum of Western Art, The Face of Liberty: Founders of the United States (23 December 1975 - 8 February 1976), illus. colorplate 16.",
+            "opening_date": "1975-12-23T00:00:00"
+          },
+          {
+            "description": "Cleveland, The Cleveland Museum of Art, Silver in American Life (24 June - 16 August 1981); exhibited in gallery but not in catalogue.",
+            "opening_date": "1981-06-24T00:00:00"
+          },
+          {
+            "description": "Boston, Museum of Fine Arts, John Singleton Copley in America (7 June - 27 August 1995), traveled to New York, Metropolitan Museum of Art (26 September 1995 - 7 January 1996), traveled to Houston, Museum of Fine Arts (4 February - 28 April 1996), did not travel to Milwaukee, Milwaukee Art Museum; cat. no. 21, p. 57, 93, 119, 208-11, 248, 300, 312.",
+            "opening_date": "1995-06-07T00:00:00"
+          },
+          {
+            "description": "Rochester, New York, Memorial Art Gallery of the University of Rochester, ABOUT FACE: Copley's Portrait of Nathaniel Hurd, Colonial Silversmith and Engraver, (1 November 1999-1 March 2000), see Porticus journal.",
+            "opening_date": "1999-11-01T00:00:00"
+          }
+        ]
+      },
+      "provenance": [
+        {
+          "description": "Benjamin Hurd [1739-1781], Halifax, Nova Scotia, by descent to his son, John Hurd",
+          "citations": [],
+          "footnotes": [],
+          "date": "-1781"
+        },
+        {
+          "description": "John Hurd, Halifax, Nova Scotia, by descent to his two daughters",
+          "citations": [],
+          "footnotes": [],
+          "date": "1781-"
+        },
+        {
+          "description": "Daughters of John Hurd [d. by 1860], Halifax, Nova Scotia, to Mrs. Thomas Barry",
+          "citations": [],
+          "footnotes": [],
+          "date": "-by 1860"
+        },
+        {
+          "description": "Mrs. Thomas Barry [d. 1869], Halifax, Nova Scotia, by gift to Walter Wesselhoeft",
+          "citations": [],
+          "footnotes": [],
+          "date": "By 1860-1869"
+        },
+        {
+          "description": "Walter Wesselhoeft [1838-1920], Cambridge, MA, consigned to the Copley Gallery",
+          "citations": [],
+          "footnotes": [],
+          "date": "1869-1915"
+        },
+        {
+          "description": "(Copley Gallery, Boston, MA, sold to the Cleveland Museum of Art)",
+          "citations": [],
+          "footnotes": [],
+          "date": "1915"
+        },
+        {
+          "description": "The Cleveland Museum of Art, Cleveland, Ohio",
+          "citations": [],
+          "footnotes": [],
+          "date": "1915-"
+        }
+      ],
+      "find_spot": null,
+      "related_works": [],
+      "former_accession_numbers": [
+        "350.1915"
+      ],
+      "did_you_know": "The artist Copley’s in-laws were consignees for the cargo dumped during the Boston Tea Party.",
+      "description": "Hurd was a prominent silversmith and engraver in Boston, and the warm gaze and unforced smile in his portrait by Copley suggest the friendship between the two artists. Hurd's open-collared shirt, as well as the rakishly tilted turban that covers his shaved head in place of a ceremonial powdered wig, create an air of informality that is unusual for a portrait of this time.",
+      "external_resources": {
+        "wikidata": [
+          "https://www.wikidata.org/wiki/Q60502218"
+        ],
+        "internet_archive": [
+          "https://archive.org/details/clevelandart-1915.534-nathaniel-hurd"
+        ]
+      },
+      "citations": [
+        {
+          "citation": "Perkins, Augustus Thorndike. <em>A Sketch of the Life and a List of Some of the Works of John Singleton Copley</em>. Boston: Priv. Print, 1873.",
+          "page_number": "Mentioned: p. 17, 75-6",
+          "url": null
+        },
+        {
+          "citation": "Bayley, Frank W. <em>The Life and Works of John Singleton Copley: Founded on the Work of Augustus Thorndike Perkins</em>. Boston, MA: Taylor Press, 1915.",
+          "page_number": "Mentioned: p. 151-152",
+          "url": null
+        },
+        {
+          "citation": "W. H. D. \"The Fine Arts: Fine Portrait by Copley.\" <em>The Boston Transcript, </em>October, 1915.",
+          "page_number": null,
+          "url": null
+        },
+        {
+          "citation": "<em>The American Art News. </em>14:23 (March 11, 1916): 1-10.",
+          "page_number": "Reproduced: p. 5",
+          "url": null
+        },
+        {
+          "citation": "\"Clevel'd Gets Early Am'ns.\" <em>The American Art News. </em>14:24 (March 18, 1916): 1-8.",
+          "page_number": "Mentioned: p. 1",
+          "url": null
+        },
+        {
+          "citation": "\"The Inauguration.\" <em>The Bulletin of the Cleveland Museum of Art</em>. 3:2 (July, 1916): 1-24.",
+          "page_number": "Reproduced: opposite p. 1",
+          "url": null
+        },
+        {
+          "citation": "Bell, Hamilton. \"Early American Portraits at the Cleveland Museum of Art.\" <em>The American Magazine of Art</em>. 7:12 (October, 1916).",
+          "page_number": "Mentioned: p. 484-5; Reproduced: p. 485",
+          "url": null
+        },
+        {
+          "citation": "Cleveland Museum of Art. <em>An Appreciation of Copley's \"Nathaniel Hurd\": John Huntington Collection</em>. Cleveland, OH: Cleveland Museum of Art, 1918.",
+          "page_number": null,
+          "url": null
+        },
+        {
+          "citation": "\"Special Exhibition Cabinet.\" <em>The Bulletin of the Cleveland Museum of Art</em>. 5:1. (January 1918).",
+          "page_number": "Mentioned: p. 3",
+          "url": "www.jstor.org/stable/25136158"
+        },
+        {
+          "citation": "Dunlap, William. <em>A History of the Rise and Progress of the Arts of Design in the United States</em>. 1. Boston: C.E. Goodspeed &amp; Co, 1918.",
+          "page_number": "Mentioned: p. 172-4; Reproduced: opposite p. 173",
+          "url": null
+        },
+        {
+          "citation": "\"Report of the Museum's Second Year.\" <em>The Bulletin of the Cleveland Museum of Art</em> 5, no. 6/7 (1918): 69-79.",
+          "page_number": "Mentioned: p. 71",
+          "url": "www.jstor.org/stable/25136208"
+        },
+        {
+          "citation": "Clearwater, Alphonso Trumpbour, and C. Louise Avery. <em>American Silver of the 17th and 18th Centuries: A Study Based on the Clearwater Collection. </em>New York: Metropolitan Museum of Art, 1920.",
+          "page_number": "Reproduced: fig. 101",
+          "url": null
+        },
+        {
+          "citation": "\"Early Portrait Study by Copley.\" <em>Art News. </em>22:19 (February 16, 1923).",
+          "page_number": "Reproduced: p. 9",
+          "url": null
+        },
+        {
+          "citation": "L. P. \"Portrait of Nathaniel Hurd by Copley.\" <em>The Bulletin of the Cleveland Museum of Art</em>. 10:3 (March 1923).",
+          "page_number": "Mentioned: p. 39-40",
+          "url": null
+        },
+        {
+          "citation": "\"When Copley Portrayed an Early Craftsman.\" <em>Art News.</em> (June 9, 1923).",
+          "page_number": "Reproduced: p. 4",
+          "url": null
+        },
+        {
+          "citation": "National Collection of Fine Arts (U.S.), Washington Loan Exhibition Committee. <em>Exhibition of Early American Paintings, Miniatures and Silver</em>. Washington, D.C.: National Gallery of Art, 1925.",
+          "page_number": "Reproduced: p. 80",
+          "url": null
+        },
+        {
+          "citation": "The Cleveland Museum of Art. <em>Handbook of the Cleveland Museum of Art</em>. Cleveland, OH: The Cleveland Museum of Art, 1925.",
+          "page_number": "Mentioned: p. 7-8; Reproduced: p. 8",
+          "url": "https://archive.org/details/CMAHandbook_80839/page/n10"
+        },
+        {
+          "citation": "Dow, George Francis. <em>The Arts &amp; Crafts in New England, 1704-1775; Gleanings from Boston Newspapers Relating to Painting, Engraving, Silversmiths, Pewterers, Clockmakers, Furniture, Pottery, Old Houses, Costume, Trades and Occupations, &amp; C...</em> Topsfield, MA: Wayside Press, 1927.",
+          "page_number": "Mentioned: p. 8; Reproduced: frontispiece",
+          "url": null
+        },
+        {
+          "citation": "The Cleveland Museum of Art. <em>Handbook of the Cleveland Museum of Art</em>. Cleveland, OH: The Cleveland Museum of Art, 1928.",
+          "page_number": "Reproduced: p. 8",
+          "url": "https://archive.org/details/CMAHandbook1928/page/n12"
+        },
+        {
+          "citation": "<em>Handbook of the Cleveland Museum of Art. </em>Cleveland: Cleveland Museum of Art, 1928.",
+          "page_number": "Reproduced: p. 8",
+          "url": "https://archive.org/details/CMAHandbook1928#page=12"
+        },
+        {
+          "citation": "Bayley, Frank W. <em>Five Colonial Artists of New England: Joseph Badger, Joseph Blackburn, John Singleton Copley; Robert Feke, John Smibert</em>. Boston, MA: Privately Printed, 1929.",
+          "page_number": "Reproduced: fig. 229",
+          "url": null
+        },
+        {
+          "citation": "Bolton, Theodore and Harry Lorin Binsse. \"John Singleton Copley.\" <em>The Antiquarian. </em>15:6 (December, 1930).",
+          "page_number": "Reproduced: p. 80-81",
+          "url": null
+        },
+        {
+          "citation": "Stark, Harold. <em>Art in America from 1600 to 1865; An Illustrated Guide for a National Radio Broadcast from February 3 to May 19, 1934</em>. Chicago, IL: University of Chicago Press, 1934.",
+          "page_number": "Reproduced: p. 19",
+          "url": null
+        },
+        {
+          "citation": "Cahill, Holger, and Alfred H. Barr, Jr., eds. <em>Art in America: A Complete Survey</em>. New York, NY: Reynal &amp; Hitchcock, 1935.",
+          "page_number": "Mentioned: p. 17; Reproduced: p. 18",
+          "url": null
+        },
+        {
+          "citation": "Milliken, William. \"Special Number for the 20th Anniversary Exhibition of the Cleveland Museum of Art: Official Art Exhibit of the Great Lakes Exposition.\" <em>The Art News.</em> (June 13, 1936).",
+          "page_number": "Reproduced: p. 14",
+          "url": null
+        },
+        {
+          "citation": "Burroughs, Louise. \"John Singleton Copley.\" <em>Bulletin of the Metropolitan Museum of Art.</em> 31:12 (December 1936).",
+          "page_number": "Mentioned: p. 254",
+          "url": null
+        },
+        {
+          "citation": "Frankfurter, Alfred M. \"J. S. Copley, American Master.\" <em>Art News.</em> 35:13 (December 26, 1936).",
+          "page_number": "Reproduced: p. 12",
+          "url": null
+        },
+        {
+          "citation": "Jewell, Edward Alden. \"Copley: Metropolitan Opens Bicentennial Show.\" <em>The New York Times, </em>December 27, 1936.",
+          "page_number": "Mentioned: p. 9",
+          "url": null
+        },
+        {
+          "citation": "Parker, Barbara Neville, and Anne Bolling Wheeler. <em>John Singleton Copley; American Portraits in Oil, Pastel, and Miniature</em>. Boston, MA: Museum of Fine Arts, 1938.",
+          "page_number": "Reproduced: p. 118-9, pl. 61A",
+          "url": null
+        },
+        {
+          "citation": "French, Hollis. <em>Jacob Hurd and His Sons Nathaniel &amp; Benjamin: Silversmiths 1702-1781. </em>Cambridge, MA: Riverside Press for the Walpole Society, 1939.",
+          "page_number": "Reproduced: frontispiece; Mentioned: pp. 138-40",
+          "url": null
+        },
+        {
+          "citation": "Hagen, Oskar. <em>The Birth of the American Tradition in Art</em>. New York: Charles Scribner's Sons, 1940.",
+          "page_number": "Reproduced: p. 89; Mentioned: pp. 102-105",
+          "url": null
+        },
+        {
+          "citation": "Foote, Helen S. \"A Collection of Early American Silver Gift of Hollis French.\" <em>The</em> <em>Bulletin of the Cleveland Museum of Art.</em> 27:9 (November, 1940).",
+          "page_number": "Mentioned: p. 135",
+          "url": null
+        },
+        {
+          "citation": "Flint Institute of Arts. <em>Art Marches on!: The Opening and Dedicating Exhibition of the New Flint Institute of Arts</em>. Flint, MI: The Institute, 1941.",
+          "page_number": "Reproduced and Mentioned: p. 30, fig. 50",
+          "url": null
+        },
+        {
+          "citation": "\"Cleveland's First 25 Years.\" <em>ARTnews. </em>40:11 (September, 1941).",
+          "page_number": "Mentioned: p. 13, 25; Reproduced: p. 13",
+          "url": null
+        },
+        {
+          "citation": "Walker, John, and Macgill James. <em>Great American Paintings from Smibert to Bellows, 1729-1924</em>. London: Oxford University Press, 1943.",
+          "page_number": "Reproduced: no. 10",
+          "url": null
+        },
+        {
+          "citation": "\"Cleveland Museum.\" <em>Life</em> (September 20, 1943).",
+          "page_number": "Reproduced: p. 68",
+          "url": null
+        },
+        {
+          "citation": "King, Winnifred. \"Their Hands.\" <em>The Christian Science Monitor. </em>November 20, 1943.",
+          "page_number": null,
+          "url": null
+        },
+        {
+          "citation": "Adams, James Truslow. <em>Album of American History</em>. volume 1. New York, NY: Charles Scribner's Sons, 1944.",
+          "page_number": "Reproduced: p. 345",
+          "url": null
+        },
+        {
+          "citation": "<em>Paintings in the Cleveland Museum of Art.</em> [Cleveland]: The Cleveland Museum of Art, 1945.",
+          "page_number": "Reproduced: p. 12",
+          "url": "https://archive.org/details/CMAPaintings1945/page/n20"
+        },
+        {
+          "citation": "\"The Arts in America in the Eighteenth Century.\" <em>Bulletin of the Allen Memorial Art Museum, Oberlin College</em>. 3:3 (May, 1946).",
+          "page_number": "Mentioned: p. 67, 90, 99; Reproduced: p. 66",
+          "url": null
+        },
+        {
+          "citation": "Phillips, John Marshall. <em>American Silver</em>. New York, NY: Chanticleer Press, 1949.",
+          "page_number": "Mentioned: p. 82-6; Reproduced: p. 83",
+          "url": null
+        },
+        {
+          "citation": "Barker, Virgil. <em>American Painting: History and Interpretation</em>. New York, NY: The Macmillan Company, 1950.",
+          "page_number": "Mentioned: p. 144, 147-8; Reproduced: p. 145",
+          "url": null
+        },
+        {
+          "citation": "\"A bird's-eye view of early American painting.\" <em>Antiques.</em> 62 (November 1952).",
+          "page_number": "Reproduced: p. 402",
+          "url": null
+        },
+        {
+          "citation": "Milliken, William Mathewson. <em>The Cleveland Museum of Art</em>. New York: H.N. Abrams, 1958.",
+          "page_number": "Mentioned: p. 60",
+          "url": null
+        },
+        {
+          "citation": "The Cleveland Museum of Art. <em>The Cleveland Museum of Art Handbook.</em> Cleveland, OH: The Cleveland Museum of Art, 1958.",
+          "page_number": "Mentioned and Reproduced: cat. no. 529",
+          "url": "https://archive.org/details/CMAHandbook1958/page/n96"
+        },
+        {
+          "citation": "\"Portraits of American Craftsmen.\" <em>Antiques. </em>76. (October 1959).",
+          "page_number": "Reproduced: p. 321",
+          "url": null
+        },
+        {
+          "citation": "Larkin, Oliver W. <em>Art and Life in America</em>. New York, NY: Holt, Rinehart and Winston, 1960.",
+          "page_number": "Reproduced: pl. 1",
+          "url": null
+        },
+        {
+          "citation": "<em>Kindlers Malerei Lexicon</em>. volume 1. Zurich, Switzerland: 1964.",
+          "page_number": "Reproduced: p. 776",
+          "url": null
+        },
+        {
+          "citation": "Museum of Fine Arts, Saint Petersburg. <em>Inaugural Exhibition, February 7 Through March 7, 1965</em>. Saint Petersburg, FL: 1965.",
+          "page_number": null,
+          "url": null
+        },
+        {
+          "citation": "The Cleveland Museum of Art. <em>Handbook of the Cleveland Museum of Art/1966</em>. Cleveland, OH: The Cleveland Museum of Art, 1966.",
+          "page_number": "Reproduced: p. 161",
+          "url": "https://archive.org/details/CMAHandbook1966/page/n184"
+        },
+        {
+          "citation": "Prown, Jules David. <em>John Singleton Copley: In America 1738-1774</em>. Cambridge, MA: Harvard University Press, 1966.",
+          "page_number": "Mentioned: p. 52-55; Reproduced: no. 177",
+          "url": null
+        },
+        {
+          "citation": "Wright, Louis B., George B. Tatum, John W. McCoubrey, and Robert C. Smith. <em>The Arts In America: The Colonial Period</em>. New York, NY: Charles Scribner's Sons, 1966.",
+          "page_number": "Reproduced: p. 204",
+          "url": null
+        },
+        {
+          "citation": "Wilson, Patricia Boyd. <em>The Christian Science Monitor.</em> January 19, 1966.",
+          "page_number": null,
+          "url": null
+        },
+        {
+          "citation": "Myers, Bernard S. <em>Art and Civilization</em>. New York: McGraw-Hill Book Company, 1967.",
+          "page_number": "Mentioned: p. 319-320; Reproduced: p. 319",
+          "url": null
+        },
+        {
+          "citation": "Cirker, Hayward, and Blanche Cirker. <em>Dictionary of American Portraits: 4045 Pictures of Important Americans from Earliest Times to the Beginning of the Twentieth Century</em>. New York, NY: Dover Publications, Inc., 1967",
+          "page_number": "Reproduced: p. 322",
+          "url": null
+        },
+        {
+          "citation": "McLanathan, Richard B. K. <em>The American Tradition in the Arts</em>. New York: Harcourt, Brace &amp; World, 1968.",
+          "page_number": "Mentioned: p. 91-2",
+          "url": null
+        },
+        {
+          "citation": "The Cleveland Museum of Art. <em>Handbook of the Cleveland Museum of Art/1969</em>. Cleveland, OH: The Cleveland Museum of Art, 1969.",
+          "page_number": "Reproduced: p. 161",
+          "url": "https://archive.org/details/CMAHandbook1969/page/n184"
+        },
+        {
+          "citation": "Plate, Robert. <em>John Singleton Copley: America's First Great Artist. </em>New York, NY: David McKay Co, 1969.",
+          "page_number": "Mentioned: p. 27, 48",
+          "url": null
+        },
+        {
+          "citation": "Novak, Barbara. <em>American Painting of the Nineteenth Century: Realism, Idealism, and the American Experience</em>. New York, NY: Praeger Publishers, 1969.",
+          "page_number": "Mentioned: p. 24-5; Reproduced: p. 24",
+          "url": null
+        },
+        {
+          "citation": "Glubok, Shirley, and Gerard Nook. The Art of Colonial America. New York, NY: The Macmillan Company, 1970.",
+          "page_number": "Reproduced: p. 25",
+          "url": null
+        },
+        {
+          "citation": "Mooz, Ralph Peter. \"The Art of Robert Feke.\" Ph.D. dissertation, University of Pennsylvania, 1970.",
+          "page_number": "Mentioned: p. 177",
+          "url": null
+        },
+        {
+          "citation": "Lee, Sherman E. Introduction to <em>The Cleveland Museum of Art</em>. Hannover: Knorr &amp; Hirth, 1970.",
+          "page_number": "Mentioned: p. 64; Reproduced: no. 29",
+          "url": null
+        },
+        {
+          "citation": "Neumeyer, Alfred. \"Nordamerikanische Kunst.\" <em>Die Kunst des 18</em>. <em>Jahrhunderts</em>. ed. Harald Keller. Berlin: Propylaen Verlag, 1971.",
+          "page_number": "Reproduced: p. 431, pl. 68",
+          "url": null
+        },
+        {
+          "citation": "Fales, Martha Gandy. <em>Early American Silver</em>. New York: E.P. Dutton &amp; Co, 1973.",
+          "page_number": "Mentioned: p. 94, 239, 319",
+          "url": null
+        },
+        {
+          "citation": "Adler, Mortimer Jerome, ed. <em>The Revolutionary Years: Britannica's Book of the American Revolution</em>. Chicago, IL: Encyclopedia Britannica, Inc., 1976.",
+          "page_number": "Reproduced: p. 245",
+          "url": null
+        },
+        {
+          "citation": "Wilmerding, John. <em>American Art</em>. Harmondsworth, England: Penguin Books, 1976.",
+          "page_number": "Mentioned: p. 38",
+          "url": null
+        },
+        {
+          "citation": "Montgomery, Charles F., and Patricia E. Kane. <em>American Art, 1750-1800: Towards Independence</em>. Boston, MA: Published for Yale University Art Gallery, New Haven, and the Victoria and Albert Museum, London, by the New York Graphic Society, 1976.",
+          "page_number": "Reproduced: p. 132",
+          "url": null
+        },
+        {
+          "citation": "\"American Image.\" <em>Plain Dealer</em>. Section 5 - 8. (January 18, 1976).",
+          "page_number": "Mentioned and Reproduced: Section 5 - 8",
+          "url": null
+        },
+        {
+          "citation": "Brown, Milton W. <em>American Art to 1900: Painting, Sculpture, Architecture</em>. New York: H.N. Abrams, 1977.",
+          "page_number": "Mentioned: p. 101-2; Reproduced: no. 164, p. 102",
+          "url": null
+        },
+        {
+          "citation": "Johnson, Mark M. \"Portrait Painting - An Image of Man.\" <em>Arts and Activities. </em>82 (September 1977).",
+          "page_number": "Mentioned: p. 34; Reproduced: p. 36",
+          "url": null
+        },
+        {
+          "citation": "The Cleveland Museum of Art. <em>Handbook of the Cleveland Museum of Art/1978</em>. Cleveland, OH: The Cleveland Museum of Art, 1978.",
+          "page_number": "Reproduced: p. 198",
+          "url": "https://archive.org/details/CMAHandbook1978/page/n218"
+        },
+        {
+          "citation": "Ward, Barbara McLean, and Gerald W. R. Ward, eds. <em>Silver in American Life: Selections from the Mabel Brady Garvan and Other Collections at Yale University.</em> New York: American Federation of Arts, 1979.",
+          "page_number": "Mentioned and Reproduced: p. 76",
+          "url": null
+        },
+        {
+          "citation": "Boros, Ethel. \"Early American Silver.\" <em>Plain Dealer.</em> (September 22, 1979).",
+          "page_number": "Mentioned: p. 34-5; Reproduced: p. 34",
+          "url": null
+        },
+        {
+          "citation": "Emlen, Robert P. \"Wedding Silver for the Browns: A Rhode Island Family Patronizes a Boston Goldsmith.\" <em>The American Art Journal</em>. 56:2 (Spring 1984).",
+          "page_number": "Reproduced: p. 8",
+          "url": null
+        },
+        {
+          "citation": "Janson, H. W. <em>History of Art</em>. Third edition. New York, NY: Prentice Hall &amp; Harry Abrams, 1986.",
+          "page_number": "Mentioned: p. 20; Reproduced: p. 21",
+          "url": null
+        },
+        {
+          "citation": "Buchanan, Penelope D. \"John Singleton Copley: Portrait of Nathaniel Hurd.\" <em>Art Education</em>. 40:1 (January 1987).",
+          "page_number": "Mentioned: p. 27-8; Reproduced: p. 28",
+          "url": null
+        },
+        {
+          "citation": "<em>Handbook of The Cleveland Museum of Art</em>. Cleveland, OH: The Cleveland Museum of Art, 1991.",
+          "page_number": "Reproduced: p. 114",
+          "url": null
+        },
+        {
+          "citation": "Turner, Evan H., ed. <em>Object Lessons: Cleveland Creates an Art Museum</em>. Cleveland, OH: Cleveland Museum of Art, 1991.",
+          "page_number": "Mentioned: p. 45; Reproduced: p. 46",
+          "url": null
+        },
+        {
+          "citation": "Chong, Alan. <em>European &amp; American Painting in the Cleveland Museum of Art: A Summary Catalogue</em>. Cleveland, OH: Cleveland Museum of Art, 1993.",
+          "page_number": "Reproduced: p. 43",
+          "url": null
+        },
+        {
+          "citation": "Kissick, John. <em>Art, Context and Criticism</em>. Madison, WI: Brown &amp; Benchmark, 1993.",
+          "page_number": "Reproduced: p. 352",
+          "url": null
+        },
+        {
+          "citation": "Cunningham, Lawrence S., and John J. Reich. <em>Culture and Values: a Survey of the Western Humanities</em>. Second edition. Fort Worth, IN: Holt, Rinehart, and Winston, 1994.",
+          "page_number": "Reproduced: p. 282",
+          "url": null
+        },
+        {
+          "citation": "Janson, H. W. <em>History of Art</em>. Fifth edition. New York, NY: Prentice Hall &amp; Harry Abrams, 1995.",
+          "page_number": "Reproduced: p. 42, pl. 26",
+          "url": null
+        },
+        {
+          "citation": "Barratt, Carrie Rebora. <em>John Singleton Copley in America</em>. New York: Metropolitan Museum of Art, distributed by H.N. Abrams, 1995.",
+          "page_number": "Reproduced: p. 209",
+          "url": null
+        },
+        {
+          "citation": "Kissick, John. <em>Art, Context and Criticism</em>. Second edition. Madison, WI: Brown &amp; Benchmark, 1996.",
+          "page_number": "Reproduced: p. 382",
+          "url": null
+        },
+        {
+          "citation": "Kane, Patricia E., Francis Hill Bigelow, John Marshall Phillips, and Jeannine J. Falino. <em>Colonial Massachusetts Silversmiths and Jewelers: A Biographical Dictionary Based on the Notes of Francis Hill Bigelow &amp; John Marshall Phillips</em>. New Haven, CT: Yale University Art Gallery, 1997.",
+          "page_number": "Reproduced: p. 615",
+          "url": null
+        },
+        {
+          "citation": "Rather, Susan. \"Carpenter, Tailor, Shoemaker, Artist: Copley and Portrait Painting around 1770.\" <em>The Art Bulletin.</em> 79:2 (June 1997).",
+          "page_number": "Mentioned: p. 284-5; Reproduced: p. 285",
+          "url": null
+        },
+        {
+          "citation": "Ohlig, Rudolf, and Hildegard Hogen. <em>Der Glanz der Residenzen: Renaissance und Barock in Europa, Schwarzafrika und Altamerika</em>. Leipzig: F.A. Brockhaus, 1998.",
+          "page_number": "Reproduced: p. 424",
+          "url": null
+        },
+        {
+          "citation": "Ward, Gerald W. R. \"Nathaniel Hurd.\" <em>American National Biography,</em> v. 2. ed. Garraty, John A., and Mark C. Carnes. New York, NY: Oxford University Press, 1999.",
+          "page_number": "Mentioned; p. 556-7",
+          "url": null
+        },
+        {
+          "citation": "Fortune, Brandon Brame, and Deborah Jean Warner. <em>Franklin and His Friends: Portraying the Man of Science in Eighteenth-Century America</em>. Washington, D.C.: Smithsonian National Portrait Gallery, 1999.",
+          "page_number": "Reproduced: p. 62, fig. 4-14",
+          "url": null
+        },
+        {
+          "citation": "May, Sally Ruth, Jane Takac, and Barbara J. Bradley. <em>Knockouts: A Pocket Guide</em>. Cleveland, OH: Cleveland Museum of Art, 2001.",
+          "page_number": "Reproduced: p. 44",
+          "url": null
+        },
+        {
+          "citation": "Kammen, Michael et al. Seeing America: Painting and Sculpture from the Collection of the Memorial Art Gallery of the University of Rochester. Rochester, N.Y.: University of Rochester Press, 2006.",
+          "page_number": "Reproduced: p. 22",
+          "url": null
+        },
+        {
+          "citation": "Cole, Mark, \"Two by Copley\", Cleveland Museum of Art. <em>Cleveland Art: The Cleveland Museum of Art Members Magazine</em>. Vol. 46 no. 08, October 2006",
+          "page_number": "Mentioned & reproduced: p. 7",
+          "url": "https://archive.org/details/CMAMM2006-08/page/6"
+        },
+        {
+          "citation": "Adams, Henry. <em>What's American about American art?: a gallery tour in the Cleveland Museum of Art. </em>Cleveland: Cleveland Museum of Art, 2008.",
+          "page_number": "Reproduced: p. 40 - 41",
+          "url": ""
+        },
+        {
+          "citation": "Cleveland Museum of Art. <em>The CMA Companion: A Guide to the Cleveland Museum of Art</em>. Cleveland: Cleveland Museum of Art, 2014.",
+          "page_number": "Mentioned and reproduced: P. 44",
+          "url": ""
+        },
+        {
+          "citation": "Ward, Gerald W. R. <em>Paul Revere: Sons of Liberty Bowl. </em>Boston: MFA Publications, Museum of Fine Arts, Boston, 2016.",
+          "page_number": "Reproduced: p. 11",
+          "url": null
+        },
+        {
+          "citation": "Rather, Susan. <em>The American School: Artists and Status in the Late-Colonial and Early National Era</em>. New Haven, CT : Yale University Press, 2016.",
+          "page_number": "Mentioned & Reproduced: pp. 41-42, fig. 30",
+          "url": null
+        },
+        {
+          "citation": "Ripley, Elizabeth. <em>Copley; A Biography</em>. Philadelphia: J. B. Lippincott Company, 1967.",
+          "page_number": "Mentioned: p. 24; Reproduced: p. 25",
+          "url": null
+        },
+        {
+          "citation": "Corey Phelon Geske, “Theoria to practica and Congregational Independency: From John Singleton Copley's portraiture of ‘Liberty,’ Rev. Jonathan Mayhew identified, to Rev. Lemuel Haynes's Liberty Further Extended, c. 1776,” Granville History Digital Collection, accessed July 18, 2023, Mentioned pp. 49-55; reproduced pp. 50-51. <u>https://granvillehistory.omeka.net/items/show/1531</u><br>.",
+          "page_number": "",
+          "url": ""
+        }
+      ],
+      "url": "https://clevelandart.org/art/1915.534",
+      "images": {
+        "annotation": null,
+        "web": {
+          "url": "https://openaccess-cdn.clevelandart.org/1915.534/1915.534_web.jpg",
+          "width": "748",
+          "height": "893",
+          "filesize": "402404",
+          "filename": "1915.534_web.jpg"
+        },
+        "print": {
+          "url": "https://openaccess-cdn.clevelandart.org/1915.534/1915.534_print.jpg",
+          "width": "2849",
+          "height": "3400",
+          "filesize": "5904910",
+          "filename": "1915.534_print.jpg"
+        },
+        "full": {
+          "url": "https://openaccess-cdn.clevelandart.org/1915.534/1915.534_full.tif",
+          "width": "4609",
+          "height": "5500",
+          "filesize": "76080612",
+          "filename": "1915.534_full.tif"
+        }
+      },
+      "alternate_images": [
+        {
+          "date_created": "2009-12-08T19:20:36",
+          "annotation": "",
+          "web": {
+            "url": "https://openaccess-cdn.clevelandart.org/alternate/1915.534/1915.534_alt0_web.jpg",
+            "width": "752",
+            "height": "893",
+            "filesize": "432453"
+          },
+          "print": {
+            "url": "https://openaccess-cdn.clevelandart.org/alternate/1915.534/1915.534_alt0_print.jpg",
+            "width": "2865",
+            "height": "3400",
+            "filesize": "6309012"
+          },
+          "full": {
+            "url": "https://openaccess-cdn.clevelandart.org/alternate/1915.534/1915.534_alt0_full.tif",
+            "width": "5406",
+            "height": "6416",
+            "filesize": "104088368"
+          }
+        }
+      ],
+      "creditline": "Gift of the John Huntington Art and Polytechnic Trust",
+      "sketchfab_id": null,
+      "sketchfab_url": null,
+      "gallery_donor_text": "Leigh and Mary Carter Gallery",
+      "athena_id": 94979,
+      "creators": [
+        {
+          "id": 2409,
+          "description": "John Singleton Copley (American, 1738–1815)",
+          "extent": null,
+          "qualifier": null,
+          "role": "artist",
+          "biography": null,
+          "name_in_original_language": null,
+          "birth_year": "1738",
+          "death_year": "1815"
+        }
+      ],
+      "legal_status": "accessioned",
+      "accession_date": "1916-01-10T00:00:00",
+      "sortable_date": 1760,
+      "date_text": "c. 1765",
+      "collapse_artists": false,
+      "on_loan": false,
+      "recently_acquired": false,
+      "record_type": "object",
+      "conservation_statement": null,
+      "is_nazi_era_provenance": false,
+      "impression": null,
+      "alternate_titles": [],
+      "is_highlight": false,
+      "updated_at": "2024-03-26 01:56:10.088000"
+    },
+    {
+      "id": 125249,
+      "accession_number": "1947.209",
+      "share_license_status": "CC0",
+      "tombstone": "The Large Plane Trees (Road Menders at Saint-Rémy), 1889. Vincent van Gogh (Dutch, 1853–1890). Oil on fabric; framed: 104.5 x 124.5 x 7.6 cm (41 1/8 x 49 x 3 in.); unframed: 73.4 x 91.8 cm (28 7/8 x 36 1/8 in.). The Cleveland Museum of Art, Gift of the Hanna Fund 1947.209",
+      "current_location": "222 Impressionism & Post-Impressionism",
+      "title": "The Large Plane Trees (Road Menders at Saint-Rémy)",
+      "creation_date": "1889",
+      "creation_date_earliest": 1889,
+      "creation_date_latest": 1889,
+      "artists_tags": [
+        "male"
+      ],
+      "culture": [
+        "Netherlands"
+      ],
+      "technique": "oil on fabric",
+      "support_materials": [],
+      "department": "Modern European Painting and Sculpture",
+      "collection": "Mod Euro - Painting 1800-1960",
+      "type": "Painting",
+      "measurements": "Framed: 104.5 x 124.5 x 7.6 cm (41 1/8 x 49 x 3 in.); Unframed: 73.4 x 91.8 cm (28 7/8 x 36 1/8 in.)",
+      "dimensions": {
+        "framed": {
+          "height": 1.045,
+          "width": 1.245,
+          "depth": 0.076
+        },
+        "unframed": {
+          "height": 0.734,
+          "width": 0.918
+        }
+      },
+      "state_of_the_work": null,
+      "edition_of_the_work": null,
+      "copyright": null,
+      "inscriptions": [],
+      "exhibitions": {
+        "current": [
+          {
+            "id": 312052,
+            "title": "Work by Vincent Van Gogh",
+            "description": "<i>Work by Vincent Van Gogh</i>. The Cleveland Museum of Art, Cleveland, OH (organizer) (November 3-December 12, 1948).",
+            "opening_date": "1948-11-03T04:00:00"
+          },
+          {
+            "id": 338462,
+            "title": "Van Gogh: Paintings and Drawings",
+            "description": "<i>Van Gogh: Paintings and Drawings</i>. The Metropolitan Museum of Art, New York, NY (October 21, 1949-January 15, 1950); The Art Institute of Chicago, Chicago, IL (February 1-April 15, 1950).",
+            "opening_date": "1949-10-21T05:00:00"
+          },
+          {
+            "id": 300437,
+            "title": "Four Modes of Composition",
+            "description": "<i>Four Modes of Composition</i>. The Cleveland Museum of Art, Cleveland, OH (organizer) (September 10-October 27, 1954).",
+            "opening_date": "1954-09-10T04:00:00"
+          },
+          {
+            "id": 301477,
+            "title": "In Memoriam: Leonard C. Hanna, Jr.",
+            "description": "<i>In Memoriam: Leonard C. Hanna, Jr.</i>. The Cleveland Museum of Art, Cleveland, OH (organizer) (March 4-April 7, 1958).",
+            "opening_date": "1958-03-04T05:00:00"
+          },
+          {
+            "id": 338466,
+            "title": "Van Gogh in St. Remy and Auvers",
+            "description": "<i>Van Gogh in St. Remy and Auvers</i>. The Metropolitan Museum of Art, New York, NY (organizer) (November 25, 1986-March 22, 1987).",
+            "opening_date": "1986-11-25T05:00:00"
+          },
+          {
+            "id": 310025,
+            "title": "Creativity in Art and Science, 1860-1960",
+            "description": "<i>Creativity in Art and Science, 1860-1960</i>. The Cleveland Museum of Art, Cleveland, OH (organizer) (September 16-November 8, 1987).",
+            "opening_date": "1987-09-16T04:00:00"
+          },
+          {
+            "id": 441657,
+            "title": "Vincent van Gogh 1990",
+            "description": "<i>Vincent van Gogh 1990</i>. Kröller-Müller Museum (co-organizer) (March 30-July 29, 1990); Rijksmuseum Vincent van Gogh, Amsterdam, Netherlands (organizer) (co-organizer) (March 30-July 29, 1990).",
+            "opening_date": "1990-03-30T05:00:00"
+          },
+          {
+            "id": 338459,
+            "title": "Vincent van Gogh",
+            "description": "<i>Vincent van Gogh</i>. Van Gogh Museum, 1070 AJ Amsterdam, Netherlands (March 30-July 29, 1990).",
+            "opening_date": "1990-03-30T05:00:00"
+          },
+          {
+            "id": 184132,
+            "title": "Masterworks from The Phillips Collection",
+            "description": "<i>Masterworks from The Phillips Collection</i>. The Cleveland Museum of Art, Cleveland, OH (organizer) (February 20-May 29, 2005).",
+            "opening_date": "2005-02-20T00:00:00"
+          },
+          {
+            "id": 223479,
+            "title": "Right Under the Sun: Painting in Provence from Classicism to Modernism (1750-1920)",
+            "description": "<i>Right Under the Sun: Painting in Provence from Classicism to Modernism (1750-1920)</i>. Montréal Museum of Fine Arts, Montreal, Quebec, Canada (organizer) (September 22, 2005-January 8, 2006).",
+            "opening_date": "2005-05-14T00:00:00"
+          },
+          {
+            "id": 182153,
+            "title": "Monet to Dalí: Modern Masters from the Cleveland Museum of Art",
+            "description": "<i>Monet to Dalí: Modern Masters from the Cleveland Museum of Art</i>. Beijing World Art Museum, China (May 26-August 27, 2006); Mori Art Center (September 16-November 26, 2006); Seoul Art Center, South Korea (December 22, 2006-March 28, 2007); Seoul Olympic Museum of Art, South Korea (April 7-May 20, 2007); Vancouver Art Gallery, Vancouver, Canada (June 9-September 16, 2007); The Cleveland Museum of Art, Cleveland, OH (organizer) (October 21, 2007-January 13, 2008); The Detroit Institute of Arts, Detroit, MI (October 12, 2008-January 18, 2009).",
+            "opening_date": "2006-05-27T00:00:00"
+          },
+          {
+            "id": 211379,
+            "title": "Van Gogh: Up Close",
+            "description": "<i>Van Gogh: Up Close</i>. Philadelphia Museum of Art, Philadelphia, PA (January 26-May 6, 2012); National Gallery of Canada, Ottawa, Ont.,, Canada (organizer) (May 25-September 2, 2012).",
+            "opening_date": "2012-01-26T00:00:00"
+          },
+          {
+            "id": 213656,
+            "title": "Van Gogh Repetitions",
+            "description": "<i>Van Gogh Repetitions</i>. The Phillips Collection, Washington, DC (organizer) (October 12, 2013-February 2, 2014); The Cleveland Museum of Art, Cleveland, OH (March 2-May 26, 2014).",
+            "opening_date": "2013-10-12T00:00:00"
+          },
+          {
+            "id": 448164,
+            "title": "There's Nothing Like the Real Thing: Van Gogh at the Cleveland Museum of Art",
+            "description": "<i>There's Nothing Like the Real Thing: Van Gogh at the Cleveland Museum of Art</i>. The Cleveland Museum of Art (organizer) (September 17-December 5, 2021).",
+            "opening_date": "2021-09-17T04:00:00"
+          }
+        ],
+        "legacy": [
+          {
+            "description": "<em>Société des Artistes Indépendants</em>.Pavillon de la Ville de Paris, Paris, France (1890).",
+            "opening_date": null
+          },
+          {
+            "description": "<em>Exposition Vincent van Gogh. Boulevard à St-Rémy</em>, Provence, France:1889-90. Galerie Bernheim Jeune, Paris, France (1901).",
+            "opening_date": "1901-01-01T00:00:00"
+          },
+          {
+            "description": "<em>Quelques oeuvres de Vincent van Gogh</em>. Galerie Druet, Paris, France (1908).",
+            "opening_date": "1908-01-01T00:00:00"
+          },
+          {
+            "description": "<em>Exhibition of French Painting of the Nineteenth and Twentieth Centuries</em>. Fogg Art Museum, Cambridge, MA (1929).",
+            "opening_date": "1929-01-01T00:00:00"
+          },
+          {
+            "description": "<em>Cézanne, Gauguin, Seurat, Van Gogh.</em> Museum of Modern Art, New York, NY (1929).",
+            "opening_date": "1929-01-01T00:00:00"
+          },
+          {
+            "description": "<em>Retrospective Exhibition of Landscape Painting</em>. Wadsworth Atheneum, Hartford, CT (1931).",
+            "opening_date": "1931-01-01T00:00:00"
+          },
+          {
+            "description": "<em>Exhibition of Masters of French 19th Century Painting</em>. New Burlington Galleries,London, United Kingdom (1936).",
+            "opening_date": "1936-01-01T00:00:00"
+          }
+        ]
+      },
+      "provenance": [
+        {
+          "description": "Theo van Gogh [1857-1891], Paris, France",
+          "citations": [],
+          "footnotes": null,
+          "date": "1890"
+        },
+        {
+          "description": "Julien Leclercq [1865-1901] Paris, France (see document b1533 v/1962 in the archive of the Van Gogh Museum",
+          "citations": [],
+          "footnotes": null,
+          "date": null
+        },
+        {
+          "description": "(Schuffenecker Brothers, Paris, France, sold to Gustave Fayet, Igny, France)",
+          "citations": [],
+          "footnotes": null,
+          "date": null
+        },
+        {
+          "description": "Gustave Fayet [1865-1925], Igny, France",
+          "citations": [],
+          "footnotes": [],
+          "date": null
+        },
+        {
+          "description": "Gilbert E. Fuller, Boston, MA",
+          "citations": [],
+          "footnotes": [],
+          "date": "1929-1931"
+        },
+        {
+          "description": "(Paul Rosenberg, New York, NY, July 18, 1947, sold to the Cleveland Museum of Art)",
+          "citations": [],
+          "footnotes": [],
+          "date": null
+        },
+        {
+          "description": "The Cleveland Museum of Art, Cleveland, OH",
+          "citations": [],
+          "footnotes": null,
+          "date": "1947-"
+        }
+      ],
+      "find_spot": null,
+      "related_works": [],
+      "former_accession_numbers": [],
+      "did_you_know": "Van Gogh sometimes created what he called \"repetitions,\" in which he painted the same subject and composition again. This painting has a repetition, currently in the Phillips Collection in Washington, DC. Conservation research has shown that the Cleveland painting is the first version.",
+      "description": "Like <em>Two Poplars in the Alpilles near Saint-Rémy</em> (on view nearby), Vincent van Gogh painted this autumnal landscape while living at an asylum near Saint-Rémy in southern France where he was treated for severe depression. Understanding that painting from nature eased his symptoms, Van Gogh’s physician permitted the artist to paint landscapes outside of the asylum. Van Gogh described this painting in a letter to his brother Theo: “The last study I did is a view of the village, where they were at work under some enormous plane trees—repairing the pavements. . . . There are heaps of sand, stones, and the gigantic trunks—the leaves yellowing and here and there you can get a glimpse of a house front and small figures.”",
+      "external_resources": {
+        "wikidata": [
+          "https://www.wikidata.org/wiki/Q26221185"
+        ],
+        "internet_archive": [
+          "https://archive.org/details/clevelandart-1947.209-the-large-plane-tree"
+        ]
+      },
+      "citations": [
+        {
+          "citation": "Meyer-Riefstahl, R. \"Vincent Van Gogh-II. Van Gogh's Style in Relation to Nature.\" <em>The Burlington Magazine for Connoisseurs </em>18, no. 93 (December 1910): 155-62.",
+          "page_number": "Reproduced: p. 160, pl. III",
+          "url": null
+        },
+        {
+          "citation": "<em>Volné Směry: Měsíčník Umělecky</em> nos. 1-5 (1911): 108.",
+          "page_number": "Reproduced: p. 108",
+          "url": null
+        },
+        {
+          "citation": "Coquiot, Gustave. <em>... Vincent van Gogh; avec 24 reproductions hors-texte des œuvres de Vincent van Gogh</em>. Paris, FR: Ollendorff, 1923",
+          "page_number": "Reproduced: opp. p. 216",
+          "url": null
+        },
+        {
+          "citation": "Grey, Roch. <em>Vincent Van Gogh</em>. Rome: Valori Plastici, 1924.",
+          "page_number": "Reproduced: pl. 21",
+          "url": null
+        },
+        {
+          "citation": "Fels, Florent. <em>Van Gogh</em>. Paris: Librairie Stock, 1924.",
+          "page_number": "Reproduced: pl. 9",
+          "url": null
+        },
+        {
+          "citation": "Goulinat, J. G. \"Les Collections Gustave Fayet.\" <em>L'Amour de l'Art</em> 132 (1925): 129-142.",
+          "page_number": "Reproduced: p. 132",
+          "url": null
+        },
+        {
+          "citation": "Faure, Élie. <em>Histoire de l'art</em>. Paris, FR: G. Crès, 1926.",
+          "page_number": "Reproduced: p. 447, vol. 4",
+          "url": null
+        },
+        {
+          "citation": "Leroy, Edgar. \"Le Séjour de Vincent van Gogh à l'Asile de Saint-Rémy-de-Provence.\"<em> Aesculape</em> 16, no. 7 (July 1926): 180-186.",
+          "page_number": "Reproduced: p. 181",
+          "url": null
+        },
+        {
+          "citation": "Doiteau, Victor, and Edgard Leroy. <em>La folie de Vincent van Gogh</em>. Paris, FR: Aesculape, 1928.",
+          "page_number": "Reproduced: opp. p. 80",
+          "url": null
+        },
+        {
+          "citation": "de LaFaille, J. B. <em>L'oeuvre de Vincent van Gogh, catalogue raisonné</em>. Paris, FR: et Bruxelles: Les Éditions G. van Oest, 1928.",
+          "page_number": "Mentioned: no. 657, vol. 1; Reproduced: no. 657, vol. 2",
+          "url": null
+        },
+        {
+          "citation": "Gogh, Vincent van. <em>Further Letters of Vincent Van Gogh to His Brother, 1886-1889</em>. London, UK: Constable &amp; Co, 1929.",
+          "page_number": "Mentioned: p. 418, letter 618; p.424, letter 621",
+          "url": null
+        },
+        {
+          "citation": "Wilenski, R. H. <em>French Painting</em>. Boston, MA: Hale, Cushman &amp; Flint, 1931.",
+          "page_number": "Reproduced: p. 297",
+          "url": null
+        },
+        {
+          "citation": "Art Institute of Chicago. <em>Catalogue of a Century of Progress Exhibition of Prints: The Art Institute of Chicago, June 1 to November 1, 1933.</em> [Chicago]: Art Institute of Chicago, 1933.",
+          "page_number": "Mentioned: p. 54, no. 381",
+          "url": null
+        },
+        {
+          "citation": "Uhde, Wilhelm. <em>Vincent Van Gogh</em>. Vienna, Austria: Phaidon Press, 1936.",
+          "page_number": "Reproduced: Pl. 89",
+          "url": null
+        },
+        {
+          "citation": "Scherjon,W. and W. Jos. de Gruyter. <em>Vincent Van Gogh's Great Period, Arles, St. Rémy and Auvers Sur Oise (Complete Catalogue)</em>. Amsterdam (Holland): \"De Spieghel\", Ltd, 1937.",
+          "page_number": "Reproduced: p. 272; no. 77",
+          "url": null
+        },
+        {
+          "citation": "La Faille, J. Bernard de, Charles Terrasse, Prudence Montagu-Pollock, and André Gloeckner. <em>Vincent Van Gogh</em>. New York, N.Y.: French and European Publications [etc.], 1939.",
+          "page_number": "Reproduced: no. 667",
+          "url": null
+        },
+        {
+          "citation": "Nordenfalk, Carl. \"Van Gogh and Sweden.\" <em>Konsthistorisk Tidskrift</em> 15 (December 1946): 89-96.",
+          "page_number": "Mentioned: p. 92",
+          "url": null
+        },
+        {
+          "citation": "Zervos, Christian. \"Vincent Van Gogh.\" <em>Cahiers d'Art</em> 22 (1947): 159-266.",
+          "page_number": "Reproduced: p. 254",
+          "url": null
+        },
+        {
+          "citation": "Francis, H.S. \"Les Paveurs, by Vincent van Gogh.\" <em>The Bulletin of the</em> <em>Cleveland Museum of Art XXXV</em>, no 4 (April 1948): 57-63.",
+          "page_number": "Reproduced: p. 61-62",
+          "url": null
+        },
+        {
+          "citation": "<em>The Bulletin of the Cleveland Museum of Art </em>XXXV, no. 6 (June 1948): 121",
+          "page_number": "Reproduced: cover",
+          "url": null
+        },
+        {
+          "citation": "Gogh, Vincent van. <em>Work by Vincent Van Gogh: Catalogue of a Loan Exhibition at the Cleveland Museum of Art, November 3 Through December 12 1948</em>. [Cleveland, Ohio]: Cleveland Museum of Art, 1948.",
+          "page_number": "Mentioned and Reproduced: cat. no. 25",
+          "url": null
+        },
+        {
+          "citation": "Levine, Jack. \"Homage to Vincent.\" <em>ARTnews</em> 47 (December 1948): 26-30.",
+          "page_number": "Mentioned: p. 26; reproduced: p. 28-29",
+          "url": null
+        },
+        {
+          "citation": "\"The Year's Best: 1948.\" <em>ARTnews</em> 47 (January 1949): 40-41.",
+          "page_number": "Mentioned: p. 40",
+          "url": null
+        },
+        {
+          "citation": "<em>ARTnews Annual 1949.</em> New York, N.Y.: Newsweek, Inc, 1949. P. 72-73.",
+          "page_number": "Mentioned and reproduced: p. 72-73",
+          "url": null
+        },
+        {
+          "citation": "Metropolitan Museum of Art (New York, N.Y.). <em>Van Gogh, Paintings and Drawings; A Special Loan Exhibition, the Metropolitan Museum of Art, the Art Institute of Chicago, 1949-1950</em>. New York: Metropolitan Museum. 1949-50. 1949.",
+          "page_number": "Mentioned and Reproduced: cat. no. 123",
+          "url": null
+        },
+        {
+          "citation": "Schapiro, Meyer. <em>Vincent Van Gogh</em>. New York, NY: H.N. Abrams, 1950.",
+          "page_number": "Reproduced: p. 112",
+          "url": null
+        },
+        {
+          "citation": "Leymarie, Jean. <em>Van Gogh</em>. [Paris]: P. Tisné, 1951.",
+          "page_number": "Mentioned and reproduced: p. 128, no. 123",
+          "url": null
+        },
+        {
+          "citation": "Hanson, Lawrence, and Elisabeth Hanson. <em>Passionate Pilgrim; The Life of Vincent Van Gogh.</em> New York: Random House, 1955.",
+          "page_number": "Mentioned: p. 264; reproduced: between p. 178-179",
+          "url": null
+        },
+        {
+          "citation": "Rewald, John. <em>Post-Impressionism: From Van Gogh to Gauguin</em>. New York, NY: Museum of Modern Art, 1956.",
+          "page_number": "Reproduced: p. 357",
+          "url": null
+        },
+        {
+          "citation": "Huyghe, René. <em>L'Art et l'Homme.</em> Paris: Larousse, 1957.",
+          "page_number": "Reproduced: vol. 3, p. 403",
+          "url": null
+        },
+        {
+          "citation": "The Cleveland Museum of Art. <em>The Cleveland Museum of Art Handbook.</em> Cleveland, OH: The Cleveland Museum of Art, 1958.",
+          "page_number": "Mentioned and Reproduced: cat. no. 513",
+          "url": "https://archive.org/details/CMAHandbook1958/page/n95"
+        },
+        {
+          "citation": "Cleveland Museum of Art. <em>In Memoriam: Leonard C. Hanna, Jr.</em> Cleveland: The Cleveland Museum of Art. 1958.",
+          "page_number": "Reproduced: no. 53",
+          "url": null
+        },
+        {
+          "citation": "Milliken, William Mathewson. <em>The Cleveland Museum of Art</em>. New York: H.N. Abrams, 1958.",
+          "page_number": "Mentioned and reproduced: p. 55",
+          "url": null
+        },
+        {
+          "citation": "Elgar, Frank.<em> Van Gogh, A Study of His Life and Work.</em> New York: Praeger, 1958.",
+          "page_number": "Mentioned and reproduced: no. 188",
+          "url": null
+        },
+        {
+          "citation": "Henning, Edward B. \"From Turner to Gaston.\" <em>Apollo: A Journal of the Arts </em>78 (December 1963): 481-488.",
+          "page_number": "Reproduced: p. 484; mentioned: p. 486-487",
+          "url": null
+        },
+        {
+          "citation": "The Cleveland Museum of Art. <em>Handbook of the Cleveland Museum of Art/1966</em>. Cleveland, OH: The Cleveland Museum of Art, 1966.",
+          "page_number": "Reproduced: p. 178",
+          "url": "https://archive.org/details/CMAHandbook1966/page/n202"
+        },
+        {
+          "citation": "Bourniquel, Camille. <em>Van Gogh</em>. Paris, FR] Hachette, 1968.",
+          "page_number": "Reproduced: p. 211",
+          "url": null
+        },
+        {
+          "citation": "The Cleveland Museum of Art. <em>Handbook of the Cleveland Museum of Art/1969</em>. Cleveland, OH: The Cleveland Museum of Art, 1969.",
+          "page_number": "Reproduced: p. 178",
+          "url": "https://archive.org/details/CMAHandbook1969/page/n202"
+        },
+        {
+          "citation": "Gaunt, William. <em>The Impressionists.</em> London, UK: Thames &amp; Hudson, 1970.",
+          "page_number": "Reproduced: p. 142",
+          "url": null
+        },
+        {
+          "citation": "Nakayama, Kimio. <em>Gogh</em>. Tokyo, Japan: [Shueisha], 1970.",
+          "page_number": "Reproduced: p. 132; no. 56; vol. 8",
+          "url": null
+        },
+        {
+          "citation": "De la Faille, J.-B. <em>The Works of Vincent Van Gogh; His Paintings and Drawings.</em> Amsterdam: Meulenhoff International, 1970.",
+          "page_number": "Reproduced: no. 657",
+          "url": null
+        },
+        {
+          "citation": "Lecaldano, Paolo. <em>L'opera pittorica completa di Van Gogh e i suoi nessi grafici.</em> Milan, IT: Rizzoli,1971.",
+          "page_number": "Reproduced: no. 754; vol. 2",
+          "url": null
+        },
+        {
+          "citation": "Lubin, Albert J. <em>Stranger on the Earth; A Psychological Biography of Vincent Van Gogh.</em> New York, NY: Holt, Rinehart Winston, 1972.",
+          "page_number": "Reproduced: p. 93; pl. 23",
+          "url": null
+        },
+        {
+          "citation": "Gatto, Joseph A. <em>Cities</em>. Worcester, MA: Davis Publications, 1977.",
+          "page_number": "Reproduced: p. 78",
+          "url": null
+        },
+        {
+          "citation": "Gogh, Vincent van, Jean Leymarie, and V. W. van Gogh.<em> Letters of Vincent van Gogh, 1886-1890: A Facsimile Edition.</em> London: Scolar Press, 1977.",
+          "page_number": "Mentioned: v. 2, no. 618, p. 1/4; mentioned: v. 2, no. 621, p. 2/4",
+          "url": null
+        },
+        {
+          "citation": "Hulsker, Jan. <em>The Complete Van Gogh: Paintings, Drawings, Sketches.</em> New York, NY: H.N. Abrams, 1980.",
+          "page_number": "Reproduced: p. 426; no. 428",
+          "url": null
+        },
+        {
+          "citation": "Canaday, John. <em>Mainstreams of Modern Art.</em> New York, NY: Holt, Rinehart and Winston, 1981.",
+          "page_number": "Reproduced: p. 357; fog. 418",
+          "url": null
+        },
+        {
+          "citation": "Schapiro, Meyer. <em>Vincent Van Gogh</em>. Norwalk, CT: Easton Press, 1983.",
+          "page_number": "Reproduced: p. 110",
+          "url": null
+        },
+        {
+          "citation": "Barrielle, Jean-François. <em>La vie et l'œuvre de Vincent van Gogh.</em> Paris, FR: ACR, 1984.",
+          "page_number": null,
+          "url": null
+        },
+        {
+          "citation": "Pickvance, Ronald. <em>Van Gogh in Saint-Rémy and Auvers</em>. New York: Metropolitan Museum of Art, 1986.",
+          "page_number": "Mentioned: cat. no. 44, p. 304, 307",
+          "url": null
+        },
+        {
+          "citation": "Henning, Edward B. <em>Creativity in Art and Science</em>, 1860-1960. [Cleveland, Ohio]: Published by the Cleveland Museum of Art in cooperation with Indiana University Press, 1987.",
+          "page_number": "Mentioned and Reproduced: p.106",
+          "url": null
+        },
+        {
+          "citation": "Robinson, William. “George Hendrik Breitner and the Emergence of Dutch Modernism.” <em>The Bulletin of the Cleveland Museum of Art</em> 81, no. 2 (1994): 27-43.",
+          "page_number": "Mentioned and Reproduced: p. 32",
+          "url": "https://www.jstor.org/stable/25161441"
+        },
+        {
+          "citation": "Argencourt, Louise d', and Roger Diederen. <em>Catalogue of Paintings</em>. <em>Pt. 4. European Paintings of the 19th Century</em>. Cleveland: Cleveland Museum of Art, 1974.",
+          "page_number": "Mentioned and reproduced: P. 306-309, Vol. I, no. 109",
+          "url": ""
+        },
+        {
+          "citation": "Grossvogel, Jill. <em>Claude-Emile Schuffenecker: Catalogue Raisonné.</em> San Francisco: Alan Wofsy Fine Arts, 2000.",
+          "page_number": "Mention: p. 45",
+          "url": null
+        },
+        {
+          "citation": "May, Sally Ruth. <em>Knockouts: a pocket guide.</em> Cleveland: Cleveland Museum of Art, 2001.",
+          "page_number": "Reproduced: no. 51, p. 51",
+          "url": ""
+        },
+        {
+          "citation": "Hughes, Robert. <em>The Portable Van Gogh</em>. New York, NY: Universe, 2002.",
+          "page_number": "Reproduced: p. 344",
+          "url": null
+        },
+        {
+          "citation": "Schapiro, Meyer. <em>Vincent Van Gogh.</em> New York, NY: Harry N. Abrams, Publishers, 2003.",
+          "page_number": "Mentioned: p. 110-111",
+          "url": null
+        },
+        {
+          "citation": "Stokstad, Marilyn, David Cateforis, and Stephen Addiss. <em>Art History</em>. Upper Saddle River, NJ: Pearson/Prentice Hall, 2005.",
+          "page_number": "Reproduced: fig 28",
+          "url": null
+        },
+        {
+          "citation": "Cogeval, Guy, and Marie-Paule Vial. <em>Right under the sun: landscape in Provence from classicism to modernism (1750-1920).</em> Montréal: Montreal Museum of Fine Arts, 2005.",
+          "page_number": "Reproduced: p. 143; no. 186",
+          "url": null
+        },
+        {
+          "citation": "Corty, Axelle. “La Face Cachée Du Soleil.” <em>Connaissance Des Arts</em>, no. 627 (May 2005): 42–55.",
+          "page_number": "Mentioned and reproduced: p. 46-47",
+          "url": null
+        },
+        {
+          "citation": "Burgess, Margaret B., \"Side by Side\", Cleveland Museum of Art. <em>Cleveland Art: The Cleveland Museum of Art Members Magazine</em>. Vol. 45 no. 05, May/June 2005",
+          "page_number": "Mentioned & reproduced: p. 6-7",
+          "url": "https://archive.org/details/CMAMM2005-05/page/6"
+        },
+        {
+          "citation": "\"L'Oeil sur les Expositions.\" <em>Oeil</em> (June 2005): 16-37.",
+          "page_number": "Reproduced: p. 34",
+          "url": null
+        },
+        {
+          "citation": "Bailey, Martin. \"Vincent van Cloth.\" The Art Newspaper XVI, no. 183 (September 2007): 3.",
+          "page_number": "Mentioned: p. 3",
+          "url": null
+        },
+        {
+          "citation": "Ligon, Scott. <em>Digital Art Revolution: Creating Fine Art with Photoshop.</em> New York, NY: Watson-Guptill, 2010.",
+          "page_number": "Mentioned: p. 31",
+          "url": null
+        },
+        {
+          "citation": "Franklin, David and C. Griffith Mann. <em>Treasures from the Cleveland Museum of Art.</em> Cleveland, OH: Cleveland Museum of Art, 2012.",
+          "page_number": "Reproduced: p. 272-273",
+          "url": null
+        },
+        {
+          "citation": "Hubert, Jean-Christophe. <em>Sur les traces de Van Gogh.</em> Waterloo, Belgium: Avant-Propos, 2012.",
+          "page_number": "Reproduced: p. 118; fig. 478",
+          "url": null
+        },
+        {
+          "citation": "Robinson, William H., Eliza Rathbone, Marcia Steele, and H. Travers Newton. \"The Road Menders.\" In <em>Van Gogh Repetitions</em>, 140-153. New Haven, CT: Yale University Press, 2013.",
+          "page_number": "Reproduced: p. 140, 142, cat. no. 26",
+          "url": null
+        },
+        {
+          "citation": "Rathbone, Eliza E., William H. Robinson, and Marcia Steele. <em>Van Gogh Repetitions</em>. New Haven, CT: Yale University Press, 2013.",
+          "page_number": "Reproduced: 0. 142; Mentioned: p. 140-153",
+          "url": null
+        },
+        {
+          "citation": "Cleveland Museum of Art. <em>The CMA Companion: A Guide to the Cleveland Museum of Art</em>. Cleveland: Cleveland Museum of Art, 2014.",
+          "page_number": "Mentioned and reproduced: P. 292",
+          "url": ""
+        },
+        {
+          "citation": "Fensom, Sarah E. \"Hitting Repeat\" <em>Art &amp; Antiques</em> 37, issue 3 (March 2014): 54-56.",
+          "page_number": "Reproduced: p. 55",
+          "url": null
+        },
+        {
+          "citation": "Homburg, Cornelia. \"What Van Gogh Did Next.\" <em>The Art Newspaper</em> 23, no. 257 (May 2014): 67, 76.",
+          "page_number": "Reproduced: p. 76",
+          "url": null
+        },
+        {
+          "citation": "Blanc, Jan. <em>Van Gogh: ni Dieu ni maître.</em> Paris: Citadelles &amp; Mazenod, 2017.",
+          "page_number": "Reproduced: p. 304-305",
+          "url": null
+        },
+        {
+          "citation": "Bailey, Martin. <em>Starry Night: Van Gogh at the Asylum</em>. London, England: White Lion Publishing, 2018.",
+          "page_number": "Mentioned and Reproduced: p. 95-96",
+          "url": null
+        },
+        {
+          "citation": "Uitert, Evert van, Vincent van Gogh, Louis van Tilborgh, and Sjraar van Heugten. <em>Vincent van Gogh</em>. Milan: Arnoldo Mondadori Arte, 1990.",
+          "page_number": "Mentioned and Reproduced: cat. no. 109, p. 31",
+          "url": null
+        },
+        {
+          "citation": "<em>Paintings in the Cleveland Museum of Art: Picture Book No. 4 .</em> [Cleveland]: The Cleveland Museum of Art, 1952.",
+          "page_number": "Reproduced: p. 40",
+          "url": "https://archive.org/details/CMAPaintings1952"
+        }
+      ],
+      "url": "https://clevelandart.org/art/1947.209",
+      "images": {
+        "annotation": null,
+        "web": {
+          "url": "https://openaccess-cdn.clevelandart.org/1947.209/1947.209_web.jpg",
+          "width": "900",
+          "height": "718",
+          "filesize": "341961",
+          "filename": "1947.209_web.jpg"
+        },
+        "print": {
+          "url": "https://openaccess-cdn.clevelandart.org/1947.209/1947.209_print.jpg",
+          "width": "3400",
+          "height": "2713",
+          "filesize": "4467246",
+          "filename": "1947.209_print.jpg"
+        },
+        "full": {
+          "url": "https://openaccess-cdn.clevelandart.org/1947.209/1947.209_full.tif",
+          "width": "14395",
+          "height": "11486",
+          "filesize": "496057452",
+          "filename": "1947.209_full.tif"
+        }
+      },
+      "alternate_images": [
+        {
+          "date_created": "2006-04-12T16:28:35",
+          "annotation": "",
+          "web": {
+            "url": "https://openaccess-cdn.clevelandart.org/alternate/1947.209/1947.209_alt0_web.jpg",
+            "width": "1123",
+            "height": "893",
+            "filesize": "384230"
+          },
+          "print": {
+            "url": "https://openaccess-cdn.clevelandart.org/alternate/1947.209/1947.209_alt0_print.jpg",
+            "width": "3400",
+            "height": "2703",
+            "filesize": "3592134"
+          },
+          "full": {
+            "url": "https://openaccess-cdn.clevelandart.org/alternate/1947.209/1947.209_alt0_full.tif",
+            "width": "8427",
+            "height": "6701",
+            "filesize": "169441568"
+          }
+        },
+        {
+          "date_created": "2006-04-12T16:28:35",
+          "annotation": "",
+          "web": {
+            "url": "https://openaccess-cdn.clevelandart.org/alternate/1947.209/1947.209_alt1_web.jpg",
+            "width": "1116",
+            "height": "893",
+            "filesize": "379383"
+          },
+          "print": {
+            "url": "https://openaccess-cdn.clevelandart.org/alternate/1947.209/1947.209_alt1_print.jpg",
+            "width": "3400",
+            "height": "2720",
+            "filesize": "3587917"
+          },
+          "full": {
+            "url": "https://openaccess-cdn.clevelandart.org/alternate/1947.209/1947.209_alt1_full.tif",
+            "width": "8481",
+            "height": "6787",
+            "filesize": "172715220"
+          }
+        },
+        {
+          "date_created": "2017-08-03T13:49:24",
+          "annotation": "",
+          "web": {
+            "url": "https://openaccess-cdn.clevelandart.org/alternate/1947.209/1947.209_alt2_web.jpg",
+            "width": "675",
+            "height": "900",
+            "filesize": "460726"
+          },
+          "print": {
+            "url": "https://openaccess-cdn.clevelandart.org/alternate/1947.209/1947.209_alt2_print.jpg",
+            "width": "2550",
+            "height": "3400",
+            "filesize": "6466828"
+          },
+          "full": {
+            "url": "https://openaccess-cdn.clevelandart.org/alternate/1947.209/1947.209_alt2_full.tif",
+            "width": "12000",
+            "height": "16000",
+            "filesize": "576034188"
+          }
+        },
+        {
+          "date_created": "2017-08-03T14:00:04",
+          "annotation": "",
+          "web": {
+            "url": "https://openaccess-cdn.clevelandart.org/alternate/1947.209/1947.209_alt3_web.jpg",
+            "width": "675",
+            "height": "900",
+            "filesize": "464857"
+          },
+          "print": {
+            "url": "https://openaccess-cdn.clevelandart.org/alternate/1947.209/1947.209_alt3_print.jpg",
+            "width": "2550",
+            "height": "3400",
+            "filesize": "6637123"
+          },
+          "full": {
+            "url": "https://openaccess-cdn.clevelandart.org/alternate/1947.209/1947.209_alt3_full.tif",
+            "width": "12000",
+            "height": "16000",
+            "filesize": "576034368"
+          }
+        },
+        {
+          "date_created": "2009-01-29T14:30:00",
+          "annotation": "",
+          "web": {
+            "url": "https://openaccess-cdn.clevelandart.org/alternate/1947.209/1947.209_alt4_web.jpg",
+            "width": "1093",
+            "height": "893",
+            "filesize": "280996"
+          },
+          "print": {
+            "url": "https://openaccess-cdn.clevelandart.org/alternate/1947.209/1947.209_alt4_print.jpg",
+            "width": "3400",
+            "height": "2777",
+            "filesize": "2387451"
+          },
+          "full": {
+            "url": "https://openaccess-cdn.clevelandart.org/alternate/1947.209/1947.209_alt4_full.tif",
+            "width": "5674",
+            "height": "4635",
+            "filesize": "78917884"
+          }
+        }
+      ],
+      "creditline": "Gift of the Hanna Fund",
+      "sketchfab_id": null,
+      "sketchfab_url": null,
+      "gallery_donor_text": "Nancy F. and Joseph P. Keithley Gallery",
+      "athena_id": 125249,
+      "creators": [
+        {
+          "id": 1779,
+          "description": "Vincent van Gogh (Dutch, 1853–1890)",
+          "extent": null,
+          "qualifier": null,
+          "role": "artist",
+          "biography": "The son of a clergyman, Vincent van Gogh was sent to The Hague at the age of sixteen to become an apprentice at Goupil &amp; Co., an art dealer with whom his uncle was affiliated. In August 1872 van Gogh began his extensive correspondence with his younger brother Theo, who would join the Brussels branch of the firm the following year. Vincent was transferred to the London offices in 1873 and two years later to the Paris office, but he despised the art trade and was dismissed in 1876. He then taught briefly at a boarding school in Ramsgate and Isleworth, and, back in the Netherlands, worked in a bookshop in Dordrecht before moving to Amsterdam to study theology. In little more than a year he had left the university and entered missionary school, failing again. Still intent on entering the ministry, he moved to the Borinage in Belgium and became a lay evangelist to the miners. Van Gogh finally decided to become an artist in August 1880 and started copying works by Millet (q.v.), the painter of peasant life. With his brother's financial help, he briefly joined the Academy in Brussels. The following year he returned to The Hague, where he received some artistic training from his cousin by marriage, Anton Mauve (1838-1888). There van Gogh met Sien Hoornik, a pregnant prostitute with a five-year-old daughter, with whom he lived briefly. Unable to marry her because of his family's disapproval, he moved in November 1883 from The Hague to the province of Drenthe, a popular place for artists, where he painted and drew laborers and peasants. Feeling terribly lonely, he visited his parents in December 1884 in Nuenen, and it was there that he finally decided to become a painter of peasant life. Van Gogh completed The Potato Eaters (Van Gogh Museum, Amsterdam) in April 1885 and sent it to his brother in Paris. On 25 November he moved to Antwerp, where he reveled in the work of Rubens and first came to know Japanese prints. Van Gogh traveled to Paris in March 1886 and lived with Theo. Under the influence of the impressionists, and works by Monticelli (q.v.), his palette changed to more intense and vibrant colors. He began to associate with Émile Bernard (1868-1941), Henri de Toulouse-Lautrec (1864-1901), Degas (q.v.), Gauguin (q.v.), Pissarro (q.v.), and Seurat (q.v.) and started collecting some of their paintings as well as Japanese prints. He moved to Arles in February 1888. Apart from paintings, he also made some drawings because it was a cheaper medium. Theo encouraged him to submit to the Salon des Indépendants. In May Vincent rented a room in the Yellow House, even though he could hardly afford to do so, and continued to send his work to his brother. In June he became intrigued with the subject of the wheat harvest and painted The Sower (Kröller-Müller Museum, Otterlo). On 23 October 1888, Gauguin arrived in Arles, at a time when van Gogh was having trouble with his eyesight. Gauguin encouraged him to paint from memory, which resulted in Memory of the Garden in Etten (Hermitage, St. Petersburg). The artists, however, had many disagreements, and during a dramatic quarrel on 23 December van Gogh mutilated his ear. He was taken into a hospital in Arles, and Gauguin left for Paris. Van Gogh recovered rapidly and was dismissed on 7 January 1889. In February his neighbors objected to his presence in the Yellow House, and he had to return to the hospital. In April Theo married Johanna Gesina Bonger, who would eventually safeguard most of Vincent's oeuvre. Aware of his mental problems, at the end of April van Gogh checked himself into the asylum of Saint-Paul-de-Mausole in Saint-Rémy, where he was treated by Dr. Peyron. His condition was stable, and he was allowed to work in a makeshift studio. He worked in the garden (Irises, J. Paul Getty Museum, Los Angeles) and painted the fields he could see from his window. Under supervision he painted in the countryside, rendering cypresses and olive trees. Starry Night (Museum of Modern Art, New York) also stems from this period. From July through September he suffered from a severe depression that prevented him from working. He resumed his work from October through December, painting well-known Provençal works and adapting prints after Delacroix (q.v.), Millet, and Rembrandt (1606-1669). In January 1890 he exhibited five works with Les XX in Brussels, selling one of them. After a visit to Arles at the end of February, he became ill again but continued to work. He finally left the asylum, and visited Theo in Paris on his way to Auvers, where he arrived on 20 May. He became close friends with Dr. Gachet and rented a room at the inn of the Ravoux family. He painted the village, portraits, and the surrounding wheat fields. On 27 July 1890, during an episode of depression, van Gogh shot himself in the chest and died two days later.",
+          "name_in_original_language": null,
+          "birth_year": "1853",
+          "death_year": "1890"
+        }
+      ],
+      "legal_status": "accessioned",
+      "accession_date": "1947-07-18T00:00:00",
+      "sortable_date": 1889,
+      "date_text": "1889",
+      "collapse_artists": false,
+      "on_loan": false,
+      "recently_acquired": false,
+      "record_type": "object",
+      "conservation_statement": null,
+      "is_nazi_era_provenance": false,
+      "impression": null,
+      "alternate_titles": [
+        "Les Paveurs (The Road Menders, Boulevard de St.-Rémy, Arles)",
+        "Road Menders",
+        "The Road Menders at Arles",
+        "The Road Menders at St. Remy"
+      ],
+      "is_highlight": true,
+      "updated_at": "2024-05-11 11:02:51.283000"
+    },
+    {
+      "id": "d244",
+      "title": "New Art",
+      "creation_date": "2024",
+      "url": "https://documenta-fifteen.de/wp-content/uploads/2021/03/04_Project-Art-Works_Siddhart-Gadiyar_2019_Photo-Hugh-Fox.jpg",
+      "images": {
+        "web": {
+          "url": "https://documenta-fifteen.de/wp-content/uploads/2021/03/04_Project-Art-Works_Siddhart-Gadiyar_2019_Photo-Hugh-Fox.jpg"
+        }
+      }
+    },
+    {
+      "id": 135299,
+      "accession_number": "1958.31",
+      "share_license_status": "CC0",
+      "tombstone": "Adeline Ravoux, 1890. Vincent van Gogh (Dutch, 1853–1890). Oil on fabric; framed: 72.5 x 73.5 x 8.5 cm (28 9/16 x 28 15/16 x 3 3/8 in.); unframed: 50.2 x 50.5 cm (19 3/4 x 19 7/8 in.). The Cleveland Museum of Art, Bequest of Leonard C. Hanna, Jr. 1958.31",
+      "current_location": "222 Impressionism & Post-Impressionism",
+      "title": "Adeline Ravoux",
+      "creation_date": "1890",
+      "creation_date_earliest": 1890,
+      "creation_date_latest": 1890,
+      "artists_tags": [
+        "male"
+      ],
+      "culture": [
+        "Netherlands"
+      ],
+      "technique": "oil on fabric",
+      "support_materials": [],
+      "department": "Modern European Painting and Sculpture",
+      "collection": "Mod Euro - Painting 1800-1960",
+      "type": "Painting",
+      "measurements": "Framed: 72.5 x 73.5 x 8.5 cm (28 9/16 x 28 15/16 x 3 3/8 in.); Unframed: 50.2 x 50.5 cm (19 3/4 x 19 7/8 in.)",
+      "dimensions": {
+        "framed": {
+          "height": 0.725,
+          "width": 0.735,
+          "depth": 0.085
+        },
+        "unframed": {
+          "height": 0.502,
+          "width": 0.505
+        }
+      },
+      "state_of_the_work": null,
+      "edition_of_the_work": null,
+      "copyright": null,
+      "inscriptions": [],
+      "exhibitions": {
+        "current": [
+          {
+            "id": 519763,
+            "title": "The Armory Show, 50th Anniversary Exhibition",
+            "description": "<i>The Armory Show, 50th Anniversary Exhibition</i>. Munson-Williams-Proctor Institute, Utica, NY (organizer) (February 17-April 28, 1963).",
+            "opening_date": "1963-02-17T05:00:00"
+          },
+          {
+            "id": 300779,
+            "title": "Juxtapositions",
+            "description": "<i>Juxtapositions</i>. The Cleveland Museum of Art, Cleveland, OH (September 11-October 10, 1965).",
+            "opening_date": "1965-09-11T04:00:00"
+          },
+          {
+            "id": 343566,
+            "title": "In Quest of Excellence: Civic Pride, Patronage, Connoisseurship",
+            "description": "<i>In Quest of Excellence: Civic Pride, Patronage, Connoisseurship</i>. Pérez Art Museum Miami (organizer) (January 12-April 22, 1984).",
+            "opening_date": "1984-01-12T05:00:00"
+          },
+          {
+            "id": 442139,
+            "title": "ゴッホ (Van Gogh)",
+            "description": "<i>ゴッホ (Van Gogh)</i>. National Museum of Western Art, Tokyo, Tokyo, Japan (organizer) (October 12-December 8, 1985); Nagoya City Art Museum, Nagoya, Japan (December 21, 1985-February 2, 1986).",
+            "opening_date": "1985-10-12T04:00:00"
+          },
+          {
+            "id": 310025,
+            "title": "Creativity in Art and Science, 1860-1960",
+            "description": "<i>Creativity in Art and Science, 1860-1960</i>. The Cleveland Museum of Art, Cleveland, OH (organizer) (September 16-November 8, 1987).",
+            "opening_date": "1987-09-16T04:00:00"
+          },
+          {
+            "id": 174820,
+            "title": "Van Gogh Face to Face: The Portraits",
+            "description": "<i>Van Gogh Face to Face: The Portraits</i>. The Detroit Institute of Arts, Detroit, MI (organizer) (March 12-June 4, 2000); Museum of Fine Arts, Boston, Boston, MA (July 2-September 24, 2000); Philadelphia Museum of Art, Philadelphia, PA (October 22, 2000-January 14, 2001).",
+            "opening_date": "2000-03-12T00:00:00"
+          },
+          {
+            "id": 205456,
+            "title": "The Société Anonyme: Modernism for America",
+            "description": "<i>The Société Anonyme: Modernism for America</i>. UCLA at Armand Hammer Museum of Art and Cultural Center (April 23-August 20, 2006).",
+            "opening_date": "2006-04-23T04:00:00"
+          },
+          {
+            "id": 182153,
+            "title": "Monet to Dalí: Modern Masters from the Cleveland Museum of Art",
+            "description": "<i>Monet to Dalí: Modern Masters from the Cleveland Museum of Art</i>. Seoul Art Center, South Korea (December 22, 2006-March 28, 2007); Seoul Olympic Museum of Art, South Korea (April 7-May 20, 2007); Vancouver Art Gallery, Vancouver, Canada (June 9-September 16, 2007); The Cleveland Museum of Art, Cleveland, OH (organizer) (October 21, 2007-January 13, 2008); Frist Art Museum, Nashville, TN (February 15-June 1, 2008); Utah Museum of Fine Arts, Salt Lake City, UT (June 22-September 21, 2008); The Detroit Institute of Arts, Detroit, MI (October 12, 2008-January 18, 2009).",
+            "opening_date": "2006-05-27T00:00:00"
+          },
+          {
+            "id": 213656,
+            "title": "Van Gogh Repetitions",
+            "description": "<i>Van Gogh Repetitions</i>. The Cleveland Museum of Art, Cleveland, OH (March 2-May 26, 2014).",
+            "opening_date": "2013-10-12T00:00:00"
+          },
+          {
+            "id": 379202,
+            "title": "Through Vincent's Eyes: Van Gogh and His Sources",
+            "description": "<i>Through Vincent's Eyes: Van Gogh and His Sources</i>. Columbus Museum of Art, Columbus, OH (organizer) (November 12, 2021-February 6, 2022) https://www.columbusmuseum.org/through-vincents-eyes-van-gogh-and-his-sources/.",
+            "opening_date": "2021-11-12T05:00:00"
+          },
+          {
+            "id": 308774,
+            "title": "Van Gogh in America",
+            "description": "<i>Van Gogh in America</i>. The Detroit Institute of Arts, Detroit, MI (organizer) (October 2, 2022-January 22, 2023).",
+            "opening_date": "2022-10-02T04:00:00"
+          },
+          {
+            "id": 440610,
+            "title": "Van Gogh in Auver-sur-Oise: His Final Months",
+            "description": "<i>Van Gogh in Auver-sur-Oise: His Final Months</i>. Van Gogh Museum, 1070 AJ Amsterdam, Netherlands (organizer) (May 12-September 3, 2023) https://www.vangoghmuseum.nl/nl/bezoek/tentoonstellingen/van-gogh-in-auvers-sur-oise; Musée d'Orsay, Paris, France (October 3, 2023-February 4, 2024).",
+            "opening_date": "2023-05-12T04:00:00"
+          }
+        ],
+        "legacy": [
+          {
+            "description": "<em>International Exhibition of Modern Art</em> (Armory Show) New York. Armory of the 69th Regiment, New York, NY; Art Institute of Chicago, Chicago, IL; Copley Hall, Georgetown, MA; Copley Society, Boston, MA (1913).",
+            "opening_date": "1913-01-01T00:00:00"
+          },
+          {
+            "description": "<em>Opening Exhibition</em>. Galleries of the Société Anonyme, New York, NY (1920).",
+            "opening_date": "1920-01-01T00:00:00"
+          },
+          {
+            "description": "<em>An Exhibition of Modern French Art.</em> Baltimore Museum of Art, Baltimore, MD (1925).",
+            "opening_date": "1925-01-01T00:00:00"
+          },
+          {
+            "description": "<em>First Loan Exhibition: Cézanne, Gauguin, Seurat, Van Gogh</em>. Museum of Modern Art, New York, NY (1929).",
+            "opening_date": "1929-01-01T00:00:00"
+          },
+          {
+            "description": "<em>Opening Exhibition</em>. Museum of Fine Arts, Springfield, MA (1933).",
+            "opening_date": "1933-01-01T00:00:00"
+          },
+          {
+            "description": "<em>Paintings, Watercolors &amp; Drawings by Vincent van Gogh.</em> Museum of Modern Art, New York, NY; Philadelphia Museum of Art, Philadelphia, PA; Museum of Fine Arts, Boston, MA; Cleveland Museum of Art, Cleveland, OH; San Francisco Museum of Fine Arts, San Francisco, CA; Nelson Atkins Museum of Art, Kansas City, MO; Minneapolis Museum of Art, Minneapolis, MN; Art Institute of Chicago, Chicago, IL; Detroit Institute of Art, Detroit, MI; Art Gallery of Ontario, Toronto, Ontario (1935-36).The Hanna Collection of Modern Masterpieces. J.B. Speed Memorial Museum, Louisville, KY (1944).",
+            "opening_date": "1944-01-01T00:00:00"
+          },
+          {
+            "description": "<em>The Hanna Collection of Modern Masterpieces.</em> J.B. Speed Memorial Museum, Louisville, KY (1944).",
+            "opening_date": "1944-01-01T00:00:00"
+          },
+          {
+            "description": "<em>Pictures for Peace: A Retrospective Exhibition Organized from the Armory Show of 1913.</em> Cincinnati Art Museum, Cincinnati, OH (1944).",
+            "opening_date": "1944-01-01T00:00:00"
+          },
+          {
+            "description": "<em>Works by Vincent van Gogh.</em> The Cleveland Museum of Art, Cleveland, OH (1948).",
+            "opening_date": "1948-01-01T00:00:00"
+          },
+          {
+            "description": "<em>Summer Loan.</em>Metropolitan Museum of Art, New York, NY (June-September 1949).",
+            "opening_date": "1949-06-01T00:00:00"
+          }
+        ]
+      },
+      "provenance": [
+        {
+          "description": "Johanna Van Gogh-Bonger [1862-1925], the wife of Theo van Gogh, Amsterdam, Netherlands.",
+          "citations": [],
+          "footnotes": [],
+          "date": null
+        },
+        {
+          "description": "(Artz and de Bois, The Hague, Netherlands)",
+          "citations": [],
+          "footnotes": null,
+          "date": "1912"
+        },
+        {
+          "description": "Katherine S. Dreier [1877-1952], New York, NY",
+          "citations": [],
+          "footnotes": [],
+          "date": "1912-1929"
+        },
+        {
+          "description": "Mrs. Cornelius Sullivan [1877-1939], New York, NY",
+          "citations": [],
+          "footnotes": [],
+          "date": "-1939"
+        },
+        {
+          "description": "(Parke-Bernet Galleries, New York, NY, December 6-7, 1939, sold to Leonard C. Hanna Jr.)",
+          "citations": [],
+          "footnotes": [],
+          "date": "1939"
+        },
+        {
+          "description": "Leonard C. Hanna Jr. [1889-1957], Cleveland, OH, bequeathed to the Cleveland Museum of Art",
+          "citations": [],
+          "footnotes": [],
+          "date": "1939-1958"
+        },
+        {
+          "description": "The Cleveland Museum of Art, Cleveland, OH",
+          "citations": [],
+          "footnotes": [],
+          "date": "1958-"
+        }
+      ],
+      "find_spot": null,
+      "related_works": [],
+      "former_accession_numbers": [
+        "1642.43"
+      ],
+      "did_you_know": "Adeline Ravoux, at age 13, was not pleased with her portrait and did not think the image resembled her. Today, a photograph exists of Adeline in her late seventies and the resemblance is truly remarkable.",
+      "description": "In May 1890, Vincent van Gogh left the asylum near Saint-Rémy and settled in Auvers-sur-Oise, a small town north of Paris, where he rented a room at the inn of Arthur Ravoux. This portrait, completed during the last months of the artist’s life, depicts Ravoux’s 13-year-old daughter, Adeline. In portraits like this, Van Gogh sought not photographic resemblance, but an expression of the sitter’s innermost character, made visible by the intensity of the artist’s palette and the vigor of his brushstrokes.",
+      "external_resources": {
+        "wikidata": [
+          "https://www.wikidata.org/wiki/Q26221230"
+        ],
+        "internet_archive": [
+          "https://archive.org/details/clevelandart-1958.31-adeline-ravoux"
+        ]
+      },
+      "citations": [
+        {
+          "citation": null,
+          "page_number": null,
+          "url": null
+        },
+        {
+          "citation": "Louis Anfray, “Les souvenirs d’Adeline Ravoux sur le séjour de Vincent van Gogh à Auvers-sur-Oise,” <em>Les Cahiers de Van Gogh</em> no. 1 (Geneva: Pierre Cailler, 1956): p. 9.",
+          "page_number": "Mentioned: p. 9",
+          "url": null
+        },
+        {
+          "citation": "<em>Société Anonyme. Report 1920-1921.</em> [New York]: The Society, 1921.",
+          "page_number": "Reproduced: p. 6",
+          "url": null
+        },
+        {
+          "citation": "Dreier, Katherine S. <em>Western Art and the New Era; An Introduction to Modern Art.</em> New York: Brentano's, 1923.",
+          "page_number": "Mentioned and reproduced: p. 63-64, fig. 35",
+          "url": null
+        },
+        {
+          "citation": "de LaFaille, J. B. <em>L'oeuvre de Vincent van Gogh, </em>catalogue raisonné. Paris, FR et Bruxelles, BE: Les Éditions G. van Oest, 1928.",
+          "page_number": "Reproduced: no. 786, vol. 2",
+          "url": null
+        },
+        {
+          "citation": "Gogh, Vincent van. <em>Further Letters of Vincent Van Gogh to His Brother, 1886-1889.</em> London: Constable &amp; Co, 1929.",
+          "page_number": "Mentioned: p. 472, no. 644",
+          "url": null
+        },
+        {
+          "citation": "Scherjon, W., and W. Jos. de Gruyter. <em>Vincent Van Gogh's Great Period, Arles, St. Rémy and Auvers Sur Oise</em> <em>(Complete Catalogue)</em>. Amsterdam NL: \"De Spieghel\", Ltd, 1937.",
+          "page_number": "Reproduced: p. 375, no. 222",
+          "url": null
+        },
+        {
+          "citation": "La Faille, J. Bernard de , Charles Terrasse, Prudence Montagu-Pollock, and André Gloeckner. <em>Vincent Van Gogh</em>. New York, N.Y.: French and European Publications [etc.], 1939",
+          "page_number": "Reproduced: p. 776",
+          "url": null
+        },
+        {
+          "citation": "Venturi, Lionello. \"Notes on the Collection of Mrs. Cornelius J. Sullivan.\" <em>Parnassus</em> 11, no. 8 (1939): 32-33.",
+          "page_number": "Mentioned:p. 33",
+          "url": "https://www.jstor.org/stable/772018"
+        },
+        {
+          "citation": "\"The Sullivan Collection.\" <em>Magazine of Art </em>32, no. 12 (December 1939): 710-711.",
+          "page_number": "Mentioned: p. 711",
+          "url": null
+        },
+        {
+          "citation": "Leymarie, Jean. <em>Van Gogh.</em> [Paris]: Éditions P. Tisné, 1951.",
+          "page_number": "Mentioned and reproduced: no. 156",
+          "url": null
+        },
+        {
+          "citation": "Coe, Nancy. T<em>he History of the Collecting of European Paintings and Drawings in the City of Cleveland.</em> Thesis M.A. Oberlin College, 1955.",
+          "page_number": "Reproduced: vol. 2, p. 11",
+          "url": null
+        },
+        {
+          "citation": "Saarinen, Aline B. <em>The Proud Possessors: The Lives, Times, and Tastes of Some Adventurous American Art Collectors.</em> New York, NY: Random House, 1958.",
+          "page_number": "Reproduced: p. 241",
+          "url": null
+        },
+        {
+          "citation": "Elgar, Frank. <em>Van Gogh, A Study of His Life and Work</em>. New York: Praeger, 1958.",
+          "page_number": "Reproduced: fig. 210",
+          "url": null
+        },
+        {
+          "citation": "Cleveland Museum of Art. <em>In Memoriam: Leonard C. Hanna, Jr.</em> Cleveland: The Museum, 1958.",
+          "page_number": "Reproduced: no. 16",
+          "url": null
+        },
+        {
+          "citation": "Frankfurter, Alfred M. “Cleveland: Model Museum for a Modern Cosmopolis.” <em>ARTnews</em> 57 (March 1958): 24–37.",
+          "page_number": "Reproduced: p. 37, fig. 28",
+          "url": null
+        },
+        {
+          "citation": "<em>The Bulletin of The Cleveland Museum of Art LIX,</em> no.9 (September, 1959): 199.",
+          "page_number": "Reproduced: p. 199",
+          "url": null
+        },
+        {
+          "citation": "\"Bequest of Leonard C. Hannah, Jr.\" <em>The Bulletin of The Cleveland Museum of Art </em>XLVI,no.6 (June, 1959)<em>: </em>122.",
+          "page_number": "Mentioned: p. 122",
+          "url": null
+        },
+        {
+          "citation": "Munson-Williams-Proctor Institute. <em>1913 Armory Show; 50th Anniversary Exhibition, </em>Utica, NY:1963.",
+          "page_number": "Reproduced: p. 191, no. 1047",
+          "url": null
+        },
+        {
+          "citation": "Sachs II, Samuel. \"Reconstructing the Whirlwind of 26th Street.\" <em>ARTnews </em>61 (February 1963): 26.",
+          "page_number": "Reproduced: p. 26",
+          "url": null
+        },
+        {
+          "citation": "Henning, E. B. “Cleveland Museum of Art: From Turner to Guston.” <em>Apollo: The International Magazine for Collectors</em> 78 (December 1963): 481–88.",
+          "page_number": "Reproduced: p. 486",
+          "url": null
+        },
+        {
+          "citation": "The Cleveland Museum of Art. <em>Handbook of the Cleveland Museum of Art/1966</em>. Cleveland, OH: The Cleveland Museum of Art, 1966.",
+          "page_number": "Reproduced: p. 178",
+          "url": "https://archive.org/details/CMAHandbook1966/page/n202"
+        },
+        {
+          "citation": "Christie, Manson &amp; Woods. <em>Important Impressionist and Modern Drawings, Paintings and Sculpture. </em>1966.",
+          "page_number": "Mentioned & reproduced: lot no. 49",
+          "url": null
+        },
+        {
+          "citation": "The Cleveland Museum of Art. <em>Handbook of the Cleveland Museum of Art/1969</em>. Cleveland, OH: The Cleveland Museum of Art, 1969.",
+          "page_number": "Reproduced: p. 178",
+          "url": null
+        },
+        {
+          "citation": "De la Faille, J.-B. <em>The Works of Vincent Van Gogh; His Paintings and Drawings.</em> Amsterdam: Meulenhoff International, 1970.",
+          "page_number": "Mentioned and reproduced: no. 786",
+          "url": null
+        },
+        {
+          "citation": "Lecaldano, Paolo. <em>L'opera pittorica completa di Van Gogh e i suoi nessi grafici.</em> Milan, IT: Rizzoli, 1971.",
+          "page_number": "Reproduced: no. 841",
+          "url": null
+        },
+        {
+          "citation": "Lubin, Albert J.<em> Stranger on the Earth; A Psychological Biography of Vincent Van Gogh</em>. New York, NY: Holt, Rinehart Winston, 1972.",
+          "page_number": "Reproduced: p. 232, pl. 19",
+          "url": null
+        },
+        {
+          "citation": "Henning, Edward B. \"Pablo Picasso: Bouteille, Verre, et Fourchette.\" <em>The Bulletin of the Cleveland Museum of Art </em>LIX, no. 7 (September 1972): 194-203.",
+          "page_number": "Mentioned and reproduced: p. 199, fig. 12",
+          "url": null
+        },
+        {
+          "citation": "Henning, Edward. \"Reconstruction: A Painting by Jasper Johns.\" <em>The Bulletin of The Cleveland Museum of Art</em> LX, no. 8 (October, 1973): 235-241.",
+          "page_number": "Reproduced: p. 237",
+          "url": null
+        },
+        {
+          "citation": "Johnson, Mark. \"Portrait Painting: An Image of a Man.\" <em>Arts and Activities </em>82, no. 1 (September 1977): 32-38.",
+          "page_number": "Reproduced: p. 37, fig. 5",
+          "url": null
+        },
+        {
+          "citation": "The Cleveland Museum of Art. <em>Handbook of the Cleveland Museum of Art/1978</em>. Cleveland, OH: The Cleveland Museum of Art, 1978.",
+          "page_number": "Reproduced: p. 221",
+          "url": "https://archive.org/details/CMAHandbook1978/page/n241"
+        },
+        {
+          "citation": "Hulsker, Jan. <em>The Complete Van Gogh: Paintings, Drawings, Sketches.</em> New York, NY: H.N. Abrams, 1980.",
+          "page_number": "Reproduced: no. 2036; Detail: p. 485 no. 16",
+          "url": null
+        },
+        {
+          "citation": "Nemecaek, Alfred. \"Der Wirt Ravoux und Seine Tochter-Menschen in Auvers.\" <em>Art: Das Kunstmagazin </em>1 (February 1981): 28.",
+          "page_number": "Reproduced: p. 28",
+          "url": null
+        },
+        {
+          "citation": "Henning, Edward. \"Woman in the Waves by Paul Gauguin.\" <em>The Bulletin of The Cleveland Museum of Art </em>LXXI, no.10 (October, 1984): 280-289.",
+          "page_number": "Reproduced: p. 283",
+          "url": null
+        },
+        {
+          "citation": "Herbert, Robert L., Eleanor S. Apter, and Elise K. Kenney. <em>The Société Anonyme and the Dreier Bequest at Yale University: A Catalogue Raisonné</em>. New Haven, CT: Published for the Yale University Art Gallery by Yale University Press, 1984.",
+          "page_number": "Mentioned: p. 748, 776",
+          "url": null
+        },
+        {
+          "citation": "Van der Marck, Jan. <em>In Quest of Excellence: Civic Pride, Patronage, Connoisseurship</em>. Miami, Fla., U.S.A.: The Center, 1984.",
+          "page_number": "Mentioned: cat no. 124, p. 246, Reproduced: p. 73",
+          "url": null
+        },
+        {
+          "citation": "Ikegami, Chūji. <em>Gohho</em>. Tōkyō, Japan: Shūeisha, 1985.",
+          "page_number": "Reproduced: p. 72",
+          "url": null
+        },
+        {
+          "citation": "<em>Gohho ten</em>. Tokyo, Japan: Tōkyō Shinbun, 1985.",
+          "page_number": "Reproduced: p. 76",
+          "url": null
+        },
+        {
+          "citation": "Mothe, Alain. <em>Vincent van Gogh à Auvers-sur-Oise. </em>Paris, FR: Valhermeil, 1987.",
+          "page_number": "Reproduced: p. 89",
+          "url": null
+        },
+        {
+          "citation": "Henning, Edward B. <em>Creativity in Art and Science</em>, 1860-1960. [Cleveland, Ohio]: Published by the Cleveland Museum of Art in cooperation with Indiana University Press, 1987.",
+          "page_number": "Reproduced: p. 107",
+          "url": null
+        },
+        {
+          "citation": "Brown, Milton W. <em>The Story of the Armory Show.</em> New York, NY: Abbeville Press, 1988.",
+          "page_number": "Reproduced: p. 199; mentioned: p. 272, no. 1047",
+          "url": null
+        },
+        {
+          "citation": "Christie, Manson &amp; Woods International Inc. <em>Impressionist and Modern Paintings and Sculpture, Part I.</em> 1988.",
+          "page_number": "Mentioned and reproduced: p. 56-62, lot no. 22",
+          "url": null
+        },
+        {
+          "citation": "Mukōda, Naoki, and Hideo Takumi. Gohho junrei. Tōkyō: Shinchōsha, 1990.",
+          "page_number": "Reproduced: p. 76",
+          "url": null
+        },
+        {
+          "citation": "Madeline, Laurence. \"Auvers: La Symphonie Inachevee.\" In <em>Van Gogh, Auvers-sur-Oise: Mai-Juillet 1890., </em>8-27. [Paris]: Publié par Beaux-Arts Magazine, Publications, Nuit et jour, 1990.",
+          "page_number": "Reproduced: p. 17",
+          "url": null
+        },
+        {
+          "citation": "Heijbroek, Jan Frederik, and Ester Wouthuysen. <em>Kunst, kennis en commercie: de kunsthandelaar J.H. de Bois (1878-1946)</em>. Amsterdam, NL: Contact, 1993.",
+          "page_number": "Mentioned: p. 44, 200",
+          "url": null
+        },
+        {
+          "citation": "Walther, Ingo F. and Rainer Metzger. <em>Vincent Van Gogh: The Complete Paintings</em>. Köln, DE: Benedikt Taschen, 1993.",
+          "page_number": "Reproduced: p. 667, vol. 2",
+          "url": null
+        },
+        {
+          "citation": "Chong, Alan. <em>European &amp; American Painting in the Cleveland Museum of Art: A Summary Catalogue.</em> Cleveland, Ohio: Cleveland Museum of Art, 1993.",
+          "page_number": "Reproduced: p. 88",
+          "url": null
+        },
+        {
+          "citation": "Gachet, Paul, and Alain Mothe. <em>Les 70 jours de van Gogh à Auvers: essai d'éphéméride dans le décor de l'époque (20 mai-30 juillet 1890), d'après les lettres, documents, souvenirs et déductions, Auvers-sur-Oise, 1959.</em> [Saint-Ouen-l'Aumône]: Editions du Valhermeil, 1994.",
+          "page_number": "Reproduced: p. 154-155, pl. 26",
+          "url": null
+        },
+        {
+          "citation": "Hulsker, Jan. <em>The New Complete Van Gogh: Paintings, Drawings, Sketches: Revised and Enlarged Edition of the Catalogue Raisonné of the Works of Vincent Van Gogh.</em> Philadelphia: John Benjamins Pub. Co, 1996.",
+          "page_number": ":Mentioned and reproduced: p. 466-467",
+          "url": null
+        },
+        {
+          "citation": "D' Argencourt, Louise, and Roger Diederen. <em>Catalogue of Paintings. Pt. 4. European Paintings of the 19th Century. </em>Cleveland: Cleveland Museum of Art, 1974.",
+          "page_number": "Mentioned and reproduced: p. 310-313.",
+          "url": null
+        },
+        {
+          "citation": "Dorn, Roland. <em>Van Gogh Face to Face: The Portraits.</em> New York, NY: Thames &amp; Hudson, 2000.",
+          "page_number": "Reproduced: p. 197",
+          "url": null
+        },
+        {
+          "citation": "Shackelford, George T. M.. <em>Vincent Van Gogh: The Painter and the Portrait.</em> New York, NY: Universe, 2000.",
+          "page_number": "Reproduced: p. 66, no. 50",
+          "url": null
+        },
+        {
+          "citation": "Gogh, Vincent van, and Roland Dorn. <em>Van Gogh Face to Face: The Portraits</em>. New York: Thames &amp; Hudson, 2000.",
+          "page_number": "Mentioned and Reproduced: cat. no. 197",
+          "url": null
+        },
+        {
+          "citation": "Goldin, Marco. <em>Gauguin, Van Gogh: l'avventura del colore nuovo. </em>Conegliano, IT: Linea d'ombra libri, 2005.",
+          "page_number": "Reproduced: p. 26",
+          "url": null
+        },
+        {
+          "citation": "Gross, Jennifer R., and Ruth L. Bohan. <em>The Société Anonyme: Modernism for America</em>. New Haven, CT: Yale University Press in association with the Yale University Art Gallery, 2006.",
+          "page_number": "Reproduced: p. 174",
+          "url": null
+        },
+        {
+          "citation": "Veen, Wouter van der, and Peter Knapp. <em>Van Gogh in Auvers: his last days.</em> New York, NY: Monacelli Press, 2010.",
+          "page_number": "Reproduced: p. 163, fig. 83",
+          "url": null
+        },
+        {
+          "citation": "Franklin, David. <em>Director's Choice: The Cleveland Museum of Art</em>. Cleveland: Cleveland Museum of Art, 2012.",
+          "page_number": "Reproduced: p. 62-63",
+          "url": null
+        },
+        {
+          "citation": "Berman, Avis. 2013. “Forces for the New Collectors and the Armory.” <em>Magazine Antiques</em> 180, no. 1 (January/February 2013: 154-166.",
+          "page_number": "Mentioned: p. 159; reproduced: p. 162, fig. 11",
+          "url": null
+        },
+        {
+          "citation": "Cleveland Museum of Art. <em>Museum Masters: 2016-17 Companion Guide.</em> [Cleveland, Ohio]: Cleveland Museum of Art, 2016.",
+          "page_number": "Mentioned and Reproduced: P. 22",
+          "url": ""
+        },
+        {
+          "citation": "Kahng, Eik, ed. <em>Through Vincent's Eyes: Van Gogh and His Sources. </em>Santa Barbara, CA: Santa Barbara Museum of Art; New Haven, CT: in association with Yale University Press, 2021.",
+          "page_number": "Mentioned and reproduced: P. 198-201, no. 19",
+          "url": ""
+        },
+        {
+          "citation": "Stein, Susan Alyson. \"Van Gogh in New York: Picturing the First Years, 1912-29.\" In <em>Van Gogh in America.</em> Jill Shaw, ed., 56-91. Detroit, Michgan: Detroit Institute of Arts, 2022.",
+          "page_number": "Reproduced: P. 61, pl. 18, no. 65; Mentioned: P. 63",
+          "url": ""
+        },
+        {
+          "citation": "Bakker, Nienke. \"Timless Portraits: On Melancholy and Youth.\" In <em>Van Gogh in Auvers-Sur-Oise: His Final Months </em>edited by Nienke Bakker, Emmanuel Coquery, Teio Meedendorp, and Louis van Tilborgh, 116-133. London: Thames &amp; Hudson Ltd, 2023.",
+          "page_number": "Mentioned: p. 117, 120; Reproduced: p. 122, no. 120.",
+          "url": ""
+        }
+      ],
+      "url": "https://clevelandart.org/art/1958.31",
+      "images": {
+        "annotation": null,
+        "web": {
+          "url": "https://openaccess-cdn.clevelandart.org/1958.31/1958.31_web.jpg",
+          "width": "900",
+          "height": "897",
+          "filesize": "451143",
+          "filename": "1958.31_web.jpg"
+        },
+        "print": {
+          "url": "https://openaccess-cdn.clevelandart.org/1958.31/1958.31_print.jpg",
+          "width": "3400",
+          "height": "3389",
+          "filesize": "6008242",
+          "filename": "1958.31_print.jpg"
+        },
+        "full": {
+          "url": "https://openaccess-cdn.clevelandart.org/1958.31/1958.31_full.tif",
+          "width": "11512",
+          "height": "11476",
+          "filesize": "396370084",
+          "filename": "1958.31_full.tif"
+        }
+      },
+      "alternate_images": [
+        {
+          "date_created": "2005-09-26T18:41:07",
+          "annotation": "",
+          "web": {
+            "url": "https://openaccess-cdn.clevelandart.org/alternate/1958.31/1958.31_alt0_web.jpg",
+            "width": "888",
+            "height": "893",
+            "filesize": "726316"
+          },
+          "print": {
+            "url": "https://openaccess-cdn.clevelandart.org/alternate/1958.31/1958.31_alt0_print.jpg",
+            "width": "3382",
+            "height": "3400",
+            "filesize": "9069857"
+          },
+          "full": {
+            "url": "https://openaccess-cdn.clevelandart.org/alternate/1958.31/1958.31_alt0_full.tif",
+            "width": "3838",
+            "height": "3858",
+            "filesize": "44456268"
+          }
+        },
+        {
+          "date_created": "2017-08-03T09:24:09",
+          "annotation": "",
+          "web": {
+            "url": "https://openaccess-cdn.clevelandart.org/alternate/1958.31/1958.31_alt1_web.jpg",
+            "width": "900",
+            "height": "715",
+            "filesize": "383680"
+          },
+          "print": {
+            "url": "https://openaccess-cdn.clevelandart.org/alternate/1958.31/1958.31_alt1_print.jpg",
+            "width": "3400",
+            "height": "2700",
+            "filesize": "4977409"
+          },
+          "full": {
+            "url": "https://openaccess-cdn.clevelandart.org/alternate/1958.31/1958.31_alt1_full.tif",
+            "width": "15099",
+            "height": "11990",
+            "filesize": "543143224"
+          }
+        }
+      ],
+      "creditline": "Bequest of Leonard C. Hanna, Jr.",
+      "sketchfab_id": null,
+      "sketchfab_url": null,
+      "gallery_donor_text": "Nancy F. and Joseph P. Keithley Gallery",
+      "athena_id": 135299,
+      "creators": [
+        {
+          "id": 1779,
+          "description": "Vincent van Gogh (Dutch, 1853–1890)",
+          "extent": null,
+          "qualifier": null,
+          "role": "artist",
+          "biography": "The son of a clergyman, Vincent van Gogh was sent to The Hague at the age of sixteen to become an apprentice at Goupil &amp; Co., an art dealer with whom his uncle was affiliated. In August 1872 van Gogh began his extensive correspondence with his younger brother Theo, who would join the Brussels branch of the firm the following year. Vincent was transferred to the London offices in 1873 and two years later to the Paris office, but he despised the art trade and was dismissed in 1876. He then taught briefly at a boarding school in Ramsgate and Isleworth, and, back in the Netherlands, worked in a bookshop in Dordrecht before moving to Amsterdam to study theology. In little more than a year he had left the university and entered missionary school, failing again. Still intent on entering the ministry, he moved to the Borinage in Belgium and became a lay evangelist to the miners. Van Gogh finally decided to become an artist in August 1880 and started copying works by Millet (q.v.), the painter of peasant life. With his brother's financial help, he briefly joined the Academy in Brussels. The following year he returned to The Hague, where he received some artistic training from his cousin by marriage, Anton Mauve (1838-1888). There van Gogh met Sien Hoornik, a pregnant prostitute with a five-year-old daughter, with whom he lived briefly. Unable to marry her because of his family's disapproval, he moved in November 1883 from The Hague to the province of Drenthe, a popular place for artists, where he painted and drew laborers and peasants. Feeling terribly lonely, he visited his parents in December 1884 in Nuenen, and it was there that he finally decided to become a painter of peasant life. Van Gogh completed The Potato Eaters (Van Gogh Museum, Amsterdam) in April 1885 and sent it to his brother in Paris. On 25 November he moved to Antwerp, where he reveled in the work of Rubens and first came to know Japanese prints. Van Gogh traveled to Paris in March 1886 and lived with Theo. Under the influence of the impressionists, and works by Monticelli (q.v.), his palette changed to more intense and vibrant colors. He began to associate with Émile Bernard (1868-1941), Henri de Toulouse-Lautrec (1864-1901), Degas (q.v.), Gauguin (q.v.), Pissarro (q.v.), and Seurat (q.v.) and started collecting some of their paintings as well as Japanese prints. He moved to Arles in February 1888. Apart from paintings, he also made some drawings because it was a cheaper medium. Theo encouraged him to submit to the Salon des Indépendants. In May Vincent rented a room in the Yellow House, even though he could hardly afford to do so, and continued to send his work to his brother. In June he became intrigued with the subject of the wheat harvest and painted The Sower (Kröller-Müller Museum, Otterlo). On 23 October 1888, Gauguin arrived in Arles, at a time when van Gogh was having trouble with his eyesight. Gauguin encouraged him to paint from memory, which resulted in Memory of the Garden in Etten (Hermitage, St. Petersburg). The artists, however, had many disagreements, and during a dramatic quarrel on 23 December van Gogh mutilated his ear. He was taken into a hospital in Arles, and Gauguin left for Paris. Van Gogh recovered rapidly and was dismissed on 7 January 1889. In February his neighbors objected to his presence in the Yellow House, and he had to return to the hospital. In April Theo married Johanna Gesina Bonger, who would eventually safeguard most of Vincent's oeuvre. Aware of his mental problems, at the end of April van Gogh checked himself into the asylum of Saint-Paul-de-Mausole in Saint-Rémy, where he was treated by Dr. Peyron. His condition was stable, and he was allowed to work in a makeshift studio. He worked in the garden (Irises, J. Paul Getty Museum, Los Angeles) and painted the fields he could see from his window. Under supervision he painted in the countryside, rendering cypresses and olive trees. Starry Night (Museum of Modern Art, New York) also stems from this period. From July through September he suffered from a severe depression that prevented him from working. He resumed his work from October through December, painting well-known Provençal works and adapting prints after Delacroix (q.v.), Millet, and Rembrandt (1606-1669). In January 1890 he exhibited five works with Les XX in Brussels, selling one of them. After a visit to Arles at the end of February, he became ill again but continued to work. He finally left the asylum, and visited Theo in Paris on his way to Auvers, where he arrived on 20 May. He became close friends with Dr. Gachet and rented a room at the inn of the Ravoux family. He painted the village, portraits, and the surrounding wheat fields. On 27 July 1890, during an episode of depression, van Gogh shot himself in the chest and died two days later.",
+          "name_in_original_language": null,
+          "birth_year": "1853",
+          "death_year": "1890"
+        }
+      ],
+      "legal_status": "accessioned",
+      "accession_date": "1958-11-29T00:00:00",
+      "sortable_date": 1890,
+      "date_text": "1890",
+      "collapse_artists": false,
+      "on_loan": false,
+      "recently_acquired": false,
+      "record_type": "object",
+      "conservation_statement": null,
+      "is_nazi_era_provenance": false,
+      "impression": null,
+      "alternate_titles": [
+        "Mademoiselle Ravoux"
+      ],
+      "is_highlight": false,
+      "updated_at": "2024-05-10 11:01:04.037000"
+    },
+    {
+      "id": "ed99",
+      "title": "Morden ",
+      "creation_date": "2023",
+      "url": "https://i.pinimg.com/564x/3f/af/49/3faf4974c2f67018ca2b543d1b9aadd5.jpg",
+      "images": {
+        "web": {
+          "url": "https://i.pinimg.com/564x/3f/af/49/3faf4974c2f67018ca2b543d1b9aadd5.jpg"
+        }
+      }
+    }
+  ],
+  "user-data": [
+    {
+      "id": "e343",
+      "name": "Kaka",
+      "email": "kaka@gmail.com",
+      "password": "kakak"
+    },
+    {
+      "id": "2da2",
+      "name": "Kaka",
+      "email": "kaka@gmail.com",
+      "password": "kaka"
+    },
+    {
+      "id": "aa90",
+      "name": "Kaka",
+      "email": "kaka@gmail.com",
+      "password": "kaka"
+    },
+    {
+      "id": "fe1f",
+      "email": "kaka@gmail.com",
+      "password": "kakak"
+    },
+    {
+      "id": "098d",
+      "email": "kaka@gmail.com",
+      "password": "kaka"
+    },
+    {
+      "id": "1591",
+      "name": "Kaka",
+      "email": "kaka@gmail.com",
+      "password": "kaka"
+    },
+    {
+      "id": "3bb4",
+      "email": "kaka@gmail.com",
+      "password": "kaka"
+    },
+    {
+      "id": "4c11",
+      "name": "Kaka",
+      "email": "kaka@gmail.com",
+      "password": "kaka"
+    },
+    {
+      "id": "c75c",
+      "name": "Kaka",
+      "email": "kaka@gmail.com",
+      "password": "kaka"
+    },
+    {
+      "id": "1990",
+      "email": "kaka@gmail.com",
+      "password": "kaka"
+    },
+    {
+      "id": "1ddb",
+      "name": "Kaka",
+      "email": "kaka@gmail.com",
+      "password": "kaka"
+    },
+    {
+      "id": "3f15",
+      "name": "Blair",
+      "email": "tonnyblair09@gmail.com",
+      "password": "1234"
+    },
+    {
+      "id": "9f08",
+      "email": "",
+      "password": ""
+    },
+    {
+      "id": "6ab9",
+      "name": "Kaka",
+      "email": "kaka@gmail.com",
+      "password": "kaka"
+    },
+    {
+      "id": "926a",
+      "name": "Kaka",
+      "email": "kaka@gmail.com",
+      "password": "kaka"
+    },
+    {
+      "id": "799a",
+      "name": "",
+      "email": "",
+      "password": ""
+    },
+    {
+      "id": "16f8",
+      "email": "kaka@gmail.com",
+      "password": "kaka"
+    },
+    {
+      "id": "9276",
+      "email": "",
+      "password": ""
+    },
+    {
+      "id": "c9d6",
+      "email": "kaka@gmail.com",
+      "password": "kaka"
+    },
+    {
+      "id": "5b03",
+      "email": "kaka@gmail.com",
+      "password": "kaka"
+    },
+    {
+      "id": "23ad",
+      "name": "Kaka",
+      "email": "kaka@gmail.com",
+      "password": "ksks"
+    },
+    {
+      "id": "326a",
+      "email": "kaka@gmail.com",
+      "password": "kaka"
+    },
+    {
+      "id": "1fca",
+      "email": "",
+      "password": ""
+    },
+    {
+      "id": "ced4",
+      "email": "",
+      "password": ""
+    },
+    {
+      "id": "84ad",
+      "email": "",
+      "password": ""
+    },
+    {
+      "id": "fe0d",
+      "email": "kaka@gmail.com",
+      "password": "kaka"
+    },
+    {
+      "id": "0b3d",
+      "email": "",
+      "password": ""
+    },
+    {
+      "id": "da28",
+      "email": "",
+      "password": ""
+    },
+    {
+      "id": "e57e",
+      "email": "kaka@gmail.com",
+      "password": "kaka"
+    },
+    {
+      "id": "e927",
+      "email": "",
+      "password": ""
+    },
+    {
+      "id": "7e5f",
+      "email": "",
+      "password": ""
+    },
+    {
+      "id": "cf78",
+      "email": "kaka@gmail.com",
+      "password": ""
+    },
+    {
+      "id": "f47d",
+      "name": "Kaka",
+      "email": "kaka@gmail.com",
+      "password": "kaka"
+    },
+    {
+      "id": "6b15",
+      "email": "kaka@gmail.com",
+      "password": "kaka"
+    },
+    {
+      "id": "a358",
+      "email": "kaka@gmail.com",
+      "password": "kaka"
+    },
+    {
+      "id": "99ee",
+      "name": "Kaka",
+      "email": "kaka@gmail.com",
+      "password": "kaka"
+    },
+    {
+      "id": "ad5c",
+      "email": "kaka@gmail.com",
+      "password": "kaka"
+    },
+    {
+      "id": "e27b",
+      "email": "",
+      "password": ""
+    }
+  ]
+}
