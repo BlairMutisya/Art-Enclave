@@ -18,7 +18,7 @@ const LoginRegisterPage = () => {
 
     const handleSignUp = async () => {
         try {
-            await Axios.post("http://localhost:3000/user-data", signUpData);
+            await Axios.post("http://localhost:3002/user-data", signUpData);
             alert("Sign up successful!");
         } catch (error) {
             console.error("Error signing up:", error);
@@ -27,7 +27,7 @@ const LoginRegisterPage = () => {
 
     const handleLogin = async () => {
         try {
-            await Axios.post("http://localhost:3000/user-data", loginData);
+            await Axios.post("http://localhost:3002/user-data", loginData);
             alert(`Welcome to Art Enclave!`);
             navigate("/collection");
         } catch (error) {
