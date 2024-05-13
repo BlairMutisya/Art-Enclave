@@ -11,7 +11,7 @@ const CollectionPage = () => {
 
   const fetchCollection = async () => {
     try {
-      const response = await fetch('http://localhost:3000/collection');
+      const response = await fetch('https://json-server-template-s4mp.onrender.com/collection');
       const data = await response.json();
       setCollection(data);
     } catch (error) {
@@ -21,7 +21,7 @@ const CollectionPage = () => {
 
   const addToCollection = async () => {
     try {
-      const response = await fetch('http://localhost:3000/collection', {
+      const response = await fetch('https://json-server-template-s4mp.onrender.com/collection', {
         method: 'POST',
         headers: {
           'Content-Type': 'application/json',
@@ -43,7 +43,7 @@ const CollectionPage = () => {
 
   const removeFromCollection = async (id) => {
     try {
-      await fetch(`http://localhost:3000/collection/${id}`, {
+      await fetch(`https://json-server-template-s4mp.onrender.com/collection/${id}`, {
         method: 'DELETE',
       });
       setCollection(prevCollection => prevCollection.filter(item => item.id !== id));

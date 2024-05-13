@@ -23,7 +23,7 @@ const Home = () => {
 
   const addToCollection = async (artwork) => {
     try {
-      const response = await fetch("http://localhost:3000/collection", {
+      const response = await fetch("https://json-server-template-s4mp.onrender.com/collection", {
         method: "POST",
         headers: {
           "Content-Type": "application/json",
