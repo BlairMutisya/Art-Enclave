@@ -3,7 +3,7 @@ import React, { useState, useEffect } from 'react';
 const CollectionPage = () => {
   const [collection, setCollection] = useState([]);
   const [newArtwork, setNewArtwork] = useState({ title: '', creation_date: '', url: '' });
-  const [ setSubmitted] = useState(false);
+  const [setSubmitted] = useState(false);
 
   useEffect(() => {
     fetchCollection();
