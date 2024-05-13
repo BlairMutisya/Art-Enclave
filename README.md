@@ -1,70 +1,34 @@
-# Getting Started with Create React App
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+![Screenshot 2024-05-13 022744](https://github.com/BlairMutisya/Art-Enclave/assets/122833274/a4d1b0e7-00a0-48ff-9130-fd0925ad0ccc)
 
-## Available Scripts
+# Art Enclave
+Art Enclave is an immersive museum library that aims to redefine the way art enthusiasts explore, appreciate, and engage with diverse forms of artistic expression. With a commitment to promoting cultural enrichment, creativity, and community interaction, Art Enclave serves as a digital sanctuary for art lovers, students, educators, and connoisseurs alike. By harnessing the power of React.js and API intergration, Art Enclave seeks to provide users with a seamless and visually stunning platform for discovering the wonders of the art world.
 
-In the project directory, you can run:
+## Minimum Viable Product
+* User-friendly website with intuitive navigation, responsive design, and visually appealing layouts.
+* Extensive collection of artworks spanning various styles, periods, and mediums, sourced from renowned museums and galleries worldwide.
+* Advanced posting functionality enabling users to add artworks to their own collection based on artist name, art movement, creation year, and keywords.
+* Integration with external APIs for accessing additional art-related content, such as artist biographies, art critiques, and historical context.
 
-### `npm start`
+## Features
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+* **Art Gallery:** Immerse yourself in a virtual art gallery showcasing a diverse selection of masterpieces, from Renaissance classics to contemporary works of art.
+* **Advanced Posting Options:** Discover artworks with ease using advanced posting intergration, including artist name, art movement, creation year, and more.
+* **Artwork Collections:** Explore curated collections curated by theme, style, or historical period, offering insights into different aspects of the art world.
+* **Artist Profiles:** Delve into detailed artist profiles featuring biographies, portfolios, and insights into the lives and works of celebrated artists.
+* **Login feature:** It enables the users to login their data for easy managing of their own collections.
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+## Technologies Used
+1. [HTML](https://www.w3schools.com/html/)
+2. [React.js](https://react.dev/)
+3. [CSS](https://www.w3schools.com/css/)
+4. [Google Fonts](https://fonts.google.com/)
+5. [API Integration](https://api.artic.edu/api/v1/artworks/129884)
 
-### `npm test`
+## Author
+* [Blair Mutisya Vullu](https://www.linkedin.com/in/blair-mutisya-59a829217/)
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+## Live Demo
+[Art Enclave](https://art-enclave.vercel.app/)
 
-### `npm run build`
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
-
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
-
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
-
-### `npm run eject`
-
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
-
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
-
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
